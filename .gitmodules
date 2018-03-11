@@ -1,0 +1,6 @@
+[submodule "pcb/kicad/keebs.pretty"]
+	path = pcb/kicad/keebs.pretty
+	url = https://github.com/egladman/keebs.pretty
+[submodule "pcb/kicad/keyboard_parts.pretty"]
+	path = pcb/kicad/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty
