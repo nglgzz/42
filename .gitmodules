@@ -4,3 +4,6 @@
 [submodule "pcb/kicad/keyboard_parts.pretty"]
 	path = pcb/kicad/keyboard_parts.pretty
 	url = https://github.com/tmk/keyboard_parts.pretty
+[submodule "firmware/tmk_keyboard"]
+	path = firmware/tmk_keyboard
+	url = https://github.com/tmk/tmk_keyboard
