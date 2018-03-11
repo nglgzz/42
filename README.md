@@ -4,11 +4,11 @@ necessary to build and configure one yourself.
 
 ## Structure
 You can find the source code for building the firmware and customizing the
-layout in the `firmware` folder.
+layout in the **firmware** folder.
 
-In the `pcb` folder there are files for producing or changing the circuit board.
+In the **pcb** folder there are files for producing or changing the circuit board.
 
-For laser cutting the case, you can go in the `case` folder and you'll find the
+For laser cutting the case, you can go in the **case** folder and you'll find the
 files in both DXF and SVG formats.
 
 ## Useful resources
