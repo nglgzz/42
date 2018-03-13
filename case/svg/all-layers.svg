@@ -1,1168 +1,1136 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="326.144205275mm" height="203.396228541mm" viewBox="0 0 326.144205275 203.396228541" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="mirror005" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror005_nwe0000"  d="M 268.993586463 -196.998786236 L 205.493586483 -196.997179392 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line244</title>
-</g>
-<g id="mirror004" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror004_nwe0000"  d="M 284.498332512 -83.5000405416 L 279.497199965 -88.5009199914 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line242</title>
-</g>
-<g id="mirror003" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror003_nwe0000"  d="M 239.99658892 -110.75108245 L 234.99825045 -115.748913971 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line243</title>
-</g>
-<g id="mirror006" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror006_nwe0000"  d="M 279.496965951 -97.7488059884 L 279.497199965 -88.5009199914 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line246</title>
-</g>
-<g id="Line408" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line408_nwe0000"  d="M 117.749646 -98.497954 L 118.4992 -99.250302 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line408</title>
-</g>
-<g id="Line424" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line424_nwe0000"  d="M 89.019626 -12.768556 L 102.979626 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line424</title>
-</g>
-<g id="Line419" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line419_nwe0000"  d="M 69.268332 -23.728562 L 69.268332 -9.768562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line419</title>
-</g>
-<g id="mirror047" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror047_nwe0000"  d="M 206.499233593 -5.2499785597 L 211.749667165 -5.21321793268e-05 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line267</title>
-</g>
-<g id="mirror041" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="314.748005395" cy="-76.5089877455" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Mirror of Circle021</title>
-</g>
-<g id="Line407" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line407_nwe0000"  d="M 143.250809 -14.869534 L 133.250473 -14.869534 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line407</title>
-</g>
-<g id="mirror046" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror046_nwe0000"  d="M 282.998445796 -7.74831633075 L 314.748445796 -7.74831374551 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line266</title>
-</g>
-<g id="Line439" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line439_nwe0000"  d="M 29.769554 -71.22834 L 29.769554 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line439</title>
-</g>
-<g id="Arc004" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Arc004_nwe0000"  d="M 158.750017674 -10.2481940141 A 5.000018 5.000018 0 0 1 153.749573004 -5.24998201823 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Arc004</title>
-</g>
-<g id="Line434" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line434_nwe0000"  d="M 102.979626 -86.229326 L 89.019626 -86.229326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line434</title>
-</g>
-<g id="mirror034" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror034_w0000"  d="M 196.247802407 -113.499191394 L 165.998434407 -113.499193857 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Polyline026</title>
-</g>
-<g id="Polyline034" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline034_w0000"  d="M 131.859467 -18.869534 L 131.859467 -66.28894 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline034</title>
-</g>
-<g id="Line361" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line361_nwe0000"  d="M 108.771428 -68.729996 L 108.771428 -54.769996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line361</title>
-</g>
-<g id="mirror040" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="314.748000203" cy="-12.7479877455" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Mirror of Circle020</title>
-</g>
-<g id="Polyline042" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline042_w0000"  d="M 158.750076 -82.999702 L 149.131028 -82.9997 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline042</title>
-</g>
-<g id="mirror035" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror035_w0000"  d="M 245.747065781 -81.2490613639 L 314.997879781 -81.2490557252 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Polyline027</title>
-</g>
-<g id="mirror032" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror032_nwe0000"  d="M 240.748854779 -93.4999897709 L 235.746579186 -98.4979481782 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line262</title>
-</g>
-<g id="Line429" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line429_nwe0000"  d="M 102.979626 -52.270128 L 102.979626 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line429</title>
-</g>
-<g id="Line393" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line393_nwe0000"  d="M 49.519832 -66.230128 L 49.519832 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line393</title>
-</g>
-<g id="Line387" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line387_nwe0000"  d="M 113.248764 -5.249982 L 133.249176 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line387</title>
-</g>
-<g id="Line431" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line431_nwe0000"  d="M 89.019626 -66.230128 L 89.019626 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line431</title>
-</g>
-<g id="Line433" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line433_nwe0000"  d="M 102.979626 -72.269326 L 102.979626 -86.229326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line433</title>
-</g>
-<g id="Line355" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line355_nwe0000"  d="M 108.771428 -15.269694 L 122.731428 -15.269694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line355</title>
-</g>
-<g id="Line411" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line411_nwe0000"  d="M 69.268332 -49.76899 L 83.228332 -49.76899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line411</title>
-</g>
-<g id="Line391" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line391_nwe0000"  d="M 63.479832 -32.518326 L 63.479832 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line391</title>
-</g>
-<g id="Line356" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line356_nwe0000"  d="M 108.771428 -88.478496 L 108.771428 -74.518496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line356</title>
-</g>
-<g id="Circle022" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="153.75" cy="-108.5" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle022</title>
-</g>
-<g id="mirror001" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror001_w0000"  d="M 319.745531446 -186.751932478 L 319.747193624 -88.5019382117 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line240</title>
-</g>
-<g id="Line381" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line381_nwe0000"  d="M 43.729554 -31.729562 L 29.769554 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line381</title>
-</g>
-<g id="Line406" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line406_nwe0000"  d="M 150.640234 -66.28894 L 131.859472 -66.28894 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line406</title>
-</g>
-<g id="Line401" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line401_nwe0000"  d="M 10.021054 -71.22834 L 10.021054 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line401</title>
-</g>
-<g id="Line422" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line422_nwe0000"  d="M 102.979626 -26.728556 L 89.019626 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line422</title>
-</g>
-<g id="Line367" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line367_nwe0000"  d="M 149.131028 -72.998068 L 158.750076 -72.998068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line367</title>
-</g>
-<g id="Polyline036" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline036_w0000"  d="M 149.131028 -72.998068 L 149.131028 -82.9997 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline036</title>
-</g>
-<g id="Line426" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line426_nwe0000"  d="M 102.979626 -46.478326 L 89.019626 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line426</title>
-</g>
-<g id="Polyline043" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline043_w0000"  d="M 23.981054 -31.729562 L 10.021054 -31.729563 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline043</title>
-</g>
-<g id="Polyline035" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline035_w0000"  d="M 23.981054 -17.769562 L 10.021054 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline035</title>
-</g>
-<g id="Line443" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line443_nwe0000"  d="M 29.769554 -51.478062 L 29.769554 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line443</title>
-</g>
-<g id="Line370" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line370_nwe0000"  d="M 10.021054 -37.518062 L 23.981054 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line370</title>
-</g>
-<g id="Line388" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line388_nwe0000"  d="M 63.479832 -26.728556 L 49.519832 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line388</title>
-</g>
-<g id="Polyline039" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline039_w0000"  d="M 123.500206 -113.499194 L 153.749574 -113.499194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline039</title>
-</g>
-<g id="Line405" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line405_nwe0000"  d="M 158.750076 -10.248194 L 158.750076 -72.998068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line405</title>
-</g>
-<g id="Line427" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line427_nwe0000"  d="M 89.019626 -46.478326 L 89.019626 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line427</title>
-</g>
-<g id="Line398" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line398_nwe0000"  d="M 128.519928 -89.519482 L 142.479928 -89.519482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line398</title>
-</g>
-<g id="Line358" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line358_nwe0000"  d="M 122.731428 -48.978194 L 108.771428 -48.978194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line358</title>
-</g>
-<g id="Line394" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line394_nwe0000"  d="M 84.001428 -98.497954 L 117.749646 -98.497954 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line394</title>
-</g>
-<g id="Polyline040" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline040_w0000"  d="M 74.00094 -81.249068 L 4.750126 -81.249068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline040</title>
-</g>
-<g id="Arc006" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Arc006_nwe0000"  d="M 4.99955398753 -7.74807201989 A 4.999928 4.999928 0 0 1 7.20000000003e-05 -12.748 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Arc006</title>
-</g>
-<g id="Line436" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line436_nwe0000"  d="M 89.019626 -86.229326 L 89.019626 -72.269326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line436</title>
-</g>
-<g id="Line402" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line402_nwe0000"  d="M 63.479832 -46.478326 L 49.519832 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line402</title>
-</g>
-<g id="Line416" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line416_nwe0000"  d="M 83.228332 -23.728562 L 69.268332 -23.728562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line416</title>
-</g>
-<g id="Line399" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line399_nwe0000"  d="M 108.771428 -35.018194 L 122.731428 -35.018194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line399</title>
-</g>
-<g id="Line410" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line410_nwe0000"  d="M 36.749554 -7.748326 L 4.999554 -7.748326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line410</title>
-</g>
-<g id="Arc005" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Arc005_nwe0000"  d="M 153.749574034 -113.499193982 A 4.999194 4.999194 0 0 1 158.749193672 -108.498188291 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Arc005</title>
-</g>
-<g id="Line441" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line441_nwe0000"  d="M 43.729554 -37.518062 L 43.729554 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line441</title>
-</g>
-<g id="Line404" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line404_nwe0000"  d="M 49.519832 -32.518326 L 63.479832 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line404</title>
-</g>
-<g id="Polyline041" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline041_w0000"  d="M 150.640228 -18.869534 L 150.640228 -66.28894 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline041</title>
-</g>
-<g id="Line425" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line425_nwe0000"  d="M 102.979626 -32.518326 L 102.979626 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line425</title>
-</g>
-<g id="Line400" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line400_nwe0000"  d="M 23.981054 -57.26834 L 23.981054 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line400</title>
-</g>
-<g id="Line362" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line362_nwe0000"  d="M 108.771428 -74.518496 L 122.731428 -74.518496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line362</title>
-</g>
-<g id="Line359" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line359_nwe0000"  d="M 128.519928 -103.479482 L 128.519928 -89.519482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line359</title>
-</g>
-<g id="Line369" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line369_nwe0000"  d="M 108.771428 -29.229694 L 108.771428 -15.269694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line369</title>
-</g>
-<g id="Line428" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line428_nwe0000"  d="M 89.019626 -32.518326 L 102.979626 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line428</title>
-</g>
-<g id="Line437" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line437_nwe0000"  d="M 122.731428 -74.518496 L 122.731428 -88.478496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line437</title>
-</g>
-<g id="Line423" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line423_nwe0000"  d="M 89.019626 -26.728556 L 89.019626 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line423</title>
-</g>
-<g id="Line435" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line435_nwe0000"  d="M 89.019626 -72.269326 L 102.979626 -72.269326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line435</title>
-</g>
-<g id="Line430" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line430_nwe0000"  d="M 102.979626 -66.230128 L 89.019626 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line430</title>
-</g>
-<g id="Line357" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line357_nwe0000"  d="M 122.731428 -35.018194 L 122.731428 -48.978194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line357</title>
-</g>
-<g id="Polyline038" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline038_w0000"  d="M 23.981054 -17.769562 L 23.981054 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline038</title>
-</g>
-<g id="Line373" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line373_nwe0000"  d="M 108.771428 -48.978194 L 108.771428 -35.018194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line373</title>
-</g>
-<g id="Line413" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line413_nwe0000"  d="M 83.228332 -30.019982 L 83.228332 -43.979982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line413</title>
-</g>
-<g id="Line365" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line365_nwe0000"  d="M 10.021054 -17.769562 L 10.021054 -31.729563 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line365</title>
-</g>
-<g id="Line360" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line360_nwe0000"  d="M 142.479928 -89.519482 L 142.479928 -103.479482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line360</title>
-</g>
-<g id="Line389" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line389_nwe0000"  d="M 49.519832 -26.728556 L 49.519832 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line389</title>
-</g>
-<g id="Line414" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line414_nwe0000"  d="M 69.268332 -30.019982 L 83.228332 -30.019982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line414</title>
-</g>
-<g id="mirror002" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror002_w0000"  d="M 274.244153309 -191.748993098 L 314.7449603 -191.750017938 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line241</title>
-</g>
-<g id="Line438" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line438_nwe0000"  d="M 43.729554 -71.22834 L 29.769554 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line438</title>
-</g>
-<g id="Line421" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line421_nwe0000"  d="M 102.979626 -12.768556 L 102.979626 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line421</title>
-</g>
-<g id="Line418" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line418_nwe0000"  d="M 113.248766 -5.249982 L 107.998332 -5.59999999998e-05 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line418</title>
-</g>
-<g id="Line390" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line390_nwe0000"  d="M 49.519832 -12.768556 L 63.479832 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line390</title>
-</g>
-<g id="Line397" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line397_nwe0000"  d="M 10.021054 -57.26834 L 23.981054 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line397</title>
-</g>
-<g id="Line368" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line368_nwe0000"  d="M 122.731428 -29.229694 L 108.771428 -29.229694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line368</title>
-</g>
-<g id="Line395" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line395_nwe0000"  d="M 49.519832 -52.270128 L 63.479832 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line395</title>
-</g>
-<g id="Line372" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line372_nwe0000"  d="M 29.769554 -37.518062 L 43.729554 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line372</title>
-</g>
-<g id="Line417" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line417_nwe0000"  d="M 83.228332 -9.768562 L 83.228332 -23.728562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line417</title>
-</g>
-<g id="Arc007" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Arc007_nwe0000"  d="M 7.20016980118e-05 -76.4987599909 A 4.750054 4.750054 0 0 1 4.750126 -81.248941 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Arc007</title>
-</g>
-<g id="Line412" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line412_nwe0000"  d="M 83.228332 -43.979982 L 69.268332 -43.979982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line412</title>
-</g>
-<g id="Line366" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line366_nwe0000"  d="M 10.021054 -51.478062 L 10.021054 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line366</title>
-</g>
-<g id="Line440" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line440_nwe0000"  d="M 29.769554 -57.26834 L 43.729554 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line440</title>
-</g>
-<g id="Circle021" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="5.0" cy="-76.509" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle021</title>
-</g>
-<g id="Circle023" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="153.75" cy="-10.25" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle023</title>
-</g>
-<g id="mirror043" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="165.998" cy="-10.2499998575" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Mirror of Circle023</title>
-</g>
-<g id="Line442" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line442_nwe0000"  d="M 43.729554 -51.478062 L 29.769554 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line442</title>
-</g>
-<g id="mirror045" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror045_nwe0000"  d="M 319.747928203 -12.7480493384 L 319.747933394 -76.4987473384 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line265</title>
-</g>
-<g id="mirror044" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror044_nwe0000"  d="M 201.998361186 -98.4979509262 L 201.248807247 -99.2502989872 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line264</title>
-</g>
-<g id="Line382" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line382_nwe0000"  d="M 78.999152 -86.247026 L 74.00094 -81.249068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line382</title>
-</g>
-<g id="Line371" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line371_nwe0000"  d="M 158.750076 -108.498184 L 158.750076 -82.999702 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line371</title>
-</g>
-<g id="Line385" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line385_nwe0000"  d="M 122.731428 -68.729996 L 108.771428 -68.729996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line385</title>
-</g>
-<g id="Line349" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line349_nwe0000"  d="M 143.250809 -5.249982 L 153.749573 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line349</title>
-</g>
-<g id="Line396" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line396_nwe0000"  d="M 122.731428 -88.478496 L 108.771428 -88.478496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line396</title>
-</g>
-<g id="Line244" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line244_nwe0000"  d="M 95.268987606 -184.232557041 L 95.2691597355 -170.272557042 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line244</title>
-</g>
-<g id="Line415" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line415_nwe0000"  d="M 69.268332 -43.979982 L 69.268332 -30.019982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line415</title>
-</g>
-<g id="Circle020" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="5.0" cy="-12.748" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle020</title>
-</g>
-<g id="Line403" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line403_nwe0000"  d="M 49.519832 -46.478326 L 49.519832 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line403</title>
-</g>
-<g id="Line384" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line384_nwe0000"  d="M 43.729554 -17.769562 L 43.729554 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line384</title>
-</g>
-<g id="Line420" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line420_nwe0000"  d="M 69.268332 -9.768562 L 83.228332 -9.768562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line420</title>
-</g>
-<g id="Polyline037" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline037_w0000"  d="M 150.640228 -18.869534 L 131.859467 -18.869534 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline037</title>
-</g>
-<g id="Top_1" transform="translate(3.198780,3.197445) scale(1,-1)">
-<title>Bottom Left</title>
-</g>
-<g id="Line383" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line383_nwe0000"  d="M 23.981054 -71.22834 L 10.021054 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line383</title>
-</g>
-<g id="Line432" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line432_nwe0000"  d="M 89.019626 -52.270128 L 102.979626 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line432</title>
-</g>
-<g id="Line240" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line240_nwe0000"  d="M 95.2696467975 -130.770985045 L 109.229646796 -130.771157175 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line240</title>
-</g>
-<g id="Line392" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line392_nwe0000"  d="M 142.479928 -103.479482 L 128.519928 -103.479482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line392</title>
-</g>
-<g id="mirror042" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="165.998008" cy="-108.499999858" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Mirror of Circle022</title>
-</g>
-<g id="Group" transform="translate(3.198780,3.197445) scale(1,-1)">
+<svg width="326.1442044mm" height="203.3962284mm" viewBox="0 0 326.1442044 203.3962284" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Bottom_Right" transform="translate(3.198779,3.197445) scale(1,-1)">
 <title>Bottom Right</title>
 </g>
-<g id="mirror007" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror007_nwe0000"  d="M 244.999174924 -98.5002810347 L 278.747392913 -98.501135021 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line247</title>
-</g>
-<g id="mirror" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror_nwe0000"  d="M 205.493586483 -196.997179392 L 197.745004553 -189.248713314 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line245</title>
-</g>
-<g id="mirror026" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror026_nwe0000"  d="M 196.247802407 -113.499191394 L 201.248808 -108.498184987 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line256</title>
-</g>
-<g id="mirror008" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror008_nwe0000"  d="M 239.996772454 -103.498112452 L 244.999174924 -98.5002810347 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line248</title>
-</g>
-<g id="mirror009" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror009_nwe0000"  d="M 239.99658892 -110.75108245 L 239.996772454 -103.498112452 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line249</title>
-</g>
-<g id="mirror036" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror036_nwe0000"  d="M 160.997982326 -10.2481942787 A 5.000018 5.000018 0 0 0 165.998426589 -5.2499818757 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Arc004</title>
-</g>
-<g id="mirror010" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror010_w0000"  d="M 284.498332512 -83.5000405416 L 314.747700502 -83.5008059908 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Polyline024</title>
-</g>
-<g id="mirror038" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror038_nwe0000"  d="M 314.748445809 -7.7480597654 A 4.999928 4.999928 0 0 0 319.747928203 -12.7479873384 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Arc006</title>
-</g>
-<g id="mirror011" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror011_w0000"  d="M 234.99825045 -115.748913971 L 165.747436472 -115.747161604 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Polyline025</title>
-</g>
-<g id="mirror012" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror012_nwe0000"  d="M 319.745531446 -186.751932478 A 5.000018 5.000018 0 0 0 314.744960299 -191.750017938 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Arc</title>
-</g>
-<g id="mirror013" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror013_nwe0000"  d="M 314.747700536 -83.5008060089 A 4.999194 4.999194 0 0 0 319.747193624 -88.5019382114 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Arc001</title>
-</g>
-<g id="mirror014" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror014_nwe0000"  d="M 165.995004544 -189.248163872 A 4.999928 4.999928 0 0 0 160.99564908 -184.248109384 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Arc002</title>
-</g>
-<g id="mirror015" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror015_nwe0000"  d="M 160.997262271 -120.497349413 A 4.750054 4.750054 0 0 0 165.747436469 -115.747288604 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Arc003</title>
-</g>
-<g id="mirror016" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="165.995577078" cy="-184.248235905" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Mirror of Circle016</title>
-</g>
-<g id="mirror017" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="165.997190527" cy="-120.487235926" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Mirror of Circle017</title>
-</g>
-<g id="mirror018" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="314.748" cy="-88.5" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Mirror of Circle018</title>
-</g>
-<g id="mirror019" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="314.745513819" cy="-186.749999969" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Mirror of Circle019</title>
-</g>
-<g id="mirror020" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror020_nwe0000"  d="M 278.747392913 -98.501135021 L 279.496965951 -97.7488059884 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line250</title>
-</g>
-<g id="mirror039" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror039_nwe0000"  d="M 319.747933393 -76.4987473294 A 4.750054 4.750054 0 0 0 314.997879781 -81.2489287252 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Arc007</title>
-</g>
-<g id="mirror021" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror021_nwe0000"  d="M 160.995649081 -184.248047384 L 160.997262269 -120.497349404 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line251</title>
-</g>
-<g id="mirror022" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror022_nwe0000"  d="M 197.745004553 -189.248713314 L 165.995004563 -189.247909892 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line252</title>
-</g>
-<g id="mirror031" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror031_nwe0000"  d="M 235.746579186 -98.4979481782 L 201.998361186 -98.4979509262 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line261</title>
-</g>
-<g id="mirror023" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror023_nwe0000"  d="M 274.244153309 -191.748993098 L 268.993586463 -196.998786236 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line253</title>
-</g>
-<g id="mirror033" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror033_nwe0000"  d="M 240.748854188 -86.2470197709 L 240.748854779 -93.4999897709 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line263</title>
-</g>
-<g id="mirror037" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror037_nwe0000"  d="M 165.998434373 -113.499193839 A 4.999194 4.999194 0 0 0 160.998814328 -108.498188556 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Arc005</title>
-</g>
-<g id="mirror027" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror027_nwe0000"  d="M 240.748854188 -86.2470197709 L 245.747065781 -81.2490613639 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line257</title>
-</g>
-<g id="mirror028" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror028_nwe0000"  d="M 201.248807247 -99.2502989872 L 201.248808 -108.498184987 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line258</title>
-</g>
-<g id="mirror024" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror024_nwe0000"  d="M 275.249667165 -4.69616953165e-05 L 282.998445796 -7.74831633075 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line254</title>
-</g>
-<g id="Group001" transform="translate(3.198780,3.197445) scale(1,-1)">
+<g id="Top_Left" transform="translate(3.198779,3.197445) scale(1,-1)">
 <title>Top Left</title>
 </g>
-<g id="mirror029" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror029_w0000"  d="M 160.997982326 -10.2481942787 L 160.998814328 -108.498188556 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line259</title>
+<g id="Line006" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line006_nwe0000"  d="M 69.268332 -23.728562 L 69.268332 -9.768562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line006</title>
 </g>
-<g id="mirror025" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror025_nwe0000"  d="M 211.749667165 -5.2132179327e-05 L 275.249667165 -4.69616953165e-05 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line255</title>
+<g id="Line001" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line001_nwe0000"  d="M 284.498333 -83.500041 L 279.4972 -88.50092 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line001</title>
 </g>
-<g id="mirror030" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="mirror030_w0000"  d="M 206.499233593 -5.2499785597 L 165.998426589 -5.2499818757 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Mirror of Line260</title>
+<g id="Line005" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line005_nwe0000"  d="M 89.019626 -12.768556 L 102.979626 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line005</title>
 </g>
-<g id="Line246" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line246_nwe0000"  d="M 50.7503301713 -197.000508119 L 114.250330166 -197.001291086 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line246</title>
+<g id="Line004" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line004_nwe0000"  d="M 117.749646 -98.497954 L 118.4992 -99.250302 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line004</title>
 </g>
-<g id="Top_002" transform="translate(3.198780,3.197445) scale(1,-1)">
+<g id="Line044" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line044_nwe0000"  d="M 102.979626 -32.518326 L 102.979626 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line044</title>
+</g>
+<g id="Line097" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line097_nwe0000"  d="M 142.479928 -103.479482 L 128.519928 -103.479482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line097</title>
+</g>
+<g id="Line008" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line008_nwe0000"  d="M 143.250809 -14.869534 L 133.250473 -14.869534 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line008</title>
+</g>
+<g id="Line056" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line056_nwe0000"  d="M 83.228332 -30.019982 L 83.228332 -43.979982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line056</title>
+</g>
+<g id="Line099" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line099_nwe0000"  d="M 211.749667 -5.2e-05 L 275.249667 -4.7e-05 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line099</title>
+</g>
+<g id="Line057" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line057_nwe0000"  d="M 10.021054 -17.769562 L 10.021054 -31.729563 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line057</title>
+</g>
+<g id="Line002" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line002_nwe0000"  d="M 239.996589 -110.751082 L 234.99825 -115.748914 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line002</title>
+</g>
+<g id="Line" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line_nwe0000"  d="M 268.993586 -196.998786 L 205.493586 -196.997179 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line</title>
+</g>
+<g id="Line072" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line072_nwe0000"  d="M 29.769554 -57.26834 L 43.729554 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line072</title>
+</g>
+<g id="Line073" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line073_nwe0000"  d="M 43.729554 -51.478062 L 29.769554 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line073</title>
+</g>
+<g id="Line011" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line011_nwe0000"  d="M 102.979626 -86.229326 L 89.019626 -86.229326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line011</title>
+</g>
+<g id="Line045" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line045_nwe0000"  d="M 23.981054 -57.26834 L 23.981054 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line045</title>
+</g>
+<g id="Line046" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line046_nwe0000"  d="M 108.771428 -74.518496 L 122.731428 -74.518496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line046</title>
+</g>
+<g id="Line018" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line018_nwe0000"  d="M 102.979626 -72.269326 L 102.979626 -86.229326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line018</title>
+</g>
+<g id="Line007" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line007_nwe0000"  d="M 206.499234 -5.249979 L 211.749667 -5.20000000002e-05 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line007</title>
+</g>
+<g id="Line003" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line003_nwe0000"  d="M 279.496966 -97.748806 L 279.4972 -88.50092 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line003</title>
+</g>
+<g id="Line119" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line119_nwe0000"  d="M 29.769554 -31.729562 L 29.769554 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line119</title>
+</g>
+<g id="Line120" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line120_nwe0000"  d="M 29.769554 -17.769562 L 43.729554 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line120</title>
+</g>
+<g id="Line121" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line121_nwe0000"  d="M 118.4992 -99.250302 L 118.4992 -108.498188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line121</title>
+</g>
+<g id="Line122" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line122_nwe0000"  d="M 78.999152 -86.247026 L 78.999152 -93.499996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line122</title>
+</g>
+<g id="Line035" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line035_nwe0000"  d="M 122.731428 -48.978194 L 108.771428 -48.978194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line035</title>
+</g>
+<g id="Line015" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line015_nwe0000"  d="M 49.519832 -66.230128 L 49.519832 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line015</title>
+</g>
+<g id="Line016" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line016_nwe0000"  d="M 113.248764 -5.249982 L 133.249176 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line016</title>
+</g>
+<g id="Line017" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line017_nwe0000"  d="M 89.019626 -66.230128 L 89.019626 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line017</title>
+</g>
+<g id="Line116" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line116_nwe0000"  d="M 122.731428 -15.269694 L 122.731428 -29.229694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line116</title>
+</g>
+<g id="Line117" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line117_nwe0000"  d="M 123.500206 -113.499194 L 118.4992 -108.498188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line117</title>
+</g>
+<g id="Line118" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line118_nwe0000"  d="M 108.771428 -54.769996 L 122.731428 -54.769996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line118</title>
+</g>
+<g id="Line014" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line014_nwe0000"  d="M 102.979626 -52.270128 L 102.979626 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line014</title>
+</g>
+<g id="Line070" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line070_nwe0000"  d="M 83.228332 -43.979982 L 69.268332 -43.979982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line070</title>
+</g>
+<g id="Line071" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line071_nwe0000"  d="M 10.021054 -51.478062 L 10.021054 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line071</title>
+</g>
+<g id="Line020" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line020_nwe0000"  d="M 69.268332 -49.76899 L 83.228332 -49.76899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line020</title>
+</g>
+<g id="Line038" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line038_nwe0000"  d="M 63.479832 -46.478326 L 49.519832 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line038</title>
+</g>
+<g id="Line030" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line030_nwe0000"  d="M 10.021054 -37.518062 L 23.981054 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line030</title>
+</g>
+<g id="Line042" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line042_nwe0000"  d="M 43.729554 -37.518062 L 43.729554 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line042</title>
+</g>
+<g id="Line029" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line029_nwe0000"  d="M 29.769554 -51.478062 L 29.769554 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line029</title>
+</g>
+<g id="Line040" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line040_nwe0000"  d="M 108.771428 -35.018194 L 122.731428 -35.018194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line040</title>
+</g>
+<g id="Line041" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line041_nwe0000"  d="M 36.749554 -7.748326 L 4.999554 -7.748326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line041</title>
+</g>
+<g id="Line010" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line010_nwe0000"  d="M 29.769554 -71.22834 L 29.769554 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line010</title>
+</g>
+<g id="Line026" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line026_nwe0000"  d="M 102.979626 -26.728556 L 89.019626 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line026</title>
+</g>
+<g id="Line025" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line025_nwe0000"  d="M 10.021054 -71.22834 L 10.021054 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line025</title>
+</g>
+<g id="Line021" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line021_nwe0000"  d="M 63.479832 -32.518326 L 63.479832 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line021</title>
+</g>
+<g id="Line022" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line022_nwe0000"  d="M 108.771428 -88.478496 L 108.771428 -74.518496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line022</title>
+</g>
+<g id="Line039" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line039_nwe0000"  d="M 83.228332 -23.728562 L 69.268332 -23.728562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line039</title>
+</g>
+<g id="Line013" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line013_nwe0000"  d="M 240.748855 -93.49999 L 235.746579 -98.497948 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line013</title>
+</g>
+<g id="Line064" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line064_nwe0000"  d="M 49.519832 -12.768556 L 63.479832 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line064</title>
+</g>
+<g id="Top_Right" transform="translate(3.198779,3.197445) scale(1,-1)">
 <title>Top Right</title>
 </g>
-<g id="Line242" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line242_nwe0000"  d="M 89.4811159584 -133.272051672 L 89.4809438289 -147.232051671 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line242</title>
-</g>
-<g id="Line409" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line409_nwe0000"  d="M 7.2e-05 -12.748062 L 7.2e-05 -76.49876 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line409</title>
-</g>
-<g id="Line364" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line364_nwe0000"  d="M 108.771428 -54.769996 L 122.731428 -54.769996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line364</title>
-</g>
-<g id="Line243" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line243_nwe0000"  d="M 95.269474668 -144.730985044 L 95.2696467975 -130.770985045 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line243</title>
-</g>
-<g id="Line245" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line245_nwe0000"  d="M 115.019814295 -139.733016569 L 115.019986425 -125.77301657 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line245</title>
-</g>
-<g id="Line241" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line241_nwe0000"  d="M 15.4979179066 -191.750147449 L 4.9991539074 -191.750017997 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line241</title>
-</g>
-<g id="Line354" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line354_nwe0000"  d="M 122.731428 -15.269694 L 122.731428 -29.229694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line354</title>
-</g>
-<g id="Line363" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line363_nwe0000"  d="M 123.500206 -113.499194 L 118.4992 -108.498188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line363</title>
-</g>
-<g id="Line247" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line247_nwe0000"  d="M 79.7506630414 -103.500925691 L 74.7484486676 -98.5029060126 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line247</title>
-</g>
-<g id="Line248" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line248_nwe0000"  d="M 75.52094383 -147.231879541 L 75.5211159595 -133.271879542 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line248</title>
-</g>
-<g id="Line249" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line249_nwe0000"  d="M 25.4983695168 -182.130718756 L 25.4995509058 -191.750270771 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line249</title>
-</g>
-<g id="Line250" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line250_nwe0000"  d="M 15.4980365175 -182.13059545 L 15.4979179066 -191.750147449 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line250</title>
-</g>
-<g id="Line251" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line251_nwe0000"  d="M 36.01742245 -181.730688458 L 36.0175945795 -167.770688459 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line251</title>
-</g>
-<g id="Line252" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line252_nwe0000"  d="M 49.977422449 -181.730860587 L 36.01742245 -181.730688458 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line252</title>
-</g>
-<g id="Line253" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line253_nwe0000"  d="M 49.9783251276 -108.522058593 L 49.9781529981 -122.482058592 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line253</title>
-</g>
-<g id="Line254" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line254_nwe0000"  d="M 36.0176659528 -161.982188459 L 36.0178380823 -148.02218846 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line254</title>
-</g>
-<g id="Line255" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line255_nwe0000"  d="M 36.0178380823 -148.02218846 L 49.9778380813 -148.02236059 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line255</title>
-</g>
-<g id="Line256" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line256_nwe0000"  d="M 30.2300100941 -93.5208290913 L 30.2298379646 -107.48082909 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line256</title>
-</g>
-<g id="Line257" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line257_nwe0000"  d="M 16.2698379657 -107.480656961 L 16.2700100952 -93.5206569618 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line257</title>
-</g>
-<g id="Line258" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line258_nwe0000"  d="M 49.9780816248 -128.270558591 L 49.9779094953 -142.23055859 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line258</title>
-</g>
-<g id="Line259" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line259_nwe0000"  d="M 49.9781529981 -122.482058592 L 36.0181529992 -122.481886462 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line259</title>
-</g>
-<g id="Line260" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line260_nwe0000"  d="M 35.2498556387 -83.5011789862 L 40.250799975 -88.5022466492 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line260</title>
-</g>
-<g id="Line261" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line261_nwe0000"  d="M 49.9779094953 -142.23055859 L 36.0179094964 -142.230386461 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line261</title>
-</g>
-<g id="Line262" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line262_nwe0000"  d="M 148.727827265 -179.232210199 L 148.727999395 -165.2722092 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line262</title>
-</g>
-<g id="Line263" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line263_nwe0000"  d="M 148.728242898 -145.523710201 L 148.728070768 -159.4837102 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line263</title>
-</g>
-<g id="Line264" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line264_nwe0000"  d="M 9.618534254 -124.00198895 L -0.000513745269728 -124.001870345 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line264</title>
-</g>
-<g id="Line265" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line265_nwe0000"  d="M 36.0175945795 -167.770688459 L 49.9775945784 -167.770860588 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line265</title>
-</g>
-<g id="Line266" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line266_nwe0000"  d="M 49.9775945784 -167.770860588 L 49.977422449 -181.730860587 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line266</title>
-</g>
-<g id="Line267" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line267_nwe0000"  d="M 114.250330166 -197.001291086 L 121.999203704 -189.25311663 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line267</title>
-</g>
-<g id="Line268" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line268_nwe0000"  d="M 148.728070768 -159.4837102 L 134.768070769 -159.483538071 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line268</title>
-</g>
-<g id="Line269" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line269_nwe0000"  d="M -7.60220000018e-05 -88.5017543481 L -0.000390423195597 -114.000236346 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line269</title>
-</g>
-<g id="Line270" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line270_nwe0000"  d="M 128.97957077 -159.483466697 L 115.019570771 -159.483294568 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line270</title>
-</g>
-<g id="Line271" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line271_nwe0000"  d="M 49.9778380813 -148.02236059 L 49.9776659518 -161.982360589 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line271</title>
-</g>
-<g id="Line272" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line272_nwe0000"  d="M 128.979499396 -165.271966697 L 128.979327267 -179.231966696 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line272</title>
-</g>
-<g id="Line273" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line273_nwe0000"  d="M 128.979327267 -179.231966696 L 115.019327268 -179.231794566 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line273</title>
-</g>
-<g id="Line274" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line274_nwe0000"  d="M 40.2506859468 -97.7501326485 L 40.250799975 -88.5022466492 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line274</title>
-</g>
-<g id="Line275" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line275_nwe0000"  d="M 79.7505736109 -110.753895691 L 79.7506630414 -103.500925691 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line275</title>
-</g>
-<g id="Line276" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line276_nwe0000"  d="M 134.768070769 -159.483538071 L 134.768242899 -145.523538072 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line276</title>
-</g>
-<g id="Line277" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line277_nwe0000"  d="M 134.768242899 -145.523538072 L 148.728242898 -145.523710201 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line277</title>
-</g>
-<g id="Line278" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line278_nwe0000"  d="M 75.5211159595 -133.271879542 L 89.4811159584 -133.272051672 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line278</title>
-</g>
-<g id="Line279" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line279_nwe0000"  d="M 115.019499397 -165.271794567 L 128.979499396 -165.271966697 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line279</title>
-</g>
-<g id="Line280" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line280_nwe0000"  d="M 79.7505736109 -110.753895691 L 84.7487239847 -115.751915319 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line280</title>
-</g>
-<g id="Line281" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line281_nwe0000"  d="M 134.768486423 -125.773260073 L 148.728486422 -125.773432203 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line281</title>
-</g>
-<g id="Line282" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line282_nwe0000"  d="M 115.019327268 -179.231794566 L 115.019499397 -165.271794567 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line282</title>
-</g>
-<g id="Line283" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line283_nwe0000"  d="M 36.0180816258 -128.270386462 L 49.9780816248 -128.270558591 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line283</title>
-</g>
-<g id="Line284" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line284_nwe0000"  d="M 36.0179094964 -142.230386461 L 36.0180816258 -128.270386462 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line284</title>
-</g>
-<g id="Line285" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line285_nwe0000"  d="M 45.4999629043 -191.75051738 L 25.4995509058 -191.750270771 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line285</title>
-</g>
-<g id="Line286" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line286_nwe0000"  d="M 95.2691597355 -170.272557042 L 109.229159734 -170.272729172 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line286</title>
-</g>
-<g id="Line287" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line287_nwe0000"  d="M 109.229159734 -170.272729172 L 109.228987605 -184.232729171 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line287</title>
-</g>
-<g id="Line288" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line288_nwe0000"  d="M 109.228987605 -184.232729171 L 95.268987606 -184.232557041 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line288</title>
-</g>
-<g id="Line289" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line289_nwe0000"  d="M 95.2692311245 -164.482787043 L 95.269403254 -150.522787044 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line289</title>
-</g>
-<g id="Line290" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line290_nwe0000"  d="M 16.2700100952 -93.5206569618 L 30.2300100941 -93.5208290913 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line290</title>
-</g>
-<g id="Line291" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line291_nwe0000"  d="M 109.229646796 -130.771157175 L 109.229474667 -144.731157174 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line291</title>
-</g>
-<g id="Line292" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line292_nwe0000"  d="M 74.7484486676 -98.5029060126 L 41.0002306701 -98.5024898905 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line292</title>
-</g>
-<g id="Line293" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line293_nwe0000"  d="M 109.229474667 -144.731157174 L 95.269474668 -144.730985044 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line293</title>
-</g>
-<g id="Line294" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line294_nwe0000"  d="M 36.0183251287 -108.521886463 L 49.9783251276 -108.522058593 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line294</title>
-</g>
-<g id="Line295" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line295_nwe0000"  d="M 148.728314293 -139.733432202 L 134.768314294 -139.733260072 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line295</title>
-</g>
-<g id="Line296" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line296_nwe0000"  d="M 30.2298379646 -107.48082909 L 16.2698379657 -107.480656961 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line296</title>
-</g>
-<g id="Line297" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line297_nwe0000"  d="M 49.9776659518 -161.982360589 L 36.0176659528 -161.982188459 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line297</title>
-</g>
-<g id="Line298" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line298_nwe0000"  d="M 134.768314294 -139.733260072 L 134.768486423 -125.773260073 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line298</title>
-</g>
-<g id="Line299" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line299_nwe0000"  d="M 148.728486422 -125.773432203 L 148.728314293 -139.733432202 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line299</title>
-</g>
-<g id="Line300" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line300_nwe0000"  d="M 95.269403254 -150.522787044 L 109.229403253 -150.522959173 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line300</title>
-</g>
-<g id="Line301" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line301_nwe0000"  d="M 109.229403253 -150.522959173 L 109.229231123 -164.482959172 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line301</title>
-</g>
-<g id="Line302" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line302_nwe0000"  d="M 109.229231123 -164.482959172 L 95.2692311245 -164.482787043 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line302</title>
-</g>
-<g id="Line303" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line303_nwe0000"  d="M -0.00128746330552 -186.751744341 L -0.000513745269728 -124.001870345 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line303</title>
-</g>
-<g id="Line304" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line304_nwe0000"  d="M 8.10924552927 -130.711098341 L 26.8900075278 -130.711329911 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line304</title>
-</g>
-<g id="Line305" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line305_nwe0000"  d="M 15.4980365175 -182.13059545 L 25.4983725168 -182.130718756 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line305</title>
-</g>
-<g id="Line306" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line306_nwe0000"  d="M 41.0002306701 -98.5024898905 L 40.2506859468 -97.7501326485 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line306</title>
-</g>
-<g id="Line307" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line307_nwe0000"  d="M 158.748747348 -184.253833759 L 158.749533407 -120.503135764 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line307</title>
-</g>
-<g id="Line308" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line308_nwe0000"  d="M 121.999203704 -189.25311663 L 153.749203701 -189.253508114 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line308</title>
-</g>
-<g id="Line309" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line309_nwe0000"  d="M 89.4809438289 -147.232051671 L 75.52094383 -147.231879541 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line309</title>
-</g>
-<g id="Line310" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line310_nwe0000"  d="M 75.5208724504 -153.020887541 L 89.4808724493 -153.02105967 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line310</title>
-</g>
-<g id="Line311" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line311_nwe0000"  d="M 75.5207003209 -166.98088754 L 75.5208724504 -153.020887541 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line311</title>
-</g>
-<g id="Line312" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line312_nwe0000"  d="M 89.4807003198 -166.981059669 L 75.5207003209 -166.98088754 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line312</title>
-</g>
-<g id="Line313" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line313_nwe0000"  d="M 89.4808724493 -153.02105967 L 89.4807003198 -166.981059669 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line313</title>
-</g>
-<g id="Line314" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line314_nwe0000"  d="M 75.5206227465 -173.272307539 L 89.4806227454 -173.272479669 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line314</title>
-</g>
-<g id="Line315" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line315_nwe0000"  d="M 75.520450617 -187.232307538 L 75.5206227465 -173.272307539 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line315</title>
-</g>
-<g id="Line316" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line316_nwe0000"  d="M 45.4999609043 -191.75051738 L 50.7503301713 -197.000508119 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line316</title>
-</g>
-<g id="Line317" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line317_nwe0000"  d="M 89.4806227454 -173.272479669 L 89.4804506159 -187.232479668 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line317</title>
-</g>
-<g id="Line318" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line318_nwe0000"  d="M 89.4804506159 -187.232479668 L 75.520450617 -187.232307538 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line318</title>
-</g>
-<g id="Line319" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line319_nwe0000"  d="M 55.769193609 -184.232070001 L 55.7693657385 -170.272070002 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line319</title>
-</g>
-<g id="Line320" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line320_nwe0000"  d="M 55.7693657385 -170.272070002 L 69.7293657374 -170.272242132 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line320</title>
-</g>
-<g id="Line321" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line321_nwe0000"  d="M 69.7293657374 -170.272242132 L 69.7291936079 -184.232242131 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line321</title>
-</g>
-<g id="Line322" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line322_nwe0000"  d="M 69.7291936079 -184.232242131 L 55.769193609 -184.232070001 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line322</title>
-</g>
-<g id="Line323" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line323_nwe0000"  d="M 55.7694371275 -164.482300003 L 55.769609257 -150.522300004 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line323</title>
-</g>
-<g id="Line324" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line324_nwe0000"  d="M 55.769609257 -150.522300004 L 69.7296092559 -150.522472133 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line324</title>
-</g>
-<g id="Line325" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line325_nwe0000"  d="M 69.7296092559 -150.522472133 L 69.7294371264 -164.482472132 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line325</title>
-</g>
-<g id="Line326" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line326_nwe0000"  d="M 69.7294371264 -164.482472132 L 55.7694371275 -164.482300003 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line326</title>
-</g>
-<g id="Line327" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line327_nwe0000"  d="M 55.769680671 -144.730498004 L 55.7698528005 -130.770498005 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line327</title>
-</g>
-<g id="Line328" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line328_nwe0000"  d="M 55.7698528005 -130.770498005 L 69.7298527994 -130.770670135 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line328</title>
-</g>
-<g id="Line329" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line329_nwe0000"  d="M 69.7298527994 -130.770670135 L 69.7296806699 -144.730670134 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line329</title>
-</g>
-<g id="Line330" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line330_nwe0000"  d="M 69.7296806699 -144.730670134 L 55.769680671 -144.730498004 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line330</title>
-</g>
-<g id="Line331" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line331_nwe0000"  d="M 55.769927265 -124.731300006 L 55.7700993945 -110.771300007 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line331</title>
-</g>
-<g id="Line332" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line332_nwe0000"  d="M 55.7700993945 -110.771300007 L 69.7300993934 -110.771472136 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line332</title>
-</g>
-<g id="Line333" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line333_nwe0000"  d="M 69.7299272639 -124.731472135 L 55.769927265 -124.731300006 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line333</title>
-</g>
-<g id="Line334" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line334_nwe0000"  d="M 69.7300993934 -110.771472136 L 69.7299272639 -124.731472135 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line334</title>
-</g>
-<g id="Line335" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line335_nwe0000"  d="M 36.0181529992 -122.481886462 L 36.0183251287 -108.521886463 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line335</title>
-</g>
-<g id="Line336" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line336_nwe0000"  d="M 115.019986425 -125.77301657 L 128.979986424 -125.7731887 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line336</title>
-</g>
-<g id="Line337" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line337_nwe0000"  d="M 128.979986424 -125.7731887 L 128.979814294 -139.733188699 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line337</title>
-</g>
-<g id="Line338" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line338_nwe0000"  d="M 128.979814294 -139.733188699 L 115.019814295 -139.733016569 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line338</title>
-</g>
-<g id="Line339" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line339_nwe0000"  d="M 115.019570771 -159.483294568 L 115.0197429 -145.523294569 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line339</title>
-</g>
-<g id="Line340" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line340_nwe0000"  d="M 115.0197429 -145.523294569 L 128.979742899 -145.523466698 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line340</title>
-</g>
-<g id="Line341" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line341_nwe0000"  d="M 128.979742899 -145.523466698 L 128.97957077 -159.483466697 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line341</title>
-</g>
-<g id="Polyline024" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline024_w0000"  d="M 26.8894278374 -178.130735908 L 26.8900125278 -130.711329911 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<g id="Line065" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line065_nwe0000"  d="M 10.021054 -57.26834 L 23.981054 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line065</title>
+</g>
+<g id="Line060" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line060_nwe0000"  d="M 69.268332 -30.019982 L 83.228332 -30.019982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line060</title>
+</g>
+<g id="Line061" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line061_nwe0000"  d="M 43.729554 -71.22834 L 29.769554 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line061</title>
+</g>
+<g id="Line024" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line024_nwe0000"  d="M 150.640234 -66.28894 L 131.859472 -66.28894 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line024</title>
+</g>
+<g id="Line093" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line093_nwe0000"  d="M 274.244153 -191.748993 L 268.993586 -196.998786 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line093</title>
+</g>
+<g id="Line094" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line094_nwe0000"  d="M 23.981054 -71.22834 L 10.021054 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line094</title>
+</g>
+<g id="Line095" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line095_nwe0000"  d="M 89.019626 -52.270128 L 102.979626 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line095</title>
+</g>
+<g id="Line062" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line062_nwe0000"  d="M 102.979626 -12.768556 L 102.979626 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line062</title>
+</g>
+<g id="Line063" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line063_nwe0000"  d="M 113.248766 -5.249982 L 107.998332 -5.59999999998e-05 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line063</title>
+</g>
+<g id="Line086" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line086_nwe0000"  d="M 205.493586 -196.997179 L 197.745005 -189.248713 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line086</title>
+</g>
+<g id="Line108" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line108_nwe0000"  d="M 107.998332 -5.6e-05 L 44.498332 -5.6e-05 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line108</title>
+</g>
+<g id="Line109" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line109_nwe0000"  d="M 69.268332 -63.72899 L 69.268332 -49.76899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line109</title>
+</g>
+<g id="Line110" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line110_nwe0000"  d="M 63.479832 -52.270128 L 63.479832 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line110</title>
+</g>
+<g id="Line047" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line047_nwe0000"  d="M 128.519928 -103.479482 L 128.519928 -89.519482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line047</title>
+</g>
+<g id="Line048" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line048_nwe0000"  d="M 108.771428 -29.229694 L 108.771428 -15.269694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line048</title>
+</g>
+<g id="Line036" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line036_nwe0000"  d="M 84.001428 -98.497954 L 117.749646 -98.497954 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line036</title>
+</g>
+<g id="Line082" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line082_nwe0000"  d="M 69.268332 -43.979982 L 69.268332 -30.019982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line082</title>
+</g>
+<g id="Line084" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line084_nwe0000"  d="M 43.729554 -17.769562 L 43.729554 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line084</title>
+</g>
+<g id="Line085" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line085_nwe0000"  d="M 69.268332 -9.768562 L 83.228332 -9.768562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line085</title>
+</g>
+<g id="Line054" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line054_nwe0000"  d="M 122.731428 -35.018194 L 122.731428 -48.978194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line054</title>
+</g>
+<g id="Line055" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line055_nwe0000"  d="M 108.771428 -48.978194 L 108.771428 -35.018194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line055</title>
+</g>
+<g id="Line032" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line032_nwe0000"  d="M 158.750076 -10.248194 L 158.750076 -72.998068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line032</title>
+</g>
+<g id="Line090" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line090_nwe0000"  d="M 278.747393 -98.501135 L 279.496966 -97.748806 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line090</title>
+</g>
+<g id="Line091" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line091_nwe0000"  d="M 160.995649 -184.248047 L 160.997262 -120.497349 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line091</title>
+</g>
+<g id="Line092" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line092_nwe0000"  d="M 197.745005 -189.248713 L 165.995005 -189.24791 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line092</title>
+</g>
+<g id="Line096" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line096_nwe0000"  d="M 95.269647 -130.770985 L 109.229647 -130.771157 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line096</title>
+</g>
+<g id="Line100" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line100_nwe0000"  d="M 196.247802 -113.499191 L 201.248808 -108.498185 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line100</title>
+</g>
+<g id="Line101" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line101_nwe0000"  d="M 240.748854 -86.24702 L 245.747066 -81.249061 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line101</title>
+</g>
+<g id="Line079" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line079_nwe0000"  d="M 143.250809 -5.249982 L 153.749573 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line079</title>
+</g>
+<g id="Line080" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line080_nwe0000"  d="M 122.731428 -88.478496 L 108.771428 -88.478496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line080</title>
+</g>
+<g id="Line083" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line083_nwe0000"  d="M 49.519832 -46.478326 L 49.519832 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line083</title>
+</g>
+<g id="Line081" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line081_nwe0000"  d="M 95.268988 -184.232557 L 95.26916 -170.272557 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line081</title>
+</g>
+<g id="Line114" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line114_nwe0000"  d="M 133.250476 -14.869534 L 133.249176 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line114</title>
+</g>
+<g id="Line115" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line115_nwe0000"  d="M 143.250809 -14.869534 L 143.250809 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line115</title>
+</g>
+<g id="Line066" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line066_nwe0000"  d="M 122.731428 -29.229694 L 108.771428 -29.229694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line066</title>
+</g>
+<g id="Line067" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line067_nwe0000"  d="M 49.519832 -52.270128 L 63.479832 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line067</title>
+</g>
+<g id="Line077" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line077_nwe0000"  d="M 158.750076 -108.498184 L 158.750076 -82.999702 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line077</title>
+</g>
+<g id="Line078" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line078_nwe0000"  d="M 122.731428 -68.729996 L 108.771428 -68.729996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line078</title>
+</g>
+<g id="Line146" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line146_nwe0000"  d="M 36.017595 -167.770688 L 49.977595 -167.770861 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line146</title>
+</g>
+<g id="Line147" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line147_nwe0000"  d="M 49.977595 -167.770861 L 49.977422 -181.730861 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line147</title>
+</g>
+<g id="Line148" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line148_nwe0000"  d="M 49.977422 -181.730861 L 36.017422 -181.730688 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line148</title>
+</g>
+<g id="Line149" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line149_nwe0000"  d="M 16.269838 -107.480657 L 16.27001 -93.520657 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line149</title>
+</g>
+<g id="Line150" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line150_nwe0000"  d="M 16.27001 -93.520657 L 30.23001 -93.520829 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line150</title>
+</g>
+<g id="Line151" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line151_nwe0000"  d="M 30.23001 -93.520829 L 30.229838 -107.480829 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line151</title>
+</g>
+<g id="Line037" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line037_nwe0000"  d="M 89.019626 -86.229326 L 89.019626 -72.269326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line037</title>
+</g>
+<g id="Line028" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line028_nwe0000"  d="M 102.979626 -46.478326 L 89.019626 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line028</title>
+</g>
+<g id="Line027" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line027_nwe0000"  d="M 149.131028 -72.998068 L 158.750076 -72.998068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line027</title>
+</g>
+<g id="Line074" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line074_nwe0000"  d="M 319.747928 -12.748049 L 319.747933 -76.498747 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line074</title>
+</g>
+<g id="Line075" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line075_nwe0000"  d="M 201.998361 -98.497951 L 201.248807 -99.250299 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line075</title>
+</g>
+<g id="Line076" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line076_nwe0000"  d="M 78.999152 -86.247026 L 74.00094 -81.249068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line076</title>
+</g>
+<g id="Line111" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line111_nwe0000"  d="M 43.729554 -57.26834 L 43.729554 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line111</title>
+</g>
+<g id="Line112" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line112_nwe0000"  d="M 78.999152 -93.499996 L 84.001428 -98.497954 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line112</title>
+</g>
+<g id="Line113" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line113_nwe0000"  d="M 83.228332 -49.76899 L 83.228332 -63.72899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line113</title>
+</g>
+<g id="Line102" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line102_nwe0000"  d="M 201.248807 -99.250299 L 201.248808 -108.498185 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line102</title>
+</g>
+<g id="Line103" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line103_nwe0000"  d="M 235.746579 -98.497948 L 201.998361 -98.497951 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line103</title>
+</g>
+<g id="Line104" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line104_nwe0000"  d="M 240.748854 -86.24702 L 240.748855 -93.49999 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line104</title>
+</g>
+<g id="Line012" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line012_nwe0000"  d="M 108.771428 -68.729996 L 108.771428 -54.769996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line012</title>
+</g>
+<g id="Line052" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line052_nwe0000"  d="M 89.019626 -72.269326 L 102.979626 -72.269326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line052</title>
+</g>
+<g id="Line098" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line098_nwe0000"  d="M 275.249667 -4.7e-05 L 282.998446 -7.748316 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line098</title>
+</g>
+<g id="Line053" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line053_nwe0000"  d="M 102.979626 -66.230128 L 89.019626 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line053</title>
+</g>
+<g id="Line058" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line058_nwe0000"  d="M 142.479928 -89.519482 L 142.479928 -103.479482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line058</title>
+</g>
+<g id="Line059" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line059_nwe0000"  d="M 49.519832 -26.728556 L 49.519832 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line059</title>
+</g>
+<g id="Line050" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line050_nwe0000"  d="M 122.731428 -74.518496 L 122.731428 -88.478496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line050</title>
+</g>
+<g id="Line051" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line051_nwe0000"  d="M 89.019626 -26.728556 L 89.019626 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line051</title>
+</g>
+<g id="Line034" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line034_nwe0000"  d="M 128.519928 -89.519482 L 142.479928 -89.519482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line034</title>
+</g>
+<g id="Line105" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line105_nwe0000"  d="M 44.498332 -5.6e-05 L 36.749554 -7.748326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line105</title>
+</g>
+<g id="Line106" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line106_nwe0000"  d="M 63.479832 -12.768556 L 63.479832 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line106</title>
+</g>
+<g id="Line107" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line107_nwe0000"  d="M 63.479832 -66.230128 L 49.519832 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line107</title>
+</g>
+<g id="Line087" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line087_nwe0000"  d="M 244.999175 -98.500281 L 278.747393 -98.501135 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line087</title>
+</g>
+<g id="Line088" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line088_nwe0000"  d="M 239.996772 -103.498112 L 244.999175 -98.500281 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line088</title>
+</g>
+<g id="Line089" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line089_nwe0000"  d="M 239.996589 -110.751082 L 239.996772 -103.498112 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line089</title>
+</g>
+<g id="Line049" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line049_nwe0000"  d="M 89.019626 -32.518326 L 102.979626 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line049</title>
+</g>
+<g id="Line019" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line019_nwe0000"  d="M 108.771428 -15.269694 L 122.731428 -15.269694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line019</title>
+</g>
+<g id="Line068" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line068_nwe0000"  d="M 29.769554 -37.518062 L 43.729554 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line068</title>
+</g>
+<g id="Line069" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line069_nwe0000"  d="M 83.228332 -9.768562 L 83.228332 -23.728562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line069</title>
+</g>
+<g id="Line033" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line033_nwe0000"  d="M 89.019626 -46.478326 L 89.019626 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line033</title>
+</g>
+<g id="Line031" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line031_nwe0000"  d="M 63.479832 -26.728556 L 49.519832 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line031</title>
+</g>
+<g id="Line124" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line124_nwe0000"  d="M 23.981054 -51.478062 L 10.021054 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line124</title>
+</g>
+<g id="Line123" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line123_nwe0000"  d="M 23.981054 -37.518062 L 23.981054 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line123</title>
+</g>
+<g id="Line125" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line125_nwe0000"  d="M 83.228332 -63.72899 L 69.268332 -63.72899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line125</title>
+</g>
+<g id="Line126" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line126_nwe0000"  d="M 122.731428 -54.769996 L 122.731428 -68.729996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line126</title>
+</g>
+<g id="Line009" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line009_nwe0000"  d="M 282.998446 -7.748316 L 314.748446 -7.748314 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line009</title>
+</g>
+<g id="Line127" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line127_nwe0000"  d="M 7.2e-05 -12.748062 L 7.2e-05 -76.49876 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line127</title>
+</g>
+<g id="Line128" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line128_nwe0000"  d="M 50.75033 -197.000508 L 114.25033 -197.001291 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line128</title>
+</g>
+<g id="Line129" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line129_nwe0000"  d="M 114.25033 -197.001291 L 121.999204 -189.253117 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line129</title>
+</g>
+<g id="Line130" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line130_nwe0000"  d="M 35.249856 -83.501179 L 40.2508 -88.502247 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line130</title>
+</g>
+<g id="Line131" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line131_nwe0000"  d="M 79.750574 -110.753896 L 84.748724 -115.751915 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line131</title>
+</g>
+<g id="Line132" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line132_nwe0000"  d="M 9.618534 -124.001989 L -0.000514000000001 -124.00187 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line132</title>
+</g>
+<g id="Line133" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line133_nwe0000"  d="M 148.727827 -179.23221 L 148.727999 -165.272209 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line133</title>
+</g>
+<g id="Line134" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line134_nwe0000"  d="M 36.018325 -108.521886 L 49.978325 -108.522059 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line134</title>
+</g>
+<g id="Line135" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line135_nwe0000"  d="M 49.978325 -108.522059 L 49.978153 -122.482059 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line135</title>
+</g>
+<g id="Line141" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line141_nwe0000"  d="M 36.017666 -161.982188 L 36.017838 -148.022188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line141</title>
+</g>
+<g id="Line142" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line142_nwe0000"  d="M 36.017838 -148.022188 L 49.977838 -148.022361 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line142</title>
+</g>
+<g id="Line143" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line143_nwe0000"  d="M 49.977838 -148.022361 L 49.977666 -161.982361 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line143</title>
+</g>
+<g id="Line144" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line144_nwe0000"  d="M 49.977666 -161.982361 L 36.017666 -161.982188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line144</title>
+</g>
+<g id="Line145" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line145_nwe0000"  d="M 36.017422 -181.730688 L 36.017595 -167.770688 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line145</title>
+</g>
+<g id="Line136" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line136_nwe0000"  d="M 49.978153 -122.482059 L 36.018153 -122.481886 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line136</title>
+</g>
+<g id="Line137" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line137_nwe0000"  d="M 36.017909 -142.230386 L 36.018082 -128.270386 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line137</title>
+</g>
+<g id="Line138" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line138_nwe0000"  d="M 36.018082 -128.270386 L 49.978082 -128.270559 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line138</title>
+</g>
+<g id="Line139" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line139_nwe0000"  d="M 49.978082 -128.270559 L 49.977909 -142.230559 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line139</title>
+</g>
+<g id="Line140" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line140_nwe0000"  d="M 49.977909 -142.230559 L 36.017909 -142.230386 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line140</title>
+</g>
+<g id="Line043" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line043_nwe0000"  d="M 49.519832 -32.518326 L 63.479832 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line043</title>
+</g>
+<g id="Line023" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line023_nwe0000"  d="M 43.729554 -31.729562 L 29.769554 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line023</title>
+</g>
+<g id="Bottom_Left" transform="translate(3.198779,3.197445) scale(1,-1)">
+<title>Bottom Left</title>
+</g>
+<g id="Line228" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line228_w0000"  d="M 4.99915438599 -191.750017987 L 45.499961 -191.750517 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line228</title>
+</g>
+<g id="Line152" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line152_nwe0000"  d="M 30.229838 -107.480829 L 16.269838 -107.480657 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line152</title>
+</g>
+<g id="Line157" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line157_nwe0000"  d="M -7.6e-05 -88.501754 L -0.00039 -114.000236 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line157</title>
+</g>
+<g id="Line158" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line158_nwe0000"  d="M 95.269475 -144.730985 L 95.269647 -130.770985 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line158</title>
+</g>
+<g id="Line159" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line159_nwe0000"  d="M 109.229647 -130.771157 L 109.229475 -144.731157 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line159</title>
+</g>
+<g id="Line160" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line160_nwe0000"  d="M 109.229475 -144.731157 L 95.269475 -144.730985 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line160</title>
+</g>
+<g id="Line161" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line161_nwe0000"  d="M 75.520944 -147.23188 L 75.521116 -133.27188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line161</title>
+</g>
+<g id="Line162" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line162_nwe0000"  d="M 75.521116 -133.27188 L 89.481116 -133.272052 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line162</title>
+</g>
+<g id="Line163" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line163_nwe0000"  d="M 89.481116 -133.272052 L 89.480944 -147.232052 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line163</title>
+</g>
+<g id="Line164" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line164_nwe0000"  d="M 40.250686 -97.750133 L 40.2508 -88.502247 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line164</title>
+</g>
+<g id="Line165" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line165_nwe0000"  d="M 128.979571 -159.483467 L 115.019571 -159.483295 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line165</title>
+</g>
+<g id="Line166" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line166_nwe0000"  d="M 115.019327 -179.231795 L 115.019499 -165.271795 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line166</title>
+</g>
+<g id="Line167" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line167_nwe0000"  d="M 115.019499 -165.271795 L 128.979499 -165.271967 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line167</title>
+</g>
+<g id="Line168" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line168_nwe0000"  d="M 128.979499 -165.271967 L 128.979327 -179.231967 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line168</title>
+</g>
+<g id="Line169" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line169_nwe0000"  d="M 128.979327 -179.231967 L 115.019327 -179.231795 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line169</title>
+</g>
+<g id="Line170" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line170_nwe0000"  d="M 134.768486 -125.77326 L 148.728486 -125.773432 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line170</title>
+</g>
+<g id="Line171" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line171_nwe0000"  d="M 148.728486 -125.773432 L 148.728314 -139.733432 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line171</title>
+</g>
+<g id="Line172" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line172_nwe0000"  d="M 115.019814 -139.733017 L 115.019986 -125.773017 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line172</title>
+</g>
+<g id="Line173" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line173_nwe0000"  d="M 148.728314 -139.733432 L 134.768314 -139.73326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line173</title>
+</g>
+<g id="Line174" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line174_nwe0000"  d="M 74.748449 -98.502906 L 41.000231 -98.50249 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line174</title>
+</g>
+<g id="Line175" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line175_nwe0000"  d="M 79.750663 -103.500926 L 74.748449 -98.502906 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line175</title>
+</g>
+<g id="Line176" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line176_nwe0000"  d="M 79.750574 -110.753896 L 79.750663 -103.500926 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line176</title>
+</g>
+<g id="Line177" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line177_nwe0000"  d="M 134.768071 -159.483538 L 134.768243 -145.523538 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line177</title>
+</g>
+<g id="Line178" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line178_nwe0000"  d="M 134.768243 -145.523538 L 148.728243 -145.52371 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line178</title>
+</g>
+<g id="Line179" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line179_nwe0000"  d="M 148.728243 -145.52371 L 148.728071 -159.48371 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line179</title>
+</g>
+<g id="Line180" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line180_nwe0000"  d="M 148.728071 -159.48371 L 134.768071 -159.483538 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line180</title>
+</g>
+<g id="Line181" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line181_nwe0000"  d="M 134.768314 -139.73326 L 134.768486 -125.77326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line181</title>
+</g>
+<g id="Line182" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line182_nwe0000"  d="M 95.26916 -170.272557 L 109.22916 -170.272729 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line182</title>
+</g>
+<g id="Line183" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line183_nwe0000"  d="M 109.22916 -170.272729 L 109.228988 -184.232729 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line183</title>
+</g>
+<g id="Line184" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line184_nwe0000"  d="M 109.228988 -184.232729 L 95.268988 -184.232557 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line184</title>
+</g>
+<g id="Line185" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line185_nwe0000"  d="M 95.269231 -164.482787 L 95.269403 -150.522787 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line185</title>
+</g>
+<g id="Line186" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line186_nwe0000"  d="M 95.269403 -150.522787 L 109.229403 -150.522959 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line186</title>
+</g>
+<g id="Line187" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line187_nwe0000"  d="M 109.229403 -150.522959 L 109.229231 -164.482959 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line187</title>
+</g>
+<g id="Line188" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line188_nwe0000"  d="M 109.229231 -164.482959 L 95.269231 -164.482787 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line188</title>
+</g>
+<g id="Line189" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line189_nwe0000"  d="M -0.001287 -186.751744 L -0.000514 -124.00187 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line189</title>
+</g>
+<g id="Line192" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line192_nwe0000"  d="M 41.000231 -98.50249 L 40.250686 -97.750133 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line192</title>
+</g>
+<g id="Line193" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line193_nwe0000"  d="M 158.748747 -184.253834 L 158.749533 -120.503136 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line193</title>
+</g>
+<g id="Line194" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line194_nwe0000"  d="M 121.999204 -189.253117 L 153.749204 -189.253508 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line194</title>
+</g>
+<g id="Line195" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line195_nwe0000"  d="M 89.480944 -147.232052 L 75.520944 -147.23188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line195</title>
+</g>
+<g id="Line196" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line196_nwe0000"  d="M 75.5207 -166.980888 L 75.520872 -153.020888 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line196</title>
+</g>
+<g id="Line197" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line197_nwe0000"  d="M 75.520872 -153.020888 L 89.480872 -153.02106 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line197</title>
+</g>
+<g id="Line199" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line199_nwe0000"  d="M 89.4807 -166.98106 L 75.5207 -166.980888 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line199</title>
+</g>
+<g id="Line198" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line198_nwe0000"  d="M 89.480872 -153.02106 L 89.4807 -166.98106 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line198</title>
+</g>
+<g id="Line200" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line200_nwe0000"  d="M 75.520623 -173.272308 L 89.480623 -173.27248 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line200</title>
+</g>
+<g id="Line201" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line201_nwe0000"  d="M 75.520451 -187.232308 L 75.520623 -173.272308 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line201</title>
+</g>
+<g id="Line202" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line202_nwe0000"  d="M 45.499961 -191.750517 L 50.75033 -197.000508 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line202</title>
+</g>
+<g id="Line203" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line203_nwe0000"  d="M 89.480623 -173.27248 L 89.480451 -187.23248 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line203</title>
+</g>
+<g id="Line204" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line204_nwe0000"  d="M 89.480451 -187.23248 L 75.520451 -187.232308 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line204</title>
+</g>
+<g id="Line205" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line205_nwe0000"  d="M 55.769194 -184.23207 L 55.769366 -170.27207 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line205</title>
+</g>
+<g id="Line206" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line206_nwe0000"  d="M 55.769366 -170.27207 L 69.729366 -170.272242 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line206</title>
+</g>
+<g id="Line207" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line207_nwe0000"  d="M 69.729366 -170.272242 L 69.729194 -184.232242 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line207</title>
+</g>
+<g id="Line208" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line208_nwe0000"  d="M 69.729194 -184.232242 L 55.769194 -184.23207 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line208</title>
+</g>
+<g id="Line209" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line209_nwe0000"  d="M 55.769437 -164.4823 L 55.769609 -150.5223 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line209</title>
+</g>
+<g id="Line210" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line210_nwe0000"  d="M 55.769609 -150.5223 L 69.729609 -150.522472 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line210</title>
+</g>
+<g id="Line211" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line211_nwe0000"  d="M 69.729609 -150.522472 L 69.729437 -164.482472 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line211</title>
+</g>
+<g id="Line212" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line212_nwe0000"  d="M 69.729437 -164.482472 L 55.769437 -164.4823 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line212</title>
+</g>
+<g id="Line213" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line213_nwe0000"  d="M 55.769681 -144.730498 L 55.769853 -130.770498 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line213</title>
+</g>
+<g id="Line214" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line214_nwe0000"  d="M 55.769853 -130.770498 L 69.729853 -130.77067 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line214</title>
+</g>
+<g id="Line215" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line215_nwe0000"  d="M 69.729853 -130.77067 L 69.729681 -144.73067 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line215</title>
+</g>
+<g id="Line216" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line216_nwe0000"  d="M 69.729681 -144.73067 L 55.769681 -144.730498 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line216</title>
+</g>
+<g id="Line217" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line217_nwe0000"  d="M 55.769927 -124.7313 L 55.770099 -110.7713 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line217</title>
+</g>
+<g id="Line218" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line218_nwe0000"  d="M 55.770099 -110.7713 L 69.730099 -110.771472 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line218</title>
+</g>
+<g id="Line219" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line219_nwe0000"  d="M 69.729927 -124.731472 L 55.769927 -124.7313 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line219</title>
+</g>
+<g id="Line220" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line220_nwe0000"  d="M 69.730099 -110.771472 L 69.729927 -124.731472 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line220</title>
+</g>
+<g id="Line221" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line221_nwe0000"  d="M 36.018153 -122.481886 L 36.018325 -108.521886 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line221</title>
+</g>
+<g id="Line222" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line222_nwe0000"  d="M 115.019986 -125.773017 L 128.979986 -125.773189 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line222</title>
+</g>
+<g id="Line223" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line223_nwe0000"  d="M 128.979986 -125.773189 L 128.979814 -139.733189 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line223</title>
+</g>
+<g id="Line224" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line224_nwe0000"  d="M 128.979814 -139.733189 L 115.019814 -139.733017 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line224</title>
+</g>
+<g id="Line225" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line225_nwe0000"  d="M 115.019571 -159.483295 L 115.019743 -145.523295 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line225</title>
+</g>
+<g id="Line226" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line226_nwe0000"  d="M 115.019743 -145.523295 L 128.979743 -145.523467 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line226</title>
+</g>
+<g id="Line227" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Line227_nwe0000"  d="M 128.979743 -145.523467 L 128.979571 -159.483467 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line227</title>
+</g>
+<g id="Polyline" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline_w0000"  d="M 196.247802 -113.499191 L 165.998434 -113.499194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline</title>
+</g>
+<g id="Polyline001" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline001_w0000"  d="M 131.859467 -18.869534 L 131.859467 -66.28894 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline001</title>
+</g>
+<g id="Polyline002" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline002_w0000"  d="M 158.750076 -82.999702 L 149.131028 -82.9997 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline002</title>
+</g>
+<g id="Polyline003" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline003_w0000"  d="M 245.747066 -81.249061 L 314.99788 -81.249056 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline003</title>
+</g>
+<g id="Polyline004" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline004_w0000"  d="M 319.745531 -186.751932 L 319.747194 -88.501938 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline004</title>
+</g>
+<g id="Polyline005" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline005_w0000"  d="M 149.131028 -72.998068 L 149.131028 -82.9997 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline005</title>
+</g>
+<g id="Polyline006" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline006_w0000"  d="M 23.981054 -31.729562 L 10.021054 -31.729563 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline006</title>
+</g>
+<g id="Polyline007" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline007_w0000"  d="M 23.981054 -17.769562 L 10.021054 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline007</title>
+</g>
+<g id="Polyline008" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline008_w0000"  d="M 123.500206 -113.499194 L 153.749574 -113.499194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline008</title>
+</g>
+<g id="Polyline009" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline009_w0000"  d="M 74.00094 -81.249068 L 4.750126 -81.249068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline009</title>
+</g>
+<g id="Polyline010" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline010_w0000"  d="M 150.640228 -18.869534 L 150.640228 -66.28894 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline010</title>
+</g>
+<g id="Polyline011" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline011_w0000"  d="M 23.981054 -17.769562 L 23.981054 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline011</title>
+</g>
+<g id="Polyline012" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline012_w0000"  d="M 274.244153 -191.748993 L 314.74496 -191.750018 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline012</title>
+</g>
+<g id="Polyline013" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline013_w0000"  d="M 150.640228 -18.869534 L 131.859467 -18.869534 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline013</title>
+</g>
+<g id="Polyline014" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline014_w0000"  d="M 284.498333 -83.500041 L 314.747701 -83.500806 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline014</title>
+</g>
+<g id="Polyline015" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline015_w0000"  d="M 234.99825 -115.748914 L 165.747436 -115.747162 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline015</title>
+</g>
+<g id="Polyline016" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline016_w0000"  d="M 160.997982 -10.248194 L 160.998814 -108.498189 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline016</title>
+</g>
+<g id="Polyline017" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline017_w0000"  d="M 206.499234 -5.249979 L 165.998427 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline017</title>
+</g>
+<g id="Polyline018" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline018_w0000"  d="M 134.767827 -179.232038 L 148.727827 -179.23221 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline018</title>
+</g>
+<g id="Polyline019" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline019_w0000"  d="M 9.618534 -124.001989 L 9.618658 -114.000357 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline019</title>
+</g>
+<g id="Polyline022" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline022_w0000"  d="M 134.767827 -179.232038 L 134.767999 -165.272038 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline022</title>
+</g>
+<g id="Polyline023" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline023_w0000"  d="M 35.249856 -83.501179 L 5.000488 -83.500806 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Polyline023</title>
+</g>
+<g id="Polyline024" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline024_w0000"  d="M 84.748724 -115.751915 L 153.999538 -115.752769 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Polyline024</title>
 </g>
-<g id="Polyline025" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline025_w0000"  d="M 134.767827266 -179.232038069 L 148.727827265 -179.232210199 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline025</title>
-</g>
-<g id="Polyline026" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline026_w0000"  d="M 9.618534254 -124.00198895 L 9.61865757605 -114.000356951 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<g id="Polyline026" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline026_w0000"  d="M -0.00039 -114.000236 L 9.618658 -114.000357 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Polyline026</title>
 </g>
-<g id="Polyline027" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline027_w0000"  d="M 8.10866683886 -178.130504337 L 26.8894278374 -178.130735908 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<g id="Polyline027" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Polyline027_w0000"  d="M 134.767999 -165.272038 L 148.727999 -165.272209 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Polyline027</title>
 </g>
-<g id="Polyline028" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline028_w0000"  d="M 134.767827266 -179.232038069 L 134.767999396 -165.27203807 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline028</title>
-</g>
-<g id="Polyline029" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline029_w0000"  d="M 35.2498556387 -83.5011789862 L 5.00048764104 -83.5008060056 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline029</title>
-</g>
-<g id="Polyline030" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline030_w0000"  d="M 84.7487239847 -115.751915319 L 153.999537979 -115.752769195 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline030</title>
-</g>
-<g id="Polyline031" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline031_w0000"  d="M 8.10866683886 -178.130504337 L 8.10925152927 -130.711098341 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline031</title>
-</g>
-<g id="Polyline032" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline032_w0000"  d="M -0.000390423195597 -114.000236346 L 9.61865757605 -114.000356951 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline032</title>
-</g>
-<g id="Polyline033" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Polyline033_w0000"  d="M 134.767999396 -165.27203807 L 148.727999395 -165.2722092 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline033</title>
-</g>
-<g id="Arc" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Arc_nwe0000"  d="M -0.00122913714833 -186.751744327 A 5.000018 5.000018 0 0 1 4.99915390374 -191.750017979 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<g id="Arc" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc_nwe0000"  d="M 158.750017674 -10.2481940141 A 5.000018 5.000018 0 0 1 153.749573004 -5.24998201823 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Arc</title>
 </g>
-<g id="Arc001" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Arc001_nwe0000"  d="M 5.00048760723 -83.5008060238 A 4.999194 4.999194 0 0 1 0.000806306334852 -88.5017500677 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<g id="Arc001" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc001_nwe0000"  d="M 4.99955398753 -7.74807201989 A 4.999928 4.999928 0 0 1 7.20000000003e-05 -12.748 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Arc001</title>
 </g>
-<g id="Arc002" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Arc002_nwe0000"  d="M 153.74920371 -189.253762094 A 4.999928 4.999928 0 0 1 158.748747348 -184.253895759 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<g id="Arc002" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc002_nwe0000"  d="M 153.749574034 -113.499193982 A 4.999194 4.999194 0 0 1 158.749193672 -108.498188291 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Arc002</title>
 </g>
-<g id="Arc003" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Arc003_nwe0000"  d="M 158.749533405 -120.503135773 A 4.750054 4.750054 0 0 1 153.999537978 -115.752896195 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<g id="Arc003" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc003_nwe0000"  d="M 7.20016980118e-05 -76.4987599909 A 4.750054 4.750054 0 0 1 4.750126 -81.248941 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Arc003</title>
 </g>
-<g id="Circle016" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="153.748819348" cy="-184.253834109" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle016</title>
+<g id="Arc004" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc004_nwe0000"  d="M 314.744960467 -191.750017969 A 5.000018 5.000018 0 0 1 319.745531627 -186.751932523 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc004</title>
 </g>
-<g id="Circle017" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="153.749605534" cy="-120.492834114" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle017</title>
+<g id="Arc005" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc005_nwe0000"  d="M 319.747193624 -88.5019382247 A 4.999194 4.999194 0 0 1 314.74770055 -83.500806009 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc005</title>
 </g>
-<g id="Circle018" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="5.00000000001" cy="-88.5" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle018</title>
+<g id="Arc006" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc006_nwe0000"  d="M 160.995649002 -184.248109465 A 4.999928 4.999928 0 0 1 165.995004453 -189.248163967 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc006</title>
 </g>
-<g id="Circle019" transform="translate(3.198780,3.197445) scale(1,-1)">
-<circle cx="4.99878855858" cy="-186.749999993" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle019</title>
+<g id="Arc007" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc007_nwe0000"  d="M 165.747436211 -115.747289002 A 4.750054 4.750054 0 0 1 160.997262 -120.497349798 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc007</title>
 </g>
-<g id="Line350" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line350_nwe0000"  d="M 78.999152 -93.499996 L 84.001428 -98.497954 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line350</title>
+<g id="Arc008" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc008_nwe0000"  d="M 165.99842656 -5.2499820182 A 5.000018 5.000018 0 0 1 160.997982326 -10.2481944504 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc008</title>
 </g>
-<g id="Line374" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line374_nwe0000"  d="M 29.769554 -31.729562 L 29.769554 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line374</title>
+<g id="Arc009" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc009_nwe0000"  d="M 160.998814328 -108.498188728 A 4.999194 4.999194 0 0 1 165.998434402 -113.499193982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc009</title>
 </g>
-<g id="Line348" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line348_nwe0000"  d="M 43.729554 -57.26834 L 43.729554 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line348</title>
+<g id="Arc010" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc010_nwe0000"  d="M 319.747928 -12.7479875637 A 4.999928 4.999928 0 0 1 314.748445576 -7.74806001985 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc010</title>
 </g>
-<g id="Line376" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line376_nwe0000"  d="M 118.4992 -99.250302 L 118.4992 -108.498188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line376</title>
+<g id="Arc011" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc011_nwe0000"  d="M 314.997879415 -81.248929 A 4.750054 4.750054 0 0 1 319.747932998 -76.4987475764 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc011</title>
 </g>
-<g id="Line375" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line375_nwe0000"  d="M 29.769554 -17.769562 L 43.729554 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line375</title>
+<g id="Arc012" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc012_nwe0000"  d="M -0.00122869571647 -186.751744376 A 5.000018 5.000018 0 0 1 4.99915438599 -191.750017987 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc012</title>
 </g>
-<g id="Line347" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line347_nwe0000"  d="M 63.479832 -52.270128 L 63.479832 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line347</title>
+<g id="Arc013" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc013_nwe0000"  d="M 5.00048756638 -83.5008060238 A 4.999194 4.999194 0 0 1 0.00080630633737 -88.5017501085 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc013</title>
 </g>
-<g id="Line353" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line353_nwe0000"  d="M 143.250809 -14.869534 L 143.250809 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line353</title>
+<g id="Arc014" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc014_nwe0000"  d="M 153.749203403 -189.253761985 A 4.999928 4.999928 0 0 1 158.748747 -184.253895609 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc014</title>
 </g>
-<g id="Line343" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line343_nwe0000"  d="M 63.479832 -12.768556 L 63.479832 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line343</title>
+<g id="Arc015" transform="translate(3.198779,3.197445) scale(1,-1)">
+<path id="Arc015_nwe0000"  d="M 158.749532996 -120.503135539 A 4.750054 4.750054 0 0 1 153.99953753 -115.752896 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Arc015</title>
 </g>
-<g id="Line344" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line344_nwe0000"  d="M 63.479832 -66.230128 L 49.519832 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line344</title>
+<g id="Circle" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="314.748005" cy="-76.508988" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle</title>
 </g>
-<g id="Line345" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line345_nwe0000"  d="M 107.998332 -5.6e-05 L 44.498332 -5.6e-05 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line345</title>
+<g id="Circle001" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="314.748" cy="-12.747988" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle001</title>
 </g>
-<g id="Line378" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line378_nwe0000"  d="M 23.981054 -37.518062 L 23.981054 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line378</title>
+<g id="Circle002" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="153.75" cy="-108.5" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle002</title>
 </g>
-<g id="Line346" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line346_nwe0000"  d="M 69.268332 -63.72899 L 69.268332 -49.76899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line346</title>
+<g id="Circle003" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="5.0" cy="-76.509" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle003</title>
 </g>
-<g id="Line377" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line377_nwe0000"  d="M 78.999152 -86.247026 L 78.999152 -93.499996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line377</title>
+<g id="Circle004" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="153.75" cy="-10.25" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle004</title>
 </g>
-<g id="Line342" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line342_nwe0000"  d="M 44.498332 -5.6e-05 L 36.749554 -7.748326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line342</title>
+<g id="Circle005" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="165.998" cy="-10.25" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle005</title>
 </g>
-<g id="Line351" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line351_nwe0000"  d="M 83.228332 -49.76899 L 83.228332 -63.72899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line351</title>
+<g id="Circle006" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="5.0" cy="-12.748" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle006</title>
 </g>
-<g id="Line379" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line379_nwe0000"  d="M 23.981054 -51.478062 L 10.021054 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line379</title>
+<g id="Circle007" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="165.995577" cy="-184.248236" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle007</title>
 </g>
-<g id="Line352" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line352_nwe0000"  d="M 133.250476 -14.869534 L 133.249176 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line352</title>
+<g id="Circle008" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="165.997191" cy="-120.487236" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle008</title>
 </g>
-<g id="Line380" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line380_nwe0000"  d="M 83.228332 -63.72899 L 69.268332 -63.72899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line380</title>
+<g id="Circle009" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="314.748" cy="-88.5" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle009</title>
 </g>
-<g id="Line386" transform="translate(3.198780,3.197445) scale(1,-1)">
-<path id="Line386_nwe0000"  d="M 122.731428 -54.769996 L 122.731428 -68.729996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line386</title>
+<g id="Circle010" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="314.745514" cy="-186.75" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle010</title>
+</g>
+<g id="Circle011" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="165.998008" cy="-108.5" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle011</title>
+</g>
+<g id="Circle012" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="153.748819" cy="-184.253834" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle012</title>
+</g>
+<g id="Circle013" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="153.749606" cy="-120.492834" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle013</title>
+</g>
+<g id="Circle014" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="5.0" cy="-88.5" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle014</title>
+</g>
+<g id="Circle015" transform="translate(3.198779,3.197445) scale(1,-1)">
+<circle cx="4.998789" cy="-186.75" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Circle015</title>
 </g>
 </svg>
