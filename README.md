@@ -24,4 +24,11 @@ Here you can find most of what you need to know for designing a PCB. You might
 need to search for some things that are not covered there, like how to create a
 footprint for a component that is not present in any library. The basics are
 all covered though.
+- [Wiring diagram for USB-C to USB-A cable](https://electronics.stackexchange.com/questions/323128/wiring-diagram-for-usb-c-to-usb-a-cable/323135#323135?newreg=1b864805c8d8470593bccdc4ec9985a5)
+I wish I saw this while designing the first version of the PCB, so I wouldn't
+have messed up the connections. I'll leave this here if someone needs it.
+- [/r/MechanicalKeyboards/](https://www.reddit.com/r/MechanicalKeyboards/)
+A lot of my Google searches ended up on threads from this subreddit, the
+community seems super helpful, if you're stuck somewhere, this is probably the
+best place to ask.
 
