@@ -1,37 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:42keyboard-cache
+LIBS:42-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -55,7 +24,7 @@ F 1 "TEENSY2.0" V 9700 2400 60  0000 C CNN
 F 2 "keebs:Teensy_20" H 9750 2400 60  0001 C CNN
 F 3 "" H 9750 2400 60  0000 C CNN
 	1    9750 2400
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K1
@@ -65,8 +34,8 @@ F 0 "K1" H 1400 900 60  0000 C CNN
 F 1 "KEYSW" H 1450 800 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 1450 900 60  0001 C CNN
 F 3 "" H 1450 900 60  0000 C CNN
-	1    1450 900
-	1    0    0    -1
+	1    1450 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D1
@@ -77,7 +46,7 @@ F 1 "D" V 1200 1150 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 1050 1200 60  0001 C CNN
 F 3 "" H 1050 1200 60  0000 C CNN
 	1    1050 1200
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K2
@@ -87,8 +56,8 @@ F 0 "K2" H 2350 900 60  0000 C CNN
 F 1 "KEYSW" H 2400 800 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 2400 900 60  0001 C CNN
 F 3 "" H 2400 900 60  0000 C CNN
-	1    2400 900
-	1    0    0    -1
+	1    2400 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D2
@@ -99,7 +68,7 @@ F 1 "D" V 2150 1150 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2000 1200 60  0001 C CNN
 F 3 "" H 2000 1200 60  0000 C CNN
 	1    2000 1200
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K3
@@ -109,8 +78,8 @@ F 0 "K3" H 3300 900 60  0000 C CNN
 F 1 "KEYSW" H 3350 800 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 3350 900 60  0001 C CNN
 F 3 "" H 3350 900 60  0000 C CNN
-	1    3350 900
-	1    0    0    -1
+	1    3350 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D3
@@ -121,7 +90,7 @@ F 1 "D" V 3100 1150 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2950 1200 60  0001 C CNN
 F 3 "" H 2950 1200 60  0000 C CNN
 	1    2950 1200
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K4
@@ -131,8 +100,8 @@ F 0 "K4" H 4250 900 60  0000 C CNN
 F 1 "KEYSW" H 4300 800 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 4300 900 60  0001 C CNN
 F 3 "" H 4300 900 60  0000 C CNN
-	1    4300 900
-	1    0    0    -1
+	1    4300 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D4
@@ -143,7 +112,7 @@ F 1 "D" V 4050 1150 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 3900 1200 60  0001 C CNN
 F 3 "" H 3900 1200 60  0000 C CNN
 	1    3900 1200
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K5
@@ -153,8 +122,8 @@ F 0 "K5" H 5250 900 60  0000 C CNN
 F 1 "KEYSW" H 5300 800 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 5300 900 60  0001 C CNN
 F 3 "" H 5300 900 60  0000 C CNN
-	1    5300 900
-	1    0    0    -1
+	1    5300 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D5
@@ -165,7 +134,7 @@ F 1 "D" V 5050 1150 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 4900 1200 60  0001 C CNN
 F 3 "" H 4900 1200 60  0000 C CNN
 	1    4900 1200
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K6
@@ -175,8 +144,8 @@ F 0 "K6" H 6200 900 60  0000 C CNN
 F 1 "KEYSW" H 6250 800 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 6250 900 60  0001 C CNN
 F 3 "" H 6250 900 60  0000 C CNN
-	1    6250 900
-	1    0    0    -1
+	1    6250 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D6
@@ -187,7 +156,7 @@ F 1 "D" V 6000 1150 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 5850 1200 60  0001 C CNN
 F 3 "" H 5850 1200 60  0000 C CNN
 	1    5850 1200
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K7
@@ -198,7 +167,7 @@ F 1 "KEYSW" H 1450 1700 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 1450 1800 60  0001 C CNN
 F 3 "" H 1450 1800 60  0000 C CNN
 	1    1450 1800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D7
@@ -209,7 +178,7 @@ F 1 "D" V 1200 2050 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 1050 2100 60  0001 C CNN
 F 3 "" H 1050 2100 60  0000 C CNN
 	1    1050 2100
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K8
@@ -220,7 +189,7 @@ F 1 "KEYSW" H 2400 1700 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 2400 1800 60  0001 C CNN
 F 3 "" H 2400 1800 60  0000 C CNN
 	1    2400 1800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D8
@@ -231,7 +200,7 @@ F 1 "D" V 2150 2050 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2000 2100 60  0001 C CNN
 F 3 "" H 2000 2100 60  0000 C CNN
 	1    2000 2100
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K9
@@ -242,7 +211,7 @@ F 1 "KEYSW" H 3350 1700 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 3350 1800 60  0001 C CNN
 F 3 "" H 3350 1800 60  0000 C CNN
 	1    3350 1800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D9
@@ -253,7 +222,7 @@ F 1 "D" V 3100 2050 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2950 2100 60  0001 C CNN
 F 3 "" H 2950 2100 60  0000 C CNN
 	1    2950 2100
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K10
@@ -264,7 +233,7 @@ F 1 "KEYSW" H 4300 1700 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 4300 1800 60  0001 C CNN
 F 3 "" H 4300 1800 60  0000 C CNN
 	1    4300 1800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D10
@@ -275,7 +244,7 @@ F 1 "D" V 4050 2050 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 3900 2100 60  0001 C CNN
 F 3 "" H 3900 2100 60  0000 C CNN
 	1    3900 2100
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K11
@@ -286,7 +255,7 @@ F 1 "KEYSW" H 5300 1700 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 5300 1800 60  0001 C CNN
 F 3 "" H 5300 1800 60  0000 C CNN
 	1    5300 1800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D11
@@ -297,7 +266,7 @@ F 1 "D" V 5050 2050 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 4900 2100 60  0001 C CNN
 F 3 "" H 4900 2100 60  0000 C CNN
 	1    4900 2100
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K12
@@ -308,7 +277,7 @@ F 1 "KEYSW" H 6250 1700 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 6250 1800 60  0001 C CNN
 F 3 "" H 6250 1800 60  0000 C CNN
 	1    6250 1800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D12
@@ -319,7 +288,7 @@ F 1 "D" V 6000 2050 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 5850 2100 60  0001 C CNN
 F 3 "" H 5850 2100 60  0000 C CNN
 	1    5850 2100
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K13
@@ -330,7 +299,7 @@ F 1 "KEYSW" H 1450 2600 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 1450 2700 60  0001 C CNN
 F 3 "" H 1450 2700 60  0000 C CNN
 	1    1450 2700
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D13
@@ -341,7 +310,7 @@ F 1 "D" V 1200 2950 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 1050 3000 60  0001 C CNN
 F 3 "" H 1050 3000 60  0000 C CNN
 	1    1050 3000
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K14
@@ -352,7 +321,7 @@ F 1 "KEYSW" H 2400 2600 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 2400 2700 60  0001 C CNN
 F 3 "" H 2400 2700 60  0000 C CNN
 	1    2400 2700
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D14
@@ -363,7 +332,7 @@ F 1 "D" V 2150 2950 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2000 3000 60  0001 C CNN
 F 3 "" H 2000 3000 60  0000 C CNN
 	1    2000 3000
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K15
@@ -374,7 +343,7 @@ F 1 "KEYSW" H 3350 2600 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 3350 2700 60  0001 C CNN
 F 3 "" H 3350 2700 60  0000 C CNN
 	1    3350 2700
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D15
@@ -385,7 +354,7 @@ F 1 "D" V 3100 2950 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2950 3000 60  0001 C CNN
 F 3 "" H 2950 3000 60  0000 C CNN
 	1    2950 3000
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K16
@@ -396,7 +365,7 @@ F 1 "KEYSW" H 4300 2600 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 4300 2700 60  0001 C CNN
 F 3 "" H 4300 2700 60  0000 C CNN
 	1    4300 2700
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D16
@@ -407,7 +376,7 @@ F 1 "D" V 4050 2950 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 3900 3000 60  0001 C CNN
 F 3 "" H 3900 3000 60  0000 C CNN
 	1    3900 3000
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K17
@@ -418,7 +387,7 @@ F 1 "KEYSW" H 5300 2600 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 5300 2700 60  0001 C CNN
 F 3 "" H 5300 2700 60  0000 C CNN
 	1    5300 2700
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D17
@@ -429,7 +398,7 @@ F 1 "D" V 5050 2950 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 4900 3000 60  0001 C CNN
 F 3 "" H 4900 3000 60  0000 C CNN
 	1    4900 3000
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K18
@@ -440,7 +409,7 @@ F 1 "KEYSW" H 6250 2600 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 6250 2700 60  0001 C CNN
 F 3 "" H 6250 2700 60  0000 C CNN
 	1    6250 2700
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D18
@@ -451,7 +420,7 @@ F 1 "D" V 6000 2950 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 5850 3000 60  0001 C CNN
 F 3 "" H 5850 3000 60  0000 C CNN
 	1    5850 3000
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K19
@@ -462,7 +431,7 @@ F 1 "KEYSW" H 4250 3400 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 4250 3500 60  0001 C CNN
 F 3 "" H 4250 3500 60  0000 C CNN
 	1    4250 3500
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D19
@@ -473,7 +442,7 @@ F 1 "D" V 4000 3750 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 3850 3800 60  0001 C CNN
 F 3 "" H 3850 3800 60  0000 C CNN
 	1    3850 3800
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K20
@@ -484,7 +453,7 @@ F 1 "KEYSW" H 5250 3400 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 5250 3500 60  0001 C CNN
 F 3 "" H 5250 3500 60  0000 C CNN
 	1    5250 3500
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D20
@@ -495,7 +464,7 @@ F 1 "D" V 5000 3750 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 4850 3800 60  0001 C CNN
 F 3 "" H 4850 3800 60  0000 C CNN
 	1    4850 3800
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K21
@@ -506,7 +475,7 @@ F 1 "KEYSW" H 6200 3400 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 6200 3500 60  0001 C CNN
 F 3 "" H 6200 3500 60  0000 C CNN
 	1    6200 3500
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D21
@@ -517,7 +486,7 @@ F 1 "D" V 5950 3750 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 5800 3800 60  0001 C CNN
 F 3 "" H 5800 3800 60  0000 C CNN
 	1    5800 3800
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 Text Label 1850 750  0    60   ~ 0
 col0
@@ -593,7 +562,7 @@ F 1 "USB_C_Receptacle" H 9350 6450 50  0000 R CNN
 F 2 "Connectors_USB:USB_C_Receptacle_Amphenol_12401548E4-2A" H 9100 5000 50  0001 C CNN
 F 3 "" H 9100 5000 50  0001 C CNN
 	1    8950 5000
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 Text Label 9250 4250 1    60   ~ 0
 row0
@@ -649,9 +618,9 @@ F 1 "USB_C_Receptacle" H 8550 3900 50  0000 R CNN
 F 2 "Connectors_USB:USB_C_Receptacle_Amphenol_12401548E4-2A" H 8300 2450 50  0001 C CNN
 F 3 "" H 8300 2450 50  0001 C CNN
 	1    8150 2450
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
-NoConn ~ 8450 850
+NoConn ~ 8450 850 
 NoConn ~ 7550 1150
 NoConn ~ 7550 1250
 NoConn ~ 7550 1450
@@ -673,7 +642,7 @@ F 1 "KEYSW" H 1450 4300 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 1450 4400 60  0001 C CNN
 F 3 "" H 1450 4400 60  0000 C CNN
 	1    1450 4400
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D22
@@ -684,7 +653,7 @@ F 1 "D" V 1200 4650 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 1050 4700 60  0001 C CNN
 F 3 "" H 1050 4700 60  0000 C CNN
 	1    1050 4700
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K23
@@ -695,7 +664,7 @@ F 1 "KEYSW" H 2400 4300 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 2400 4400 60  0001 C CNN
 F 3 "" H 2400 4400 60  0000 C CNN
 	1    2400 4400
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D23
@@ -706,7 +675,7 @@ F 1 "D" V 2150 4650 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2000 4700 60  0001 C CNN
 F 3 "" H 2000 4700 60  0000 C CNN
 	1    2000 4700
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K24
@@ -717,7 +686,7 @@ F 1 "KEYSW" H 3350 4300 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 3350 4400 60  0001 C CNN
 F 3 "" H 3350 4400 60  0000 C CNN
 	1    3350 4400
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D24
@@ -728,7 +697,7 @@ F 1 "D" V 3100 4650 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2950 4700 60  0001 C CNN
 F 3 "" H 2950 4700 60  0000 C CNN
 	1    2950 4700
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K25
@@ -739,7 +708,7 @@ F 1 "KEYSW" H 4300 4300 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 4300 4400 60  0001 C CNN
 F 3 "" H 4300 4400 60  0000 C CNN
 	1    4300 4400
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D25
@@ -750,7 +719,7 @@ F 1 "D" V 4050 4650 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 3900 4700 60  0001 C CNN
 F 3 "" H 3900 4700 60  0000 C CNN
 	1    3900 4700
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K26
@@ -761,7 +730,7 @@ F 1 "KEYSW" H 5300 4300 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 5300 4400 60  0001 C CNN
 F 3 "" H 5300 4400 60  0000 C CNN
 	1    5300 4400
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D26
@@ -772,7 +741,7 @@ F 1 "D" V 5050 4650 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 4900 4700 60  0001 C CNN
 F 3 "" H 4900 4700 60  0000 C CNN
 	1    4900 4700
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K27
@@ -783,7 +752,7 @@ F 1 "KEYSW" H 6250 4300 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 6250 4400 60  0001 C CNN
 F 3 "" H 6250 4400 60  0000 C CNN
 	1    6250 4400
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D27
@@ -794,7 +763,7 @@ F 1 "D" V 6000 4650 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 5850 4700 60  0001 C CNN
 F 3 "" H 5850 4700 60  0000 C CNN
 	1    5850 4700
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K28
@@ -805,7 +774,7 @@ F 1 "KEYSW" H 1450 5200 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 1450 5300 60  0001 C CNN
 F 3 "" H 1450 5300 60  0000 C CNN
 	1    1450 5300
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D28
@@ -816,7 +785,7 @@ F 1 "D" V 1200 5550 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 1050 5600 60  0001 C CNN
 F 3 "" H 1050 5600 60  0000 C CNN
 	1    1050 5600
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K29
@@ -827,7 +796,7 @@ F 1 "KEYSW" H 2400 5200 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 2400 5300 60  0001 C CNN
 F 3 "" H 2400 5300 60  0000 C CNN
 	1    2400 5300
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D29
@@ -838,7 +807,7 @@ F 1 "D" V 2150 5550 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2000 5600 60  0001 C CNN
 F 3 "" H 2000 5600 60  0000 C CNN
 	1    2000 5600
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K30
@@ -849,7 +818,7 @@ F 1 "KEYSW" H 3350 5200 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 3350 5300 60  0001 C CNN
 F 3 "" H 3350 5300 60  0000 C CNN
 	1    3350 5300
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D30
@@ -860,7 +829,7 @@ F 1 "D" V 3100 5550 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2950 5600 60  0001 C CNN
 F 3 "" H 2950 5600 60  0000 C CNN
 	1    2950 5600
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K31
@@ -871,7 +840,7 @@ F 1 "KEYSW" H 4300 5200 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 4300 5300 60  0001 C CNN
 F 3 "" H 4300 5300 60  0000 C CNN
 	1    4300 5300
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D31
@@ -882,7 +851,7 @@ F 1 "D" V 4050 5550 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 3900 5600 60  0001 C CNN
 F 3 "" H 3900 5600 60  0000 C CNN
 	1    3900 5600
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K32
@@ -893,7 +862,7 @@ F 1 "KEYSW" H 5300 5200 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 5300 5300 60  0001 C CNN
 F 3 "" H 5300 5300 60  0000 C CNN
 	1    5300 5300
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D32
@@ -904,7 +873,7 @@ F 1 "D" V 5050 5550 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 4900 5600 60  0001 C CNN
 F 3 "" H 4900 5600 60  0000 C CNN
 	1    4900 5600
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K33
@@ -915,7 +884,7 @@ F 1 "KEYSW" H 6250 5200 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 6250 5300 60  0001 C CNN
 F 3 "" H 6250 5300 60  0000 C CNN
 	1    6250 5300
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D33
@@ -926,7 +895,7 @@ F 1 "D" V 6000 5550 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 5850 5600 60  0001 C CNN
 F 3 "" H 5850 5600 60  0000 C CNN
 	1    5850 5600
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K34
@@ -937,7 +906,7 @@ F 1 "KEYSW" H 1450 6100 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 1450 6200 60  0001 C CNN
 F 3 "" H 1450 6200 60  0000 C CNN
 	1    1450 6200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D34
@@ -948,7 +917,7 @@ F 1 "D" V 1200 6450 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 1050 6500 60  0001 C CNN
 F 3 "" H 1050 6500 60  0000 C CNN
 	1    1050 6500
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K35
@@ -959,7 +928,7 @@ F 1 "KEYSW" H 2400 6100 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 2400 6200 60  0001 C CNN
 F 3 "" H 2400 6200 60  0000 C CNN
 	1    2400 6200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D35
@@ -970,7 +939,7 @@ F 1 "D" V 2150 6450 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2000 6500 60  0001 C CNN
 F 3 "" H 2000 6500 60  0000 C CNN
 	1    2000 6500
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K36
@@ -981,7 +950,7 @@ F 1 "KEYSW" H 3350 6100 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 3350 6200 60  0001 C CNN
 F 3 "" H 3350 6200 60  0000 C CNN
 	1    3350 6200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D36
@@ -992,7 +961,7 @@ F 1 "D" V 3100 6450 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2950 6500 60  0001 C CNN
 F 3 "" H 2950 6500 60  0000 C CNN
 	1    2950 6500
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K37
@@ -1003,7 +972,7 @@ F 1 "KEYSW" H 4300 6100 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 4300 6200 60  0001 C CNN
 F 3 "" H 4300 6200 60  0000 C CNN
 	1    4300 6200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D37
@@ -1014,7 +983,7 @@ F 1 "D" V 4050 6450 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 3900 6500 60  0001 C CNN
 F 3 "" H 3900 6500 60  0000 C CNN
 	1    3900 6500
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K38
@@ -1025,7 +994,7 @@ F 1 "KEYSW" H 5300 6100 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 5300 6200 60  0001 C CNN
 F 3 "" H 5300 6200 60  0000 C CNN
 	1    5300 6200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D38
@@ -1036,7 +1005,7 @@ F 1 "D" V 5050 6450 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 4900 6500 60  0001 C CNN
 F 3 "" H 4900 6500 60  0000 C CNN
 	1    4900 6500
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K39
@@ -1047,7 +1016,7 @@ F 1 "KEYSW" H 6250 6100 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 6250 6200 60  0001 C CNN
 F 3 "" H 6250 6200 60  0000 C CNN
 	1    6250 6200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D39
@@ -1058,7 +1027,7 @@ F 1 "D" V 6000 6450 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 5850 6500 60  0001 C CNN
 F 3 "" H 5850 6500 60  0000 C CNN
 	1    5850 6500
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K42
@@ -1069,7 +1038,7 @@ F 1 "KEYSW" H 1450 6900 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 1450 7000 60  0001 C CNN
 F 3 "" H 1450 7000 60  0000 C CNN
 	1    1450 7000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D42
@@ -1080,7 +1049,7 @@ F 1 "D" V 1200 7250 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 1050 7300 60  0001 C CNN
 F 3 "" H 1050 7300 60  0000 C CNN
 	1    1050 7300
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K40
@@ -1091,7 +1060,7 @@ F 1 "KEYSW" H 2450 6900 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 2450 7000 60  0001 C CNN
 F 3 "" H 2450 7000 60  0000 C CNN
 	1    2450 7000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D40
@@ -1102,7 +1071,7 @@ F 1 "D" V 2200 7250 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 2050 7300 60  0001 C CNN
 F 3 "" H 2050 7300 60  0000 C CNN
 	1    2050 7300
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K41
@@ -1113,7 +1082,7 @@ F 1 "KEYSW" H 3400 6900 60  0001 C CNN
 F 2 "keebs:Mx_Alps_100" H 3400 7000 60  0001 C CNN
 F 3 "" H 3400 7000 60  0000 C CNN
 	1    3400 7000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D D41
@@ -1124,7 +1093,7 @@ F 1 "D" V 3150 7250 60  0001 C CNN
 F 2 "keyboard_parts:D_SOD123_axial" H 3000 7300 60  0001 C CNN
 F 3 "" H 3000 7300 60  0000 C CNN
 	1    3000 7300
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 Text Label 1850 4250 0    60   ~ 0
 col6
@@ -1147,35 +1116,25 @@ row2
 Text Label 950  7500 2    60   ~ 0
 row3
 Wire Wire Line
-	1150 900  1050 900
+	1150 900  1050 900 
 Wire Wire Line
 	1050 900  1050 1050
 Wire Wire Line
-	2100 900  2000 900
+	2100 900  2000 900 
 Wire Wire Line
 	2000 900  2000 1050
 Wire Wire Line
 	1050 1250 1050 1400
 Wire Wire Line
-	950  1400 1050 1400
-Wire Wire Line
-	1050 1400 2000 1400
-Wire Wire Line
-	2000 1400 2950 1400
-Wire Wire Line
-	2950 1400 3900 1400
-Wire Wire Line
-	3900 1400 4900 1400
-Wire Wire Line
-	4900 1400 5850 1400
+	950  1400 5850 1400
 Wire Wire Line
 	2000 1400 2000 1250
 Wire Wire Line
-	3050 900  2950 900
+	3050 900  2950 900 
 Wire Wire Line
 	2950 900  2950 1050
 Wire Wire Line
-	4000 900  3900 900
+	4000 900  3900 900 
 Wire Wire Line
 	3900 900  3900 1050
 Wire Wire Line
@@ -1183,11 +1142,11 @@ Wire Wire Line
 Wire Wire Line
 	3900 1400 3900 1250
 Wire Wire Line
-	5000 900  4900 900
+	5000 900  4900 900 
 Wire Wire Line
 	4900 900  4900 1050
 Wire Wire Line
-	5950 900  5850 900
+	5950 900  5850 900 
 Wire Wire Line
 	5850 900  5850 1050
 Wire Wire Line
@@ -1209,17 +1168,7 @@ Wire Wire Line
 Wire Wire Line
 	1050 2150 1050 2300
 Wire Wire Line
-	950  2300 1050 2300
-Wire Wire Line
-	1050 2300 2000 2300
-Wire Wire Line
-	2000 2300 2950 2300
-Wire Wire Line
-	2950 2300 3900 2300
-Wire Wire Line
-	3900 2300 4900 2300
-Wire Wire Line
-	4900 2300 5850 2300
+	950  2300 5850 2300
 Wire Wire Line
 	2000 2300 2000 2150
 Wire Wire Line
@@ -1261,17 +1210,7 @@ Wire Wire Line
 Wire Wire Line
 	1050 3050 1050 3200
 Wire Wire Line
-	950  3200 1050 3200
-Wire Wire Line
-	1050 3200 2000 3200
-Wire Wire Line
-	2000 3200 2950 3200
-Wire Wire Line
-	2950 3200 3900 3200
-Wire Wire Line
-	3900 3200 4900 3200
-Wire Wire Line
-	4900 3200 5850 3200
+	950  3200 5850 3200
 Wire Wire Line
 	2000 3200 2000 3050
 Wire Wire Line
@@ -1303,95 +1242,61 @@ Connection ~ 3900 3200
 Connection ~ 2000 3200
 Connection ~ 2950 3200
 Wire Wire Line
-	1750 900  1850 900
+	1750 900  1850 900 
 Wire Wire Line
-	1850 750  1850 900
-Wire Wire Line
-	1850 900  1850 1800
-Wire Wire Line
-	1850 1800 1850 2700
+	1850 750  1850 2700
 Wire Wire Line
 	1850 2700 1750 2700
 Wire Wire Line
 	1750 1800 1850 1800
 Connection ~ 1850 1800
 Wire Wire Line
-	2700 900  2800 900
+	2700 900  2800 900 
 Wire Wire Line
-	2800 750  2800 900
-Wire Wire Line
-	2800 900  2800 1800
-Wire Wire Line
-	2800 1800 2800 2700
+	2800 750  2800 2700
 Wire Wire Line
 	2800 2700 2700 2700
 Wire Wire Line
 	2700 1800 2800 1800
 Connection ~ 2800 1800
 Wire Wire Line
-	3650 900  3750 900
+	3650 900  3750 900 
 Wire Wire Line
-	3750 750  3750 900
-Wire Wire Line
-	3750 900  3750 1800
-Wire Wire Line
-	3750 1800 3750 2700
+	3750 750  3750 2700
 Wire Wire Line
 	3750 2700 3650 2700
 Wire Wire Line
 	3650 1800 3750 1800
 Connection ~ 3750 1800
 Wire Wire Line
-	4600 900  4700 900
+	4600 900  4700 900 
 Wire Wire Line
-	4700 750  4700 900
-Wire Wire Line
-	4700 900  4700 1800
-Wire Wire Line
-	4700 1800 4700 2700
-Wire Wire Line
-	4700 2700 4700 3500
+	4700 750  4700 3500
 Wire Wire Line
 	4700 2700 4600 2700
 Wire Wire Line
 	4600 1800 4700 1800
 Connection ~ 4700 1800
 Wire Wire Line
-	5600 900  5700 900
+	5600 900  5700 900 
 Wire Wire Line
-	5700 750  5700 900
-Wire Wire Line
-	5700 900  5700 1800
-Wire Wire Line
-	5700 1800 5700 2700
-Wire Wire Line
-	5700 2700 5700 3500
+	5700 750  5700 3500
 Wire Wire Line
 	5700 2700 5600 2700
 Wire Wire Line
 	5600 1800 5700 1800
 Connection ~ 5700 1800
 Wire Wire Line
-	6550 900  6650 900
+	6550 900  6650 900 
 Wire Wire Line
-	6650 750  6650 900
-Wire Wire Line
-	6650 900  6650 1800
-Wire Wire Line
-	6650 1800 6650 2700
-Wire Wire Line
-	6650 2700 6650 3500
+	6650 750  6650 3500
 Wire Wire Line
 	6650 2700 6550 2700
 Wire Wire Line
 	6550 1800 6650 1800
 Connection ~ 6650 1800
 Wire Wire Line
-	950  4000 3850 4000
-Wire Wire Line
-	3850 4000 4850 4000
-Wire Wire Line
-	4850 4000 5800 4000
+	950  4000 5800 4000
 Wire Wire Line
 	3950 3500 3850 3500
 Wire Wire Line
@@ -1421,12 +1326,12 @@ Wire Wire Line
 Connection ~ 6650 2700
 Connection ~ 5700 2700
 Connection ~ 4700 2700
-Connection ~ 1850 900
-Connection ~ 2800 900
-Connection ~ 3750 900
-Connection ~ 4700 900
-Connection ~ 5700 900
-Connection ~ 6650 900
+Connection ~ 1850 900 
+Connection ~ 2800 900 
+Connection ~ 3750 900 
+Connection ~ 4700 900 
+Connection ~ 5700 900 
+Connection ~ 6650 900 
 Connection ~ 1050 1400
 Connection ~ 1050 2300
 Connection ~ 1050 3200
@@ -1477,11 +1382,7 @@ Wire Wire Line
 Wire Wire Line
 	7450 2950 7550 2950
 Wire Wire Line
-	7450 3450 7450 3550
-Wire Wire Line
-	7450 3550 7450 3650
-Wire Wire Line
-	7450 3650 7450 3750
+	7450 3450 7450 3750
 Wire Wire Line
 	7450 3550 7550 3550
 Wire Wire Line
@@ -1491,24 +1392,18 @@ Wire Wire Line
 	7450 3750 7550 3750
 Connection ~ 7450 3650
 Wire Wire Line
-	7450 750  8050 750
+	7450 750  8350 750 
 Wire Wire Line
-	8050 750  8150 750
+	8350 750  8350 850 
 Wire Wire Line
-	8150 750  8250 750
+	8250 750  8250 850 
+Connection ~ 8250 750 
 Wire Wire Line
-	8250 750  8350 750
+	8150 750  8150 850 
+Connection ~ 8150 750 
 Wire Wire Line
-	8350 750  8350 850
-Wire Wire Line
-	8250 750  8250 850
-Connection ~ 8250 750
-Wire Wire Line
-	8150 750  8150 850
-Connection ~ 8150 750
-Wire Wire Line
-	8050 850  8050 750
-Connection ~ 8050 750
+	8050 850  8050 750 
+Connection ~ 8050 750 
 Wire Wire Line
 	1150 4400 1050 4400
 Wire Wire Line
@@ -1520,17 +1415,7 @@ Wire Wire Line
 Wire Wire Line
 	1050 4750 1050 4900
 Wire Wire Line
-	950  4900 1050 4900
-Wire Wire Line
-	1050 4900 2000 4900
-Wire Wire Line
-	2000 4900 2950 4900
-Wire Wire Line
-	2950 4900 3900 4900
-Wire Wire Line
-	3900 4900 4900 4900
-Wire Wire Line
-	4900 4900 5850 4900
+	950  4900 5850 4900
 Wire Wire Line
 	2000 4900 2000 4750
 Wire Wire Line
@@ -1572,17 +1457,7 @@ Wire Wire Line
 Wire Wire Line
 	1050 5650 1050 5800
 Wire Wire Line
-	950  5800 1050 5800
-Wire Wire Line
-	1050 5800 2000 5800
-Wire Wire Line
-	2000 5800 2950 5800
-Wire Wire Line
-	2950 5800 3900 5800
-Wire Wire Line
-	3900 5800 4900 5800
-Wire Wire Line
-	4900 5800 5850 5800
+	950  5800 5850 5800
 Wire Wire Line
 	2000 5800 2000 5650
 Wire Wire Line
@@ -1624,17 +1499,7 @@ Wire Wire Line
 Wire Wire Line
 	1050 6550 1050 6700
 Wire Wire Line
-	950  6700 1050 6700
-Wire Wire Line
-	1050 6700 2000 6700
-Wire Wire Line
-	2000 6700 2950 6700
-Wire Wire Line
-	2950 6700 3900 6700
-Wire Wire Line
-	3900 6700 4900 6700
-Wire Wire Line
-	4900 6700 5850 6700
+	950  6700 5850 6700
 Wire Wire Line
 	2000 6700 2000 6550
 Wire Wire Line
@@ -1668,13 +1533,7 @@ Connection ~ 2950 6700
 Wire Wire Line
 	1750 4400 1850 4400
 Wire Wire Line
-	1850 4250 1850 4400
-Wire Wire Line
-	1850 4400 1850 5300
-Wire Wire Line
-	1850 5300 1850 6200
-Wire Wire Line
-	1850 6200 1850 7000
+	1850 4250 1850 7000
 Wire Wire Line
 	1850 6200 1750 6200
 Wire Wire Line
@@ -1683,13 +1542,7 @@ Connection ~ 1850 5300
 Wire Wire Line
 	2700 4400 2800 4400
 Wire Wire Line
-	2800 4250 2800 4400
-Wire Wire Line
-	2800 4400 2800 5300
-Wire Wire Line
-	2800 5300 2800 6200
-Wire Wire Line
-	2800 6200 2800 7000
+	2800 4250 2800 7000
 Wire Wire Line
 	2800 6200 2700 6200
 Wire Wire Line
@@ -1698,13 +1551,7 @@ Connection ~ 2800 5300
 Wire Wire Line
 	3650 4400 3750 4400
 Wire Wire Line
-	3750 4250 3750 4400
-Wire Wire Line
-	3750 4400 3750 5300
-Wire Wire Line
-	3750 5300 3750 6200
-Wire Wire Line
-	3750 6200 3750 7000
+	3750 4250 3750 7000
 Wire Wire Line
 	3750 6200 3650 6200
 Wire Wire Line
@@ -1713,11 +1560,7 @@ Connection ~ 3750 5300
 Wire Wire Line
 	4600 4400 4700 4400
 Wire Wire Line
-	4700 4250 4700 4400
-Wire Wire Line
-	4700 4400 4700 5300
-Wire Wire Line
-	4700 5300 4700 6200
+	4700 4250 4700 6200
 Wire Wire Line
 	4700 6200 4600 6200
 Wire Wire Line
@@ -1726,11 +1569,7 @@ Connection ~ 4700 5300
 Wire Wire Line
 	5600 4400 5700 4400
 Wire Wire Line
-	5700 4250 5700 4400
-Wire Wire Line
-	5700 4400 5700 5300
-Wire Wire Line
-	5700 5300 5700 6200
+	5700 4250 5700 6200
 Wire Wire Line
 	5700 6200 5600 6200
 Wire Wire Line
@@ -1739,11 +1578,7 @@ Connection ~ 5700 5300
 Wire Wire Line
 	6550 4400 6650 4400
 Wire Wire Line
-	6650 4250 6650 4400
-Wire Wire Line
-	6650 4400 6650 5300
-Wire Wire Line
-	6650 5300 6650 6200
+	6650 4250 6650 6200
 Wire Wire Line
 	6650 6200 6550 6200
 Wire Wire Line
@@ -1782,11 +1617,7 @@ Connection ~ 1050 4900
 Connection ~ 1050 5800
 Connection ~ 1050 6700
 Wire Wire Line
-	950  7500 1050 7500
-Wire Wire Line
-	1050 7500 2050 7500
-Wire Wire Line
-	2050 7500 3000 7500
+	950  7500 3000 7500
 Connection ~ 1850 6200
 Connection ~ 1850 7000
 Wire Wire Line
@@ -1806,7 +1637,7 @@ F 1 "USB_C_Receptacle" H 9350 7950 50  0000 R CNN
 F 2 "Connectors_USB:USB_C_Receptacle_Amphenol_12401548E4-2A" H 9100 6500 50  0001 C CNN
 F 3 "" H 9100 6500 50  0001 C CNN
 	1    8950 6500
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 Text Label 9250 5750 1    60   ~ 0
 row0
@@ -1904,7 +1735,7 @@ F 1 "+5v" H 7300 2000 50  0000 C CNN
 F 2 "footprints:1pin-small" H 7300 2100 50  0001 C CNN
 F 3 "" H 7300 2100 50  0001 C CNN
 	1    7300 2100
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Conn_01x01 PIN2
@@ -1915,7 +1746,7 @@ F 1 "D+" H 7300 1800 50  0000 C CNN
 F 2 "footprints:1pin-small" H 7300 1900 50  0001 C CNN
 F 3 "" H 7300 1900 50  0001 C CNN
 	1    7300 1900
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Conn_01x01 PIN3
@@ -1926,7 +1757,7 @@ F 1 "D-" H 7300 1600 50  0000 C CNN
 F 2 "footprints:1pin-small" H 7300 1700 50  0001 C CNN
 F 3 "" H 7300 1700 50  0001 C CNN
 	1    7300 1700
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Conn_01x01 PIN4
@@ -1937,10 +1768,10 @@ F 1 "GND" H 7300 1400 50  0000 C CNN
 F 2 "footprints:1pin-small" H 7300 1500 50  0001 C CNN
 F 3 "" H 7300 1500 50  0001 C CNN
 	1    7300 1500
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Connection ~ 7450 3750
-Connection ~ 8350 750
+Connection ~ 8350 750 
 Wire Wire Line
 	7450 3450 7550 3450
 Wire Wire Line
@@ -1956,7 +1787,7 @@ D-
 Text Label 7100 1500 2    60   ~ 0
 GND
 Text Label 7450 750  2    60   ~ 0
-+5v
+GND
 Text Label 7450 2650 2    60   ~ 0
 D+
 Text Label 7450 2850 2    60   ~ 0
@@ -1964,5 +1795,5 @@ D-
 Wire Wire Line
 	7450 2650 7450 2750
 Text Label 7450 3450 2    60   ~ 0
-GND
++5v
 $EndSCHEMATC
