@@ -1,3 +1,5 @@
 obj_42
 .dep
 firmware/42.*
+pcb/kicad/*-bak
+
