@@ -2,6 +2,8 @@
 42 is a 42-keys split orthogonal keyboard. In this repo you can find all files
 necessary to build and configure one yourself.
 
+![42 keyboard](/42.jpeg)
+
 ## Structure
 You can find the source code for building the firmware and customizing the
 layout in the **firmware** folder.
