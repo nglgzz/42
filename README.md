@@ -13,10 +13,6 @@ In the **pcb** folder there are files for producing or changing the circuit boar
 For laser cutting the case, you can go in the **case** folder and you'll find the
 files in both DXF and SVG formats.
 
-## Notes
-At the moment the keyboard is not working. I need to fix the circuit where the
-two sides of the keyboard are connected.
-
 ## Useful resources
 - [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 I didn't end up putting into practice what's written in this guide, but it has
