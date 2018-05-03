@@ -14,8 +14,8 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                               TRNS, TRNS,           TRNS, TRNS, \
                                          TRNS, TRNS),
     KEYMAP(\
-      TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,           TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,\
-      TRNS, TRNS, HOME, PGUP, PGDOWN, END,          LEFT, DOWN, UP, RIGHT, TRNS, TRNS, \
+      TRNS, TRNS, TRNS, PGUP, TRNS, TRNS,           TRNS, TRNS, UP, TRNS, TRNS, TRNS,\
+      TRNS, TRNS, HOME, PGDOWN, END, TRNS,          FN21, LEFT, DOWN, RIGHT, TRNS, TRNS, \
       TRNS, TRNS, MSTP, MPLY, MPRV, MNXT,           _VOLDOWN, _VOLUP, _MUTE, TRNS, TRNS, TRNS, \
                               TRNS, TRNS,           TRNS, TRNS, \
                                          TRNS, TRNS),
@@ -33,11 +33,11 @@ const action_t PROGMEM fn_actions[] = {
   [4] = ACTION_MODS_TAP_KEY(MOD_LALT, KC_SLSH),
   [5] = ACTION_MODS_TAP_KEY(MOD_LSFT, KC_DELETE),
 
-  [6] = ACTION_LAYER_TAP_KEY(1, KC_QUOTE),
+  [6] = ACTION_LAYER_TAP_KEY(1, KC_LBRACKET),
   [7] = ACTION_MODS_TAP_KEY(MOD_LGUI, KC_SPACE),
-  [8] = ACTION_LAYER_TAP_KEY(1, KC_BSLASH),
-  [9] = ACTION_LAYER_TAP_KEY(2, KC_LBRACKET),
-  [10] = ACTION_LAYER_TAP_KEY(2, KC_RBRACKET),
+  [8] = ACTION_LAYER_TAP_KEY(1, KC_RBRACKET),
+  [9] = ACTION_LAYER_TAP_KEY(2, KC_QUOTE),
+  [10] = ACTION_LAYER_TAP_KEY(2, KC_BSLASH),
 
   [11] = ACTION_MODS_KEY(MOD_LSFT, KC_1),
   [12] = ACTION_MODS_KEY(MOD_LSFT, KC_2),
@@ -49,6 +49,11 @@ const action_t PROGMEM fn_actions[] = {
   [18] = ACTION_MODS_KEY(MOD_LSFT, KC_8),
   [19] = ACTION_MODS_KEY(MOD_LSFT, KC_9),
   [20] = ACTION_MODS_KEY(MOD_LSFT, KC_0),
+
+  // Mod + A (help)
+  [21] = ACTION_MODS_KEY(MOD_LGUI, KC_A),
+  // Ctrl + Backspace (hello Satan)
+  [22] = ACTION_MODS_KEY(MOD_LCTL, KC_BSPACE),
 };
 
 /*
