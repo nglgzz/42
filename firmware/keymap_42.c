@@ -2,7 +2,7 @@
 
 const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KEYMAP(\
-      TAB, Q, W, E, R, T,                Y, U, I, O, P, BSPC,\
+      TAB, Q, W, E, R, T,                Y, U, I, O, P, FN22,\
       FN0, A, S, D, F, G,                H, J, K, L, SCLN, FN1, \
       LSFT, FN3, X, C, V, B,              N, M, COMM, DOT, FN4, FN5, \
                       FN6, FN7,          FN7, FN8, \
@@ -34,10 +34,10 @@ const action_t PROGMEM fn_actions[] = {
   [5] = ACTION_MODS_TAP_KEY(MOD_LSFT, KC_DELETE),
 
   [6] = ACTION_LAYER_TAP_KEY(1, KC_LBRACKET),
-  [7] = ACTION_MODS_TAP_KEY(MOD_LGUI, KC_SPACE),
+  [7] = ACTION_LAYER_TAP_KEY(2, KC_SPACE),
   [8] = ACTION_LAYER_TAP_KEY(1, KC_RBRACKET),
-  [9] = ACTION_LAYER_TAP_KEY(2, KC_QUOTE),
-  [10] = ACTION_LAYER_TAP_KEY(2, KC_BSLASH),
+  [9] = ACTION_MODS_TAP_KEY(MOD_LGUI, KC_QUOTE),
+  [10] = ACTION_MODS_TAP_KEY(MOD_LGUI, KC_BSLASH),
 
   [11] = ACTION_MODS_KEY(MOD_LSFT, KC_1),
   [12] = ACTION_MODS_KEY(MOD_LSFT, KC_2),
