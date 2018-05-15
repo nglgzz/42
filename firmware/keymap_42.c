@@ -15,7 +15,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                                          TRNS, TRNS),
     KEYMAP(\
       TRNS, TRNS, TRNS, PGUP, TRNS, TRNS,           TRNS, TRNS, UP, TRNS, TRNS, TRNS,\
-      TRNS, TRNS, HOME, PGDOWN, END, TRNS,          FN12, LEFT, DOWN, RIGHT, TRNS, TRNS, \
+      TRNS, TRNS, HOME, PGDOWN, END, FN13,          FN12, LEFT, DOWN, RIGHT, TRNS, TRNS, \
       TRNS, TRNS, MSTP, MPLY, MPRV, MNXT,           _VOLDOWN, _VOLUP, _MUTE, TRNS, TRNS, TRNS, \
                               TRNS, TRNS,           TRNS, TRNS, \
                                          TRNS, TRNS),
@@ -48,8 +48,9 @@ const action_t PROGMEM fn_actions[] = {
 
   // Mod + A (help)
   [12] = ACTION_MODS_KEY(MOD_LGUI, KC_A),
+  [13] = ACTION_MODS_KEY(MOD_LGUI, KC_Z),
   // Ctrl + Backspace (hello Satan)
-  [13] = ACTION_MODS_KEY(MOD_LCTL, KC_BSPACE),
+  [14] = ACTION_MODS_KEY(MOD_LCTL, KC_BSPACE),
 
   [21] = ACTION_MODS_KEY(MOD_LSFT, KC_1),
   [22] = ACTION_MODS_KEY(MOD_LSFT, KC_2),
