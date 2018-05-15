@@ -20,8 +20,8 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                               TRNS, TRNS,           TRNS, TRNS, \
                                          TRNS, TRNS),
     KEYMAP(\
-      TRNS, TRNS, WH_U, TRNS, TRNS, TRNS,           TRNS, BTN1, MS_U, BTN2, TRNS, TRNS,\
-      TRNS, WH_L, WH_D, WH_R, TRNS, TRNS,           TRNS, MS_L, MS_D, MS_R, TRNS, TRNS, \
+      TRNS, TRNS, TRNS, WH_U, TRNS, TRNS,           TRNS, BTN1, MS_U, BTN2, TRNS, TRNS,\
+      TRNS, TRNS, WH_L, WH_D, WH_R, TRNS,           TRNS, MS_L, MS_D, MS_R, TRNS, TRNS, \
       TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,           TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, \
                               TRNS, TRNS,           TRNS, TRNS, \
                                          TRNS, TRNS),
