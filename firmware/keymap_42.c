@@ -11,7 +11,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
       GRAVE, 1, 2, 3, 4, 5,                          6, 7, 8, 9, 0, EQUAL,\
       INS, FN21, FN22, FN23, FN24, FN25,           FN26, FN27, FN28, FN29, FN30, MINUS, \
       F1, F2, F3, F4, F5, F6,                       F7, F8, F9, F10, F11, F12, \
-                              TRNS, TRNS,           TRNS, TRNS, \
+                              CAPS, TRNS,           TRNS, TRNS, \
                                          TRNS, TRNS),
     KEYMAP(\
       TRNS, TRNS, TRNS, PGUP, TRNS, TRNS,           TRNS, TRNS, UP, TRNS, TRNS, TRNS,\
