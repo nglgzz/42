@@ -68,6 +68,6 @@ const action_t PROGMEM fn_actions[] = {
 
 Layer 1 - numbers, symbols, and f keys
 Layer 2 - arrows and media keys
-Layer 3 - ctrl+alt+shift layer
+Layer 3 - mouse control
 
 */

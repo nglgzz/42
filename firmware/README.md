@@ -33,56 +33,23 @@ pin:  d0  d1  d2  d3
 The keymap can be adapted in `keymap_42.c`, and can also be found on [KLE](http://www.keyboard-layout-editor.com/#/gists/bdcb70e56b88022d86f30f0957648d67).
 The current layout has the following layers.
 
-#### Dual-role keys ([wiki](https://en.wikipedia.org/wiki/Modifier_key#Dual-role_keys))
-| Normal key | Modifier    |
-|------------|-------------|
-| Esc        | Left Ctrl   |
-| Caps       | Left Shift  |
-| Z          | Left Alt    |
-| Enter      | Right Ctrl  |
-| Del        | Right Shift |
-| /          | Right Alt   |
-| Space      | GUI         |
-| '          | Layer 1     |
-| \          | Layer 1     |
-| [          | Layer 2     |
-| ]          | Layer 2     |
+How to read the labels:
 
-#### 0 - Default layer
-    ,-----------------------------.             ,-----------------------------.
-    | Tab|   Q|   W|   E|   R|   T|             |   Y|   U|   I|   O|   P|  Bs|
-    |-----------------------------|             |-----------------------------|
-    | Esc|   A|   S|   D|   F|   G|             |   H|   J|   K|   L|   ;| Ent|
-    |-----------------------------|             |-----------------------------|
-    |Caps|   Z|   X|   C|   V|   B|             |   N|   M|   ,|   .|   /| Del|
-    `-----------------------------|             |-----------------------------'
-                        |   '| Spc|----.   ,----| Spc|   \|
-                        `---------|   [|   |   ]|---------'
-                                  `----'   `----'
+```
+  /--------------\
+  |L0          L1|
+  |   L1+Shift L2|
+  |L0+Shift    L3|
+  \--------------/
+      Dual role
+```
 
-#### 1 - Numbers, symbols, F keys
-    ,-----------------------------.             ,-----------------------------.
-    |   `|   1|   2|   3|   4|   5|             |   6|   7|   8|   9|   0|   =|
-    |-----------------------------|             |-----------------------------|
-    | Ins|   !|   @|   #|   $|   %|             |   ^|   &|   *|   (|   )|   -|
-    |-----------------------------|             |-----------------------------|
-    |  F1|  F2|  F3|  F4|  F5|  F6|             |  F7|  F8|  F9| F10| F11| F12|
-    `-----------------------------|             |-----------------------------'
-                        |    |    |----.   ,----|    |    |
-                        `---------|    |   |    |---------'
-                                  `----'   `----'
+- L0: default layer
+- L1: numbers, symbols, F keys
+- L2: navigation and media keys
+- L3: mouse controls
+- Dual role: use L0 when tapped quickly, use the value on the front label when kept pressed and used as a modifier
 
-#### 2 - Navigation and media keys
-    ,-----------------------------.             ,-----------------------------.
-    |    |    |    |    |    |    |             |    |    |    |    |    |    |
-    |-----------------------------|             |-----------------------------|
-    |    |    |Home|Pg ▲|Pg ▼| End|             |   ◀|   ▼|   ▲|   ▶|    |    |
-    |-----------------------------|             |-----------------------------|
-    |    |    |Stop|Play|Next|Prev|             |Vol+|Vol-|Mute|    |    |    |
-    `-----------------------------|             |-----------------------------'
-                        |    |    |----.   ,----|    |    |
-                        `---------|    |   |    |---------'
-                                  `----'   `----'
 
 ### Useful Resources
 - [How to build your very own keyboard firmware](https://deskthority.net/workshop-f7/how-to-build-your-very-own-keyboard-firmware-t7177.html)
