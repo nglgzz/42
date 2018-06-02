@@ -1,546 +1,60 @@
-<?xml version="1.0"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="161.924944587mm" height="116.674136913mm" viewBox="0 0 161.924944587 116.674136913" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Line" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line_nwe0000"  d="M 44.498332 -5.6e-05 L 36.749554 -7.748326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line</title>
-</g>
-<g id="Line002" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line002_nwe0000"  d="M 107.998332 -5.6e-05 L 44.498332 -5.6e-05 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line002</title>
-</g>
-<g id="Line003" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line003_nwe0000"  d="M 123.500206 -113.499194 L 118.4992 -108.498188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line003</title>
-</g>
-<g id="Line004" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line004_nwe0000"  d="M 118.4992 -99.250302 L 118.4992 -108.498188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line004</title>
-</g>
-<g id="Line005" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line005_nwe0000"  d="M 117.749646 -98.497954 L 118.4992 -99.250302 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line005</title>
-</g>
-<g id="Line006" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line006_nwe0000"  d="M 7.2e-05 -12.748062 L 7.2e-05 -76.49876 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line006</title>
-</g>
-<g id="Line007" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line007_nwe0000"  d="M 36.749554 -7.748326 L 4.999554 -7.748326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line007</title>
-</g>
-<g id="Line008" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line008_nwe0000"  d="M 84.001428 -98.497954 L 117.749646 -98.497954 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line008</title>
-</g>
-<g id="Line001" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line001_nwe0000"  d="M 113.248766 -5.249982 L 107.998332 -5.59999999998e-05 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line001</title>
-</g>
-<g id="Top_1" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line_nwe0000"  d="M 44.498332 -5.6e-05 L 36.749554 -7.748326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line001_nwe0000"  d="M 113.248766 -5.249982 L 107.998332 -5.59999999998e-05 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line002_nwe0000"  d="M 107.998332 -5.6e-05 L 44.498332 -5.6e-05 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line003_nwe0000"  d="M 123.500206 -113.499194 L 118.4992 -108.498188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line004_nwe0000"  d="M 118.4992 -99.250302 L 118.4992 -108.498188 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line005_nwe0000"  d="M 117.749646 -98.497954 L 118.4992 -99.250302 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line006_nwe0000"  d="M 7.2e-05 -12.748062 L 7.2e-05 -76.49876 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line007_nwe0000"  d="M 36.749554 -7.748326 L 4.999554 -7.748326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line008_nwe0000"  d="M 84.001428 -98.497954 L 117.749646 -98.497954 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line009_nwe0000"  d="M 78.999152 -93.499996 L 84.001428 -98.497954 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line010_nwe0000"  d="M 78.999152 -86.247026 L 78.999152 -93.499996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line011_nwe0000"  d="M 78.999152 -86.247026 L 74.00094 -81.249068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line013_nwe0000"  d="M 10.021054 -17.769562 L 10.021054 -31.729563 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line014_nwe0000"  d="M 23.981054 -37.518062 L 23.981054 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line015_nwe0000"  d="M 23.981054 -51.478062 L 10.021054 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line016_nwe0000"  d="M 10.021054 -51.478062 L 10.021054 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line017_nwe0000"  d="M 10.021054 -37.518062 L 23.981054 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line018_nwe0000"  d="M 23.981054 -57.26834 L 23.981054 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line019_nwe0000"  d="M 23.981054 -71.22834 L 10.021054 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line020_nwe0000"  d="M 10.021054 -71.22834 L 10.021054 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line021_nwe0000"  d="M 43.729554 -57.26834 L 43.729554 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line022_nwe0000"  d="M 10.021054 -57.26834 L 23.981054 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line023_nwe0000"  d="M 43.729554 -71.22834 L 29.769554 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line024_nwe0000"  d="M 29.769554 -71.22834 L 29.769554 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line025_nwe0000"  d="M 29.769554 -57.26834 L 43.729554 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line026_nwe0000"  d="M 43.729554 -37.518062 L 43.729554 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line027_nwe0000"  d="M 43.729554 -51.478062 L 29.769554 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line028_nwe0000"  d="M 29.769554 -51.478062 L 29.769554 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line029_nwe0000"  d="M 29.769554 -37.518062 L 43.729554 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line030_nwe0000"  d="M 43.729554 -17.769562 L 43.729554 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line031_nwe0000"  d="M 43.729554 -31.729562 L 29.769554 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line032_nwe0000"  d="M 29.769554 -31.729562 L 29.769554 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line033_nwe0000"  d="M 29.769554 -17.769562 L 43.729554 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line034_nwe0000"  d="M 63.479832 -12.768556 L 63.479832 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line035_nwe0000"  d="M 63.479832 -26.728556 L 49.519832 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line036_nwe0000"  d="M 49.519832 -26.728556 L 49.519832 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line037_nwe0000"  d="M 49.519832 -12.768556 L 63.479832 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line038_nwe0000"  d="M 63.479832 -32.518326 L 63.479832 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line039_nwe0000"  d="M 63.479832 -46.478326 L 49.519832 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line040_nwe0000"  d="M 49.519832 -46.478326 L 49.519832 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line041_nwe0000"  d="M 49.519832 -32.518326 L 63.479832 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line042_nwe0000"  d="M 63.479832 -52.270128 L 63.479832 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line043_nwe0000"  d="M 63.479832 -66.230128 L 49.519832 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line044_nwe0000"  d="M 49.519832 -66.230128 L 49.519832 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line045_nwe0000"  d="M 49.519832 -52.270128 L 63.479832 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line046_nwe0000"  d="M 83.228332 -49.76899 L 83.228332 -63.72899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line047_nwe0000"  d="M 83.228332 -63.72899 L 69.268332 -63.72899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line048_nwe0000"  d="M 69.268332 -63.72899 L 69.268332 -49.76899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line049_nwe0000"  d="M 69.268332 -49.76899 L 83.228332 -49.76899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line050_nwe0000"  d="M 83.228332 -30.019982 L 83.228332 -43.979982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line051_nwe0000"  d="M 83.228332 -43.979982 L 69.268332 -43.979982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line052_nwe0000"  d="M 69.268332 -43.979982 L 69.268332 -30.019982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line053_nwe0000"  d="M 69.268332 -30.019982 L 83.228332 -30.019982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line054_nwe0000"  d="M 83.228332 -23.728562 L 69.268332 -23.728562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line055_nwe0000"  d="M 83.228332 -9.768562 L 83.228332 -23.728562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line056_nwe0000"  d="M 69.268332 -23.728562 L 69.268332 -9.768562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line057_nwe0000"  d="M 69.268332 -9.768562 L 83.228332 -9.768562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line058_nwe0000"  d="M 102.979626 -12.768556 L 102.979626 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line059_nwe0000"  d="M 102.979626 -26.728556 L 89.019626 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line060_nwe0000"  d="M 89.019626 -26.728556 L 89.019626 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line061_nwe0000"  d="M 89.019626 -12.768556 L 102.979626 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line062_nwe0000"  d="M 102.979626 -32.518326 L 102.979626 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line063_nwe0000"  d="M 102.979626 -46.478326 L 89.019626 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line064_nwe0000"  d="M 89.019626 -46.478326 L 89.019626 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line065_nwe0000"  d="M 89.019626 -32.518326 L 102.979626 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line066_nwe0000"  d="M 102.979626 -52.270128 L 102.979626 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line067_nwe0000"  d="M 102.979626 -66.230128 L 89.019626 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line068_nwe0000"  d="M 89.019626 -66.230128 L 89.019626 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line069_nwe0000"  d="M 89.019626 -52.270128 L 102.979626 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line070_nwe0000"  d="M 102.979626 -72.269326 L 102.979626 -86.229326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line071_nwe0000"  d="M 102.979626 -86.229326 L 89.019626 -86.229326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line072_nwe0000"  d="M 89.019626 -86.229326 L 89.019626 -72.269326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line073_nwe0000"  d="M 89.019626 -72.269326 L 102.979626 -72.269326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line074_nwe0000"  d="M 122.731428 -74.518496 L 122.731428 -88.478496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line075_nwe0000"  d="M 122.731428 -88.478496 L 108.771428 -88.478496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line076_nwe0000"  d="M 108.771428 -88.478496 L 108.771428 -74.518496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line077_nwe0000"  d="M 108.771428 -74.518496 L 122.731428 -74.518496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line078_nwe0000"  d="M 122.731428 -54.769996 L 122.731428 -68.729996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line079_nwe0000"  d="M 122.731428 -68.729996 L 108.771428 -68.729996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line080_nwe0000"  d="M 108.771428 -68.729996 L 108.771428 -54.769996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line081_nwe0000"  d="M 108.771428 -54.769996 L 122.731428 -54.769996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line082_nwe0000"  d="M 122.731428 -35.018194 L 122.731428 -48.978194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line083_nwe0000"  d="M 122.731428 -48.978194 L 108.771428 -48.978194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line084_nwe0000"  d="M 108.771428 -48.978194 L 108.771428 -35.018194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line085_nwe0000"  d="M 108.771428 -35.018194 L 122.731428 -35.018194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line086_nwe0000"  d="M 122.731428 -15.269694 L 122.731428 -29.229694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line087_nwe0000"  d="M 122.731428 -29.229694 L 108.771428 -29.229694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line088_nwe0000"  d="M 108.771428 -29.229694 L 108.771428 -15.269694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line089_nwe0000"  d="M 108.771428 -15.269694 L 122.731428 -15.269694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line090_nwe0000"  d="M 142.479928 -89.519482 L 142.479928 -103.479482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line091_nwe0000"  d="M 142.479928 -103.479482 L 128.519928 -103.479482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line092_nwe0000"  d="M 128.519928 -103.479482 L 128.519928 -89.519482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Line093_nwe0000"  d="M 128.519928 -89.519482 L 142.479928 -89.519482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Polyline_w0000"  d="M 23.981054 -17.769562 L 10.021054 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Polyline002_w0000"  d="M 23.981054 -17.769562 L 23.981054 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Polyline003_w0000"  d="M 123.500206 -113.499194 L 153.749574 -113.499194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Polyline004_w0000"  d="M 74.00094 -81.249068 L 4.750126 -81.249068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Polyline006_w0000"  d="M 23.981054 -31.729562 L 10.021054 -31.729563 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Polyline007_w0000"  d="M 153.749573 -5.249982 L 113.248766 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Arc_nwe0000"  d="M 158.750017674 -10.2481940141 A 5.00002 5.00002 0 0 1 153.75 -5.24998" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Arc001_nwe0000"  d="M 4.99955398753 -7.74807201989 A 4.99993 4.99993 0 0 1 7.2e-05 -12.748" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Arc002_nwe0000"  d="M 153.749574034 -113.499193982 A 4.99919 4.99919 0 0 1 158.749 -108.498" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Arc003_nwe0000"  d="M 7.20016980118e-05 -76.4987599909 A 4.75005 4.75005 0 0 1 4.75013 -81.2489" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="5.0" cy="-12.748" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="5.0" cy="-76.509" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="153.75" cy="-108.5" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="153.75" cy="-10.25" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Top 1</title>
-</g>
-<g id="Line010" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line010_nwe0000"  d="M 78.999152 -86.247026 L 78.999152 -93.499996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line010</title>
-</g>
-<g id="Line011" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line011_nwe0000"  d="M 78.999152 -86.247026 L 74.00094 -81.249068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line011</title>
-</g>
-<g id="Line013" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line013_nwe0000"  d="M 10.021054 -17.769562 L 10.021054 -31.729563 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line013</title>
-</g>
-<g id="Line014" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line014_nwe0000"  d="M 23.981054 -37.518062 L 23.981054 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line014</title>
-</g>
-<g id="Line015" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line015_nwe0000"  d="M 23.981054 -51.478062 L 10.021054 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line015</title>
-</g>
-<g id="Line016" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line016_nwe0000"  d="M 10.021054 -51.478062 L 10.021054 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line016</title>
-</g>
-<g id="Line009" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line009_nwe0000"  d="M 78.999152 -93.499996 L 84.001428 -98.497954 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line009</title>
-</g>
-<g id="Line017" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line017_nwe0000"  d="M 10.021054 -37.518062 L 23.981054 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line017</title>
-</g>
-<g id="Line018" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line018_nwe0000"  d="M 23.981054 -57.26834 L 23.981054 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line018</title>
-</g>
-<g id="Line019" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line019_nwe0000"  d="M 23.981054 -71.22834 L 10.021054 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line019</title>
-</g>
-<g id="Line020" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line020_nwe0000"  d="M 10.021054 -71.22834 L 10.021054 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line020</title>
-</g>
-<g id="Line021" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line021_nwe0000"  d="M 43.729554 -57.26834 L 43.729554 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line021</title>
-</g>
-<g id="Line022" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line022_nwe0000"  d="M 10.021054 -57.26834 L 23.981054 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line022</title>
-</g>
-<g id="Line023" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line023_nwe0000"  d="M 43.729554 -71.22834 L 29.769554 -71.22834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line023</title>
-</g>
-<g id="Line024" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line024_nwe0000"  d="M 29.769554 -71.22834 L 29.769554 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line024</title>
-</g>
-<g id="Line025" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line025_nwe0000"  d="M 29.769554 -57.26834 L 43.729554 -57.26834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line025</title>
-</g>
-<g id="Line026" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line026_nwe0000"  d="M 43.729554 -37.518062 L 43.729554 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line026</title>
-</g>
-<g id="Line027" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line027_nwe0000"  d="M 43.729554 -51.478062 L 29.769554 -51.478062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line027</title>
-</g>
-<g id="Line028" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line028_nwe0000"  d="M 29.769554 -51.478062 L 29.769554 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line028</title>
-</g>
-<g id="Line029" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line029_nwe0000"  d="M 29.769554 -37.518062 L 43.729554 -37.518062 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line029</title>
-</g>
-<g id="Line030" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line030_nwe0000"  d="M 43.729554 -17.769562 L 43.729554 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line030</title>
-</g>
-<g id="Line031" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line031_nwe0000"  d="M 43.729554 -31.729562 L 29.769554 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line031</title>
-</g>
-<g id="Line032" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line032_nwe0000"  d="M 29.769554 -31.729562 L 29.769554 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line032</title>
-</g>
-<g id="Line033" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line033_nwe0000"  d="M 29.769554 -17.769562 L 43.729554 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line033</title>
-</g>
-<g id="Line034" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line034_nwe0000"  d="M 63.479832 -12.768556 L 63.479832 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line034</title>
-</g>
-<g id="Line035" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line035_nwe0000"  d="M 63.479832 -26.728556 L 49.519832 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line035</title>
-</g>
-<g id="Line036" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line036_nwe0000"  d="M 49.519832 -26.728556 L 49.519832 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line036</title>
-</g>
-<g id="Line037" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line037_nwe0000"  d="M 49.519832 -12.768556 L 63.479832 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line037</title>
-</g>
-<g id="Line038" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line038_nwe0000"  d="M 63.479832 -32.518326 L 63.479832 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line038</title>
-</g>
-<g id="Line039" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line039_nwe0000"  d="M 63.479832 -46.478326 L 49.519832 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line039</title>
-</g>
-<g id="Line040" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line040_nwe0000"  d="M 49.519832 -46.478326 L 49.519832 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line040</title>
-</g>
-<g id="Line041" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line041_nwe0000"  d="M 49.519832 -32.518326 L 63.479832 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line041</title>
-</g>
-<g id="Line042" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line042_nwe0000"  d="M 63.479832 -52.270128 L 63.479832 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line042</title>
-</g>
-<g id="Line043" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line043_nwe0000"  d="M 63.479832 -66.230128 L 49.519832 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line043</title>
-</g>
-<g id="Line044" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line044_nwe0000"  d="M 49.519832 -66.230128 L 49.519832 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line044</title>
-</g>
-<g id="Line056" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line056_nwe0000"  d="M 69.268332 -23.728562 L 69.268332 -9.768562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line056</title>
-</g>
-<g id="Line045" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line045_nwe0000"  d="M 49.519832 -52.270128 L 63.479832 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line045</title>
-</g>
-<g id="Line046" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line046_nwe0000"  d="M 83.228332 -49.76899 L 83.228332 -63.72899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line046</title>
-</g>
-<g id="Line047" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line047_nwe0000"  d="M 83.228332 -63.72899 L 69.268332 -63.72899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line047</title>
-</g>
-<g id="Line048" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line048_nwe0000"  d="M 69.268332 -63.72899 L 69.268332 -49.76899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line048</title>
-</g>
-<g id="Line049" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line049_nwe0000"  d="M 69.268332 -49.76899 L 83.228332 -49.76899 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line049</title>
-</g>
-<g id="Line050" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line050_nwe0000"  d="M 83.228332 -30.019982 L 83.228332 -43.979982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line050</title>
-</g>
-<g id="Line051" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line051_nwe0000"  d="M 83.228332 -43.979982 L 69.268332 -43.979982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line051</title>
-</g>
-<g id="Line052" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line052_nwe0000"  d="M 69.268332 -43.979982 L 69.268332 -30.019982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line052</title>
-</g>
-<g id="Line053" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line053_nwe0000"  d="M 69.268332 -30.019982 L 83.228332 -30.019982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line053</title>
-</g>
-<g id="Line054" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line054_nwe0000"  d="M 83.228332 -23.728562 L 69.268332 -23.728562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line054</title>
-</g>
-<g id="Line055" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line055_nwe0000"  d="M 83.228332 -9.768562 L 83.228332 -23.728562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line055</title>
-</g>
-<g id="Line057" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line057_nwe0000"  d="M 69.268332 -9.768562 L 83.228332 -9.768562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line057</title>
-</g>
-<g id="Line058" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line058_nwe0000"  d="M 102.979626 -12.768556 L 102.979626 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line058</title>
-</g>
-<g id="Line059" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line059_nwe0000"  d="M 102.979626 -26.728556 L 89.019626 -26.728556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line059</title>
-</g>
-<g id="Line060" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line060_nwe0000"  d="M 89.019626 -26.728556 L 89.019626 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line060</title>
-</g>
-<g id="Line061" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line061_nwe0000"  d="M 89.019626 -12.768556 L 102.979626 -12.768556 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line061</title>
-</g>
-<g id="Line062" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line062_nwe0000"  d="M 102.979626 -32.518326 L 102.979626 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line062</title>
-</g>
-<g id="Line063" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line063_nwe0000"  d="M 102.979626 -46.478326 L 89.019626 -46.478326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line063</title>
-</g>
-<g id="Line064" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line064_nwe0000"  d="M 89.019626 -46.478326 L 89.019626 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line064</title>
-</g>
-<g id="Line065" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line065_nwe0000"  d="M 89.019626 -32.518326 L 102.979626 -32.518326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line065</title>
-</g>
-<g id="Line066" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line066_nwe0000"  d="M 102.979626 -52.270128 L 102.979626 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line066</title>
-</g>
-<g id="Line067" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line067_nwe0000"  d="M 102.979626 -66.230128 L 89.019626 -66.230128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line067</title>
-</g>
-<g id="Line068" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line068_nwe0000"  d="M 89.019626 -66.230128 L 89.019626 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line068</title>
-</g>
-<g id="Line070" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line070_nwe0000"  d="M 102.979626 -72.269326 L 102.979626 -86.229326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line070</title>
-</g>
-<g id="Line071" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line071_nwe0000"  d="M 102.979626 -86.229326 L 89.019626 -86.229326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line071</title>
-</g>
-<g id="Line072" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line072_nwe0000"  d="M 89.019626 -86.229326 L 89.019626 -72.269326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line072</title>
-</g>
-<g id="Line073" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line073_nwe0000"  d="M 89.019626 -72.269326 L 102.979626 -72.269326 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line073</title>
-</g>
-<g id="Line074" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line074_nwe0000"  d="M 122.731428 -74.518496 L 122.731428 -88.478496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line074</title>
-</g>
-<g id="Line075" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line075_nwe0000"  d="M 122.731428 -88.478496 L 108.771428 -88.478496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line075</title>
-</g>
-<g id="Line076" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line076_nwe0000"  d="M 108.771428 -88.478496 L 108.771428 -74.518496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line076</title>
-</g>
-<g id="Line069" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line069_nwe0000"  d="M 89.019626 -52.270128 L 102.979626 -52.270128 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line069</title>
-</g>
-<g id="Line078" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line078_nwe0000"  d="M 122.731428 -54.769996 L 122.731428 -68.729996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line078</title>
-</g>
-<g id="Line079" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line079_nwe0000"  d="M 122.731428 -68.729996 L 108.771428 -68.729996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line079</title>
-</g>
-<g id="Line080" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line080_nwe0000"  d="M 108.771428 -68.729996 L 108.771428 -54.769996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line080</title>
-</g>
-<g id="Line081" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line081_nwe0000"  d="M 108.771428 -54.769996 L 122.731428 -54.769996 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line081</title>
-</g>
-<g id="Line083" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line083_nwe0000"  d="M 122.731428 -48.978194 L 108.771428 -48.978194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line083</title>
-</g>
-<g id="Line082" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line082_nwe0000"  d="M 122.731428 -35.018194 L 122.731428 -48.978194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line082</title>
-</g>
-<g id="Line085" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line085_nwe0000"  d="M 108.771428 -35.018194 L 122.731428 -35.018194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line085</title>
-</g>
-<g id="Line086" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line086_nwe0000"  d="M 122.731428 -15.269694 L 122.731428 -29.229694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line086</title>
-</g>
-<g id="Line084" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line084_nwe0000"  d="M 108.771428 -48.978194 L 108.771428 -35.018194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line084</title>
-</g>
-<g id="Line077" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line077_nwe0000"  d="M 108.771428 -74.518496 L 122.731428 -74.518496 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line077</title>
-</g>
-<g id="Line088" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line088_nwe0000"  d="M 108.771428 -29.229694 L 108.771428 -15.269694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line088</title>
-</g>
-<g id="Line089" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line089_nwe0000"  d="M 108.771428 -15.269694 L 122.731428 -15.269694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line089</title>
-</g>
-<g id="Line090" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line090_nwe0000"  d="M 142.479928 -89.519482 L 142.479928 -103.479482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line090</title>
-</g>
-<g id="Line091" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line091_nwe0000"  d="M 142.479928 -103.479482 L 128.519928 -103.479482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line091</title>
-</g>
-<g id="Line092" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line092_nwe0000"  d="M 128.519928 -103.479482 L 128.519928 -89.519482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line092</title>
-</g>
-<g id="Line087" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line087_nwe0000"  d="M 122.731428 -29.229694 L 108.771428 -29.229694 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line087</title>
-</g>
-<g id="Polyline" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Polyline_w0000"  d="M 23.981054 -17.769562 L 10.021054 -17.769562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline</title>
-</g>
-<g id="Polyline002" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Polyline002_w0000"  d="M 23.981054 -17.769562 L 23.981054 -31.729562 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline002</title>
-</g>
-<g id="Polyline003" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Polyline003_w0000"  d="M 123.500206 -113.499194 L 153.749574 -113.499194 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline003</title>
-</g>
-<g id="Polyline004" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Polyline004_w0000"  d="M 74.00094 -81.249068 L 4.750126 -81.249068 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline004</title>
-</g>
-<g id="Line093" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line093_nwe0000"  d="M 128.519928 -89.519482 L 142.479928 -89.519482 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line093</title>
-</g>
-<g id="Polyline006" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Polyline006_w0000"  d="M 23.981054 -31.729562 L 10.021054 -31.729563 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline006</title>
-</g>
-<g id="Polyline007" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Polyline007_w0000"  d="M 153.749573 -5.249982 L 113.248766 -5.249982 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Polyline007</title>
-</g>
-<g id="Arc" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Arc_nwe0000"  d="M 158.750017674 -10.2481940141 A 5.00002 5.00002 0 0 1 153.75 -5.24998" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Arc</title>
-</g>
-<g id="Arc001" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Arc001_nwe0000"  d="M 4.99955398753 -7.74807201989 A 4.99993 4.99993 0 0 1 7.2e-05 -12.748" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Arc001</title>
-</g>
-<g id="Arc002" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Arc002_nwe0000"  d="M 153.749574034 -113.499193982 A 4.99919 4.99919 0 0 1 158.749 -108.498" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Arc002</title>
-</g>
-<g id="Arc003" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Arc003_nwe0000"  d="M 7.20016980118e-05 -76.4987599909 A 4.75005 4.75005 0 0 1 4.75013 -81.2489" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Arc003</title>
-</g>
-<g id="Circle" transform="translate(1.587427,1.587443) scale(1,-1)">
-<circle cx="5.0" cy="-12.748" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle</title>
-</g>
-<g id="Circle001" transform="translate(1.587427,1.587443) scale(1,-1)">
-<circle cx="5.0" cy="-76.509" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle001</title>
-</g>
-<g id="Circle002" transform="translate(1.587427,1.587443) scale(1,-1)">
-<circle cx="153.75" cy="-108.5" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle002</title>
-</g>
-<g id="Circle003" transform="translate(1.587427,1.587443) scale(1,-1)">
-<circle cx="153.75" cy="-10.25" r="1.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Circle003</title>
-</g>
-<g id="Line094" transform="translate(1.587427,1.587443) scale(1,-1)">
-<path id="Line094_w0000"  d="M 158.74079895 -10.1316299438 L 158.687896729 -109.280479431 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line094</title>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="172.00399780273438mm"
+   height="127.00399780273438mm"
+   viewBox="-92.00199890136719 -58.50199890136719 172.00399780273438 127.00399780273438"
+   version="1.1"
+   id="svg10187"
+   sodipodi:docname="top-right.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata10193">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10191" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1840"
+     inkscape:window-height="1000"
+     id="namedview10189"
+     showgrid="false"
+     inkscape:zoom="1.1312075"
+     inkscape:cx="326.1313"
+     inkscape:cy="221.79326"
+     inkscape:window-x="40"
+     inkscape:window-y="40"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10187" />
+  <title
+     id="title10181">svgOutput</title>
+  <desc
+     id="desc10183">made with tinkercad</desc>
+  <path
+     d="m -85.143997,67.501999 -1.966004,-1.965996 -1.286689,-1.28669 -1.174195,-1.174194 L -90.112,62.534 -91.001999,61.644001 V 57.344002 49.152 32.768002 0 v -32.768002 -8.191997 -3.683003 l 0.889999,-0.89022 2.781983,-2.782681 0.0621,-0.06212 0.457504,-0.457573 0.316407,-0.316406 2.350006,-2.349999 h 2.223999 16.383995 22.176002 l 0.108002,-0.109001 0.108997,0.109001 6,-6 h 4.375 H 0 h 23 0.0012 9.141777 l 0.625,0.625 7.375,7.375 9.99e-4,-9.99e-4 9.99e-4,9.99e-4 h 25.391003 6.607994 l 0.349953,0.349999 1.234047,1.23423 1.889755,1.89003 0.654823,0.654914 2.729424,2.729824 v 1.683003 8.191997 V 0 16.384001 24.576 28.643 l -2.206497,2.206501 -1.918503,1.918501 -2.733002,2.732997 H 65.536003 63.481998 49.521999 43.733002 29.773001 3.003 L 0,38.504002 v 6.139 l -7.8569999,7.857997 H -29.476999 -30.858 -35.855999 l -3.145,3.145001 v 4.998001 l -4.892003,4.892002 -1.965999,1.965996 H -65.536003 -85.143997 M 74.532997,31.419001 74.919998,31.032 l 0.249001,-0.487999 0.086,-0.541001 -0.086,-0.541 -0.249001,-0.487999 -0.387001,-0.387001 -0.487999,-0.247999 -0.317001,-0.05039 -0.223999,-0.03561 -0.540001,0.086 -0.487999,0.247999 -0.085,0.085 -0.302002,0.302 -0.249001,0.487999 -0.086,0.541 0.086,0.541001 0.249001,0.487999 0.387001,0.387001 0.487999,0.247999 0.540001,0.086 0.223999,-0.03561 0.317001,-0.05039 0.487999,-0.247999 M 4.2340002,-1.729 H 0 -9.7259998 V 0 0.773 12.231 H 0 4.2340002 V 5.7709999 0.773 0 -0.02 -1.729 m 0,-14.655001 V -18.979 -19.768 -21.478001 H 0 -9.7259998 V -7.5180001 H 0 4.2340002 V -13.98 -16.384001 m 39.4990018,-17.344 h -10.965 -2.995001 v 0.959999 11.290001 1.710001 h 2.995001 10.965 v -13.000002 -0.959999 M -15.517,34.731998 V 32.768002 20.771999 h -13.959999 v 11.996003 1.963996 H -15.517 M 63.481998,14.733 V 5.7709999 H 49.521999 V 14.733 19.731001 H 63.481998 V 14.733 M -9.7259998,-27.768999 H 0 4.2340002 v -4.999003 -0.959999 -5.000999 -3 H 0 -9.7259998 v 8.960998 4.999003 M -86.666,60.976002 l -0.236756,0.463997 -0.01225,0.024 -0.086,0.540001 0.086,0.540996 0.249001,0.488003 0.387001,0.386997 0.487999,0.249001 0.541,0.085 0.540001,-0.085 0.487999,-0.249001 0.387001,-0.386997 0.249,-0.488003 0.086,-0.540996 -0.086,-0.540001 -0.01224,-0.024 -0.236755,-0.463997 L -84.222,60.589001 -84.709999,60.34 -85.25,60.254002 -85.791,60.34 -86.278999,60.589001 -86.666,60.976002 M 74.532997,-42.334 l 0.387001,-0.388 0.249001,-0.487999 0.086,-0.540001 -0.086,-0.541 -0.249001,-0.487999 -0.387001,-0.387001 -0.487999,-0.249001 -0.317001,-0.04981 -0.223999,-0.03519 -0.540001,0.085 -0.487999,0.249001 -0.110001,0.11 -0.277,0.277001 -0.249001,0.487999 -0.086,0.541 0.086,0.540001 0.249001,0.487999 0.387001,0.388 0.487999,0.248001 0.540001,0.086 0.223999,-0.03561 0.317001,-0.05039 0.487999,-0.248001 M -15.517,14.733 V 0.773 h -13.959999 v 13.96 H -15.517 m -71.398001,-61.524 -0.086,0.541 0.086,0.540001 0.249001,0.487999 0.166,0.166 0.221001,0.221001 0.263,0.134193 0.224999,0.114807 0.541,0.086 0.540001,-0.086 0.487999,-0.249 0.221001,-0.221001 0.166,-0.166 0.249,-0.487999 0.086,-0.540001 -0.086,-0.541 -0.249,-0.487999 L -84.222,-47.666 -84.709999,-47.915001 -85.25,-48 l -0.541,0.085 -0.224999,0.114807 -0.263,0.134194 -0.387001,0.387001 -0.249001,0.487999 M -49.229,3.2720001 V 14.733 17.232 h 13.959999 V 14.733 3.2720001 H -49.229 m 0,29.4960019 v 4.212997 h 13.959999 V 32.768002 23.021 H -49.229 v 9.747002 m 13.959999,-65.536004 v -3.459999 H -49.229 v 3.459999 10.500002 h 13.959999 v -10.500002 m 5.792002,27.7490019 H -15.517 V -18.979 H -29.476999 V -5.0190001 M -68.977997,38.021999 V 49.152 51.981998 h 3.441994 10.518001 V 38.021999 h -10.518001 -3.441994 M -15.517,-32.768002 V -38.729 h -13.959999 v 5.960998 7.999003 H -15.517 v -7.999003 M -35.269001,-16.479 H -49.229 v 13.9599999 h 13.959999 V -16.479 M 23.983,14.733 V 5.7709999 0.773 H 10.023 V 5.7709999 14.733 h 13.748 0.212 m 19.750002,0 V 5.7709999 H 29.773001 V 14.733 19.731001 H 43.733002 V 14.733 M 10.023,-13.98 v 8.9609999 h 13.96 V -13.98 -16.384001 -18.979 h -13.96 v 2.594999 2.404001 m 19.750001,0 v 13.96 h 2.995001 10.965 v -13.96 h -10.965 -2.995001 M 10.023,-24.768999 h 13.96 v -7.999003 -0.959999 -5.000999 h -13.96 v 5.000999 0.959999 7.999003 M 49.521999,-19.768 h 13.959999 v -13.000002 -0.959999 H 55.917 49.521999 v 0.959999 13.000002 m 13.959999,5.788 H 49.521999 v 13.96 h 13.959999 v -13.96"
+     id="path10185"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#0000ff;stroke-width:0.01mm"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>
