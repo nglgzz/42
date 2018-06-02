@@ -12,7 +12,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
       INS, FN21, FN22, FN23, FN24, FN25,           FN26, FN27, FN28, FN29, FN30, MINUS, \
       F1, F2, F3, F4, F5, F6,                       F7, F8, F9, F10, F11, F12, \
                               CAPS, TRNS,           TRNS, TRNS, \
-                                         TRNS, TRNS),
+                                         FN15, TRNS),
     KEYMAP(\
       TRNS, TRNS, TRNS, PGUP, TRNS, TRNS,           TRNS, TRNS, UP, TRNS, TRNS, TRNS,\
       TRNS, TRNS, HOME, PGDOWN, END, FN13,          FN12, LEFT, DOWN, RIGHT, TRNS, TRNS, \
@@ -26,6 +26,12 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                               TRNS, TRNS,           TRNS, TRNS, \
                                          TRNS, TRNS),
     KEYMAP(\
+      TAB, TRNS, TRNS, TRNS, TRNS, TRNS,           TRNS, TRNS, UP, TRNS, TRNS, TRNS,\
+      LCTL, TRNS, TRNS, TRNS, TRNS, TRNS,           TRNS, LEFT, DOWN, RIGHT, TRNS, TRNS, \
+      LSFT, TRNS, TRNS, TRNS, TRNS, TRNS,           TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, \
+                              TRNS, SPC,           TRNS, TRNS, \
+                                         TRNS, TRNS),
+   KEYMAP(\
       TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,           TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,\
       TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,           TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, \
       TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,           TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, \
@@ -51,6 +57,7 @@ const action_t PROGMEM fn_actions[] = {
   [13] = ACTION_MODS_KEY(MOD_LGUI, KC_Z),
   // Ctrl + Backspace (hello Satan)
   [14] = ACTION_MODS_KEY(MOD_LCTL, KC_BSPACE),
+  [15] = ACTION_LAYER_TOGGLE(4),
 
   [21] = ACTION_MODS_KEY(MOD_LSFT, KC_1),
   [22] = ACTION_MODS_KEY(MOD_LSFT, KC_2),
