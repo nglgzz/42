@@ -1,6 +1,12 @@
 ## 42 keyboard case
-The files for cutting the case are available both on DXF and SVG format.
-Currently there are just 2 layers, one on top of the PCB, where the switches
-are mounted, and one below the PCB. The sides are not closed, so the space
-between layers is visible.
 
+There are four pieces in total, which should be glued together. Two pieces form the plate in which switches, controller, and battery are mounted and
+handwired. While the other two pieces are the bottom cover.
+
+### Switch plate
+
+![switch-plate](/case/top.png)
+
+### Bottom cover
+
+![bottom-cover](/case/bottom.png)
