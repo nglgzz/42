@@ -21,3 +21,20 @@
   { K20, K21, K22, K23, K24, K25, K26, K27, K28, K29, K2A, K2B }, \
   { KC_NO, KC_NO, KC_NO, K33, K34, K35, K36, K37, K38, KC_NO, KC_NO, KC_NO } \
 }
+
+// Left side custom keys
+#define CTRL_ESC MT(MOD_LCTL, KC_ESCAPE)
+#define ALT_Z MT(MOD_LALT, KC_Z)
+#define GUI_QUOTE MT(MOD_LGUI, KC_QUOTE)
+#define SPC_L2 LT(2, KC_SPC)
+#define LBRC_L1 LT(1, KC_LBRC)
+
+// Right side custom keys
+#define CTRL_ENTER MT(MOD_LCTL, KC_ENTER)
+#define ALT_SLASH MT(MOD_LALT, KC_SLASH)
+#define SHIFT_DELETE MT(MOD_LSFT, KC_DELETE)
+#define GUI_BSLS MT(MOD_LGUI, KC_BSLS)
+#define SPC_L3 LT(3, KC_SPC)
+#define RBRC_L1 LT(1, KC_RBRC)
+
+#define TAPPING_TERM 100
