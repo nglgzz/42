@@ -28,6 +28,7 @@
 #define GUI_QUOTE MT(MOD_LGUI, KC_QUOTE)
 #define SPC_L2 LT(2, KC_SPC)
 #define LBRC_L1 LT(1, KC_LBRC)
+#define T_GAME TG(4)
 
 // Right side custom keys
 #define CTRL_ENTER MT(MOD_LCTL, KC_ENTER)
