@@ -1,7 +1,6 @@
 ## 42 keyboard case
 
-There are four pieces in total, which should be glued together. Two pieces form the plate in which switches, controller, and battery are mounted and
-handwired. While the other two pieces are the bottom cover.
+There are four pieces in total. Two pieces form the top plate (they should be glued together), and two pieces form the bottom plate (they should be screwed to the top plates with M3x10 screws).
 
 ### Switch plate
 
