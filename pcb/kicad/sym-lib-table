@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Keyboard_Parts)(type Legacy)(uri /home/nglgzz/.kicad/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name pcb-eagle-import)(type Legacy)(uri ${KIPRJMOD}/pcb-eagle-import.lib)(options "")(descr ""))
+  (lib (name pcb)(type Legacy)(uri ${KIPRJMOD}/pcb.lib)(options "")(descr ""))
+)
