@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Keyboard_Parts)(type KiCad)(uri /home/nglgzz/.kicad/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name Keebs)(type KiCad)(uri /home/nglgzz/.kicad/keebs.pretty)(options "")(descr ""))
+  (lib (name pcb)(type KiCad)(uri ${KIPRJMOD}/pcb.pretty)(options "")(descr ""))
+)
