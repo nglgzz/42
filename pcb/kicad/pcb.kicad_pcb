@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 363)
+    (drawings 364)
     (tracks 706)
     (zones 0)
     (modules 85)
@@ -3799,6 +3799,7 @@
     (pad HOLE np_thru_hole circle (at 0 0 180) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu))
   )
 
+  (gr_circle (center 131.191 89.916) (end 133.477 90.932) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 90.1005 137.445) (end 110.1005 137.445) (layer Edge.Cuts) (width 0.2) (tstamp 5CF8DFCA))
   (gr_arc (start 38.1005 119.445) (end 41.1005 119.445) (angle -180) (layer Edge.Cuts) (width 0.2) (tstamp 5CF8DD60))
   (gr_line (start 57.1005 114.444999) (end 76.1005 114.445) (layer Edge.Cuts) (width 0.2) (tstamp 5CF8DF28))
