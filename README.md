@@ -8,16 +8,17 @@
 - Bluetooth enabled
 
 It uses the Feather 32u4 controller, and its layout is defined using the QMK
-firmware. The case is made of four 3D printed pieces glued together. In this
-repo you can find all files necessary to build and configure one yourself.
+firmware. The case is made of four 3D printed pieces glued and screwed together.
+In this repo you can find all files necessary to build and configure one yourself.
 
 ### Front
 
-![keyboard front](/42.jpg)
+![keyboard front](/42.jpg?v3)
 
-### Wiring
+### PCB
 
-![keyboard wiring](/42-wiring.jpg)
+![keyboard PCB](/42-pcb.jpg)
+![keyboard PCB close up](/42-pcb-close-up.jpg)
 
 ## Useful resources
 
