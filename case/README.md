@@ -1,6 +1,14 @@
 ## 42 keyboard case
 
-There are four pieces in total. Two pieces form the top plate (they should be glued together), and two pieces form the bottom plate (they should be screwed to the top plates with M3x10 screws).
+The enclosure can be made in two ways depending on the machines you have
+available.
+
+You can print the top piece and the bottom in one piece.
+
+Or, if they are too big to print in one piece (this was the case for me), you
+can print them in two pieces (left and right), and glue them together.
+
+In both cases top and bottom are meant to be pieced together using M3x8 screws.
 
 ### Switch plate
 
