@@ -17,3 +17,7 @@ In both cases top and bottom are meant to be pieced together using M3x8 screws.
 ### Bottom cover
 
 ![bottom-cover](/case/bottom.png)
+
+### Useful Resources
+
+- [Fusion 360 Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=A5bc9c3S12g)

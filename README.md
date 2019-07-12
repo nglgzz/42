@@ -40,3 +40,4 @@ In this repo you can find all files necessary to build and configure one yoursel
   community seems super helpful, if you're stuck somewhere, this is probably the
   best place to ask.
 - [Feather 32u4 Pinout](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/pinouts)
+- [Fusion 360 Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=A5bc9c3S12g)
