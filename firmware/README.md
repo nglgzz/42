@@ -1,15 +1,18 @@
-## 42 keyboard firware
+## 42 keyboard firmware
+
+The firmware for this keyboard can be found in the [QMK repository](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/42).
 
 ### Build
 
 To build and load the firmware into your board, cd into this directory and run:
 
 ```
-make all
+make init
+make load
 ```
 
 The firmware is built for the atmega32u4 controller (I'm using Feather 32u4 from
-Adafruit), and avrdude is required to load the firmware.
+Adafruit), and [avrdude](https://www.archlinux.org/packages/community/x86_64/avrdude/) is required to load the firmware.
 
 ### Keymap
 
@@ -35,3 +38,4 @@ How to read the labels:
 ### Useful Resources
 
 - [How to build your very own keyboard firmware](https://deskthority.net/workshop-f7/how-to-build-your-very-own-keyboard-firmware-t7177.html)
+- [QMK documentation](https://docs.qmk.fm/#/)
