@@ -1,5 +1,7 @@
 (fp_lib_table
-  (lib (name Keyboard_Parts)(type KiCad)(uri /home/nglgzz/.kicad/keyboard_parts.pretty)(options "")(descr ""))
-  (lib (name Keebs)(type KiCad)(uri /home/nglgzz/.kicad/keebs.pretty)(options "")(descr ""))
-  (lib (name pcb)(type KiCad)(uri ${KIPRJMOD}/pcb.pretty)(options "")(descr ""))
+  (lib (name keebs)(type KiCad)(uri /home/nglgzz/projects/play/keebs.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri /home/nglgzz/projects/play/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri /home/nglgzz/projects/play/keyswitches.pretty)(options "")(descr ""))
+  (lib (name proton_c)(type KiCad)(uri /home/nglgzz/projects/play/qmk_hardware/kicad/proton_c)(options "")(descr ""))
+  (lib (name 42_keyboard)(type KiCad)(uri ${KIPRJMOD}/42_keyboard.pretty)(options "")(descr ""))
 )

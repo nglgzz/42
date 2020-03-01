@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name Keyboard_Parts)(type Legacy)(uri /home/nglgzz/.kicad/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
-  (lib (name pcb-eagle-import)(type Legacy)(uri ${KIPRJMOD}/pcb-eagle-import.lib)(options "")(descr ""))
-  (lib (name pcb)(type Legacy)(uri ${KIPRJMOD}/pcb.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri /home/nglgzz/projects/play/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name proton_c)(type Legacy)(uri /home/nglgzz/projects/play/qmk_hardware/kicad/proton_c/proton_c.lib)(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri /home/nglgzz/projects/play/kicad_lib_tmk/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name 42_keyboard)(type Legacy)(uri ${KIPRJMOD}/42_keyboard.lib)(options "")(descr ""))
 )

@@ -35,7 +35,7 @@
 #define LEFT_MATRIX_COLS 6
 
 #define MATRIX_ROW_PINS \
-    { B0, B1, B2, B3 }
+    { B3, B2, B1, B0 }
 #define MATRIX_COL_PINS \
     { B15, B14, B13, A0, A1, A2 }
 
