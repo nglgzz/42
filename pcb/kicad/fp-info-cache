@@ -1,4 +1,4 @@
-17681746352138224
+17653587372775224
 42_keyboard
 Audio_Jack_5P_SMD_STX-3542
 
@@ -42980,6 +42980,27 @@ DCDC-Converter TRACO TSR-1
 3
 3
 Converter_DCDC
+Converter_DCDC_Texas_PTN78000_THT
+PTN78000 Wide Input 1.5A Adjustable Switching Regulator
+DCDC Converter Buck
+0
+5
+5
+Converter_DCDC
+Converter_DCDC_Texas_PTN78020_THT
+PTN78020 Wide Input 6A Adjustable Switching Regulator
+DCDC Converter Buck
+0
+7
+7
+Converter_DCDC
+Converter_DCDC_Texas_PTN78060_THT
+PTN78060 Wide Input 3A Adjustable Switching Regulator
+DCDC Converter Buck
+0
+7
+7
+Converter_DCDC
 Converter_DCDC_XP_POWER-IA48xxD_THT
 XP_POWER  IA48xxD, DIP, (https://www.xppower.com/pdfs/SF_IA.pdf), generated with kicad-footprint-generator
 XP_POWER  IA48xxD DIP DCDC-Converter
@@ -43058,11 +43079,11 @@ XP_POWER  ITXxxxxSA SIP DCDC-Converter
 5
 Converter_DCDC
 Converter_DCDC_XP_POWER-ITxxxxxS_THT
-XP_POWER  ITxxxxxS, SIP, (https://www.xppower.com/portals/0/pdfs/SF_ITX.pdf https://www.xppower.com/portals/0/pdfs/SF_ITQ.pdf), generated with kicad-footprint-generator
+XP_POWER  ITxxxxxS, SIP, (https://www.xppower.com/pdfs/SF_ITX.pdf https://www.xppower.com/pdfs/SF_ITQ.pdf), generated with kicad-footprint-generator
 XP_POWER  ITxxxxxS SIP DCDC-Converter
 0
-7
-7
+5
+5
 Converter_DCDC
 Converter_DCDC_XP_POWER_JTDxxxxxxx_THT
 XP Power JTD Series DC-DC Converter
@@ -46347,13 +46368,6 @@ Line Filter
 4
 4
 Filter
-Filter_FILTERCON_1FPxx
-0.5A, 250VAC, 50/60Hz line filter (https://filtercon.com.pl/wp-content/uploads/2019/07/Karta-katalogowa-FP-12-1.pdf)
-EMI filter
-0
-4
-4
-Filter
 Filter_Mini-Circuits_FV1206
 Mini-Circuits Filter SMD 1206 https://ww2.minicircuits.com/case_style/FV1206.pdf
 Mini-Circuits Filter SMD 1206
@@ -46445,13 +46459,6 @@ resistor
 2
 2
 Fuse
-Fuse_0603_1608Metric_Castellated
-Fuse SMD 0603 (1608 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-fuse castellated
-0
-2
-2
-Fuse
 Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder
 Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -46462,13 +46469,6 @@ Fuse
 Fuse_0805_2012Metric
 Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 resistor
-0
-2
-2
-Fuse
-Fuse_0805_2012Metric_Castellated
-Fuse SMD 0805 (2012 Metric), castellated end terminal, IPC_7351. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-fuse castellated
 0
 2
 2
@@ -46494,13 +46494,6 @@ resistor
 2
 2
 Fuse
-Fuse_1206_3216Metric_Castellated
-Fuse SMD 1206 (3216 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-fuse castellated
-0
-2
-2
-Fuse
 Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder
 Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -46511,13 +46504,6 @@ Fuse
 Fuse_1210_3225Metric
 Fuse SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor
-0
-2
-2
-Fuse
-Fuse_1210_3225Metric_Castellated
-Fuse SMD 1210 (3225 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-fuse castellated
 0
 2
 2
@@ -46536,13 +46522,6 @@ resistor
 2
 2
 Fuse
-Fuse_1806_4516Metric_Castellated
-Fuse SMD 1806 (4516 Metric), castellated end terminal, IPC_7351. (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
-fuse castellated
-0
-2
-2
-Fuse
 Fuse_1806_4516Metric_Pad1.57x1.80mm_HandSolder
 Fuse SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -46553,13 +46532,6 @@ Fuse
 Fuse_1812_4532Metric
 Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
 resistor
-0
-2
-2
-Fuse
-Fuse_1812_4532Metric_Castellated
-Fuse SMD 1812 (4532 Metric), castellated end terminal, IPC_7351. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-fuse castellated
 0
 2
 2
@@ -46578,13 +46550,6 @@ resistor
 2
 2
 Fuse
-Fuse_2010_5025Metric_Castellated
-Fuse SMD 2010 (5025 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-fuse castellated
-0
-2
-2
-Fuse
 Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder
 Fuse SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -46595,13 +46560,6 @@ Fuse
 Fuse_2512_6332Metric
 Fuse SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor
-0
-2
-2
-Fuse
-Fuse_2512_6332Metric_Castellated
-Fuse SMD 2512 (6332 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-fuse castellated
 0
 2
 2
@@ -46620,13 +46578,6 @@ resistor
 2
 2
 Fuse
-Fuse_2816_7142Metric_Castellated
-Fuse SMD 2816 (7142 Metric), castellated end terminal, IPC_7351. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
-fuse castellated
-0
-2
-2
-Fuse
 Fuse_2816_7142Metric_Pad3.20x4.45mm_HandSolder
 Fuse SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -46637,13 +46588,6 @@ Fuse
 Fuse_2920_7451Metric
 Fuse SMD 2920 (7451 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf), generated with kicad-footprint-generator
 resistor
-0
-2
-2
-Fuse
-Fuse_2920_7451Metric_Castellated
-Fuse SMD 2920 (7451 Metric), castellated end terminal, IPC_7351. (Body size from: http://www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf), generated with kicad-footprint-generator
-fuse castellated
 0
 2
 2
@@ -50932,13 +50876,6 @@ LED SMD right angle  CCA
 3
 3
 LED_SMD
-LED_Lumex_SML-LX0303SIUPGUSB
-Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0303SIUPGUSB.pdf
-LED RGB
-0
-4
-4
-LED_SMD
 LED_Osram_Lx_P47F_D2mm_ReverseMount
 OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
 LED ReverseMount Reverse
@@ -51764,27 +51701,6 @@ ST Morpho Connector 144 STLink
 0
 148
 148
-Module
-Texas_EUK_R-PDSS-T7_THT
-Texas Instruments EUK 7 Pin Double Sided Module
-module pcb
-0
-7
-7
-Module
-Texas_EUS_R-PDSS-T5_THT
-Texas Instruments EUS 5 Pin Double Sided Module
-module pcb
-0
-5
-5
-Module
-Texas_EUW_R-PDSS-T7_THT
-Texas Instruments EUW 7 Pin Double Sided Module
-module pcb
-0
-7
-7
 Module
 WEMOS_D1_mini_light
 16-pin module, column spacing 22.86 mm (900 mils), https://wiki.wemos.cc/products:d1:d1_mini, https://c1.staticflickr.com/1/734/31400410271_f278b087db_z.jpg
@@ -53889,13 +53805,6 @@ OptoDevice
 Lightpipe_LPF-C012303S
 https://www.lumex.com/spec/LPF-C012303S.pdf
 lightpipe dual tower right angle 3mm
-0
-0
-0
-OptoDevice
-Lightpipe_Mentor_1275.x00x
-https://www.mentor-bauelemente.de/katalog/ll/MENTOR-LL.pdf
-spherical light pipe 4 way 3mm PLCC-2 PLCC-4
 0
 0
 0
@@ -56811,6 +56720,13 @@ QFN NoLead
 0
 17
 13
+Package_DFN_QFN
+QFN-14-1EP_1.6x1.6mm_P0.4mm_EP0.74x0.74mm
+QFN, 14 Pin (http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+19
+15
 Package_DFN_QFN
 QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm
 QFN, 16 Pin (https://www.st.com/resource/en/datasheet/tsv521.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -65400,13 +65316,6 @@ DRT-3 1x0.8mm Pitch 0.7mm
 0
 3
 3
-Package_TO_SOT_SMD
-Texas_NDQ
-Texas Instruments, NDQ, 5 pin (https://www.ti.com/lit/ml/mmsf022/mmsf022.pdf)
-ti pfm dap
-0
-6
-6
 Package_TO_SOT_SMD
 Texas_NDY0011A
 TO-PMOD-11 11-pin switching regulator package, http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf
@@ -78001,6 +77910,13 @@ XTAL_HC_49_TH
 2
 2
 keyboard_parts
+test
+
+
+0
+5
+5
+keyboard_parts
 tmk2016
 
 
@@ -78023,6 +77939,13 @@ MX,cherry,gateron,kailh,pg1511,socket
 2
 keyswitches
 Kailh_socket_MX_optional
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+keyswitches
+Kailh_socket_MX_optional_custom
 MX-style keyswitch with support for optional Kailh socket
 MX,cherry,gateron,kailh,pg1511,socket
 0
@@ -78152,5 +78075,12 @@ proton_c
 
 
 0
-42
-39
+30
+27
+proton_c
+proton_c_snapped
+
+
+0
+30
+27
