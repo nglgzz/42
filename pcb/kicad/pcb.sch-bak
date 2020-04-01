@@ -1514,10 +1514,6 @@ F 3 "" H 10750 2350 50  0001 C CNN
 	1    10750 2350
 	0    1    1    0   
 $EndComp
-Text Notes 10100 4050 0    50   ~ 0
-TODO - check actual pinout \nagainst a TRRS cable.\n
-Text Notes 10050 1100 0    50   ~ 0
-TODO - check actual pinout \nagainst a TRRS cable.\n
 NoConn ~ 10450 1350
 Text GLabel 10450 1250 0    50   Input ~ 0
 SDAL
