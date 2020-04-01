@@ -1399,16 +1399,10 @@ F 3 "~" H 10650 4400 50  0001 C CNN
 	1    10650 4400
 	-1   0    0    1   
 $EndComp
-Text Notes 10050 1100 0    50   ~ 0
-TODO - check actual pinout \nagainst a TRRS cable.\n
-Text GLabel 10450 1350 0    50   Input ~ 0
-SDAL
 Text GLabel 10450 1450 0    50   Input ~ 0
 SCLL
 Text GLabel 10450 1650 0    50   Input ~ 0
 +5vL
-Text Notes 10100 4050 0    50   ~ 0
-TODO - check actual pinout \nagainst a TRRS cable.\n
 Wire Wire Line
 	8325 5800 8325 6175
 Wire Wire Line
@@ -1423,7 +1417,7 @@ Text GLabel 9425 6175 2    50   Input ~ 0
 +5vR
 Text GLabel 10450 4400 0    50   Input ~ 0
 SCLR
-Text GLabel 10450 4300 0    50   Input ~ 0
+Text GLabel 10450 4200 0    50   Input ~ 0
 SDAR
 Text GLabel 10450 4600 0    50   Input ~ 0
 +5vR
@@ -1463,8 +1457,7 @@ NoConn ~ 8500 1100
 NoConn ~ 9350 2100
 NoConn ~ 9350 1700
 NoConn ~ 9350 1600
-NoConn ~ 10450 4200
-NoConn ~ 10450 1250
+NoConn ~ 10450 4300
 NoConn ~ 9350 2500
 $Comp
 L power:GND GND
@@ -1521,4 +1514,7 @@ F 3 "" H 10750 2350 50  0001 C CNN
 	1    10750 2350
 	0    1    1    0   
 $EndComp
+NoConn ~ 10450 1350
+Text GLabel 10450 1250 0    50   Input ~ 0
+SDAL
 $EndSCHEMATC

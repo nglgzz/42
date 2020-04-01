@@ -1399,16 +1399,10 @@ F 3 "~" H 10650 4400 50  0001 C CNN
 	1    10650 4400
 	-1   0    0    1   
 $EndComp
-Text Notes 10050 1100 0    50   ~ 0
-TODO - check actual pinout \nagainst a TRRS cable.\n
-Text GLabel 10450 1350 0    50   Input ~ 0
-SDAL
 Text GLabel 10450 1450 0    50   Input ~ 0
 SCLL
 Text GLabel 10450 1650 0    50   Input ~ 0
 +5vL
-Text Notes 10100 4050 0    50   ~ 0
-TODO - check actual pinout \nagainst a TRRS cable.\n
 Wire Wire Line
 	8325 5800 8325 6175
 Wire Wire Line
@@ -1423,7 +1417,7 @@ Text GLabel 9425 6175 2    50   Input ~ 0
 +5vR
 Text GLabel 10450 4400 0    50   Input ~ 0
 SCLR
-Text GLabel 10450 4300 0    50   Input ~ 0
+Text GLabel 10450 4200 0    50   Input ~ 0
 SDAR
 Text GLabel 10450 4600 0    50   Input ~ 0
 +5vR
@@ -1463,62 +1457,68 @@ NoConn ~ 8500 1100
 NoConn ~ 9350 2100
 NoConn ~ 9350 1700
 NoConn ~ 9350 1600
-NoConn ~ 10450 4200
-NoConn ~ 10450 1250
+NoConn ~ 10450 4300
 NoConn ~ 9350 2500
 $Comp
-L keyboard_parts:GND #PWR?
-U 1 1 5E7953E9
-P 7300 1600
-F 0 "#PWR?" H 7300 1650 20  0001 C CNN
-F 1 "GND" V 7300 1400 30  0000 L CNN
-F 2 "" H 7300 1600 60  0000 C CNN
-F 3 "" H 7300 1600 60  0000 C CNN
-	1    7300 1600
-	0    1    1    0   
-$EndComp
-$Comp
-L keyboard_parts:GND #PWR?
-U 1 1 5E795D79
-P 7300 1700
-F 0 "#PWR?" H 7300 1750 20  0001 C CNN
-F 1 "GND" V 7300 1500 30  0000 L CNN
-F 2 "" H 7300 1700 60  0000 C CNN
-F 3 "" H 7300 1700 60  0000 C CNN
-	1    7300 1700
-	0    1    1    0   
-$EndComp
-$Comp
-L keyboard_parts:GND #PWR?
-U 1 1 5E796FCF
+L power:GND GND
+U 1 1 5E7A8207
 P 9350 1500
-F 0 "#PWR?" H 9350 1550 20  0001 C CNN
-F 1 "GND" V 9350 1300 30  0000 L CNN
-F 2 "" H 9350 1500 60  0000 C CNN
-F 3 "" H 9350 1500 60  0000 C CNN
+F 0 "GND" H 9350 1250 50  0001 C CNN
+F 1 "GND" V 9355 1372 50  0000 R CNN
+F 2 "" H 9350 1500 50  0001 C CNN
+F 3 "" H 9350 1500 50  0001 C CNN
 	1    9350 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:GND #PWR?
-U 1 1 5E798B13
+L power:GND GND
+U 1 1 5E7B0C54
 P 10450 1550
-F 0 "#PWR?" H 10450 1600 20  0001 C CNN
-F 1 "GND" V 10450 1350 30  0000 L CNN
-F 2 "" H 10450 1550 60  0000 C CNN
-F 3 "" H 10450 1550 60  0000 C CNN
+F 0 "GND" H 10450 1300 50  0001 C CNN
+F 1 "GND" V 10450 1250 50  0000 L CNN
+F 2 "" H 10450 1550 50  0001 C CNN
+F 3 "" H 10450 1550 50  0001 C CNN
 	1    10450 1550
 	0    1    1    0   
 $EndComp
 $Comp
-L keyboard_parts:GND #PWR?
-U 1 1 5E79AE79
+L power:GND GND
+U 1 1 5E7B852F
+P 7300 1600
+F 0 "GND" H 7300 1350 50  0001 C CNN
+F 1 "GND" V 7300 1300 50  0000 L CNN
+F 2 "" H 7300 1600 50  0001 C CNN
+F 3 "" H 7300 1600 50  0001 C CNN
+	1    7300 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND GND
+U 1 1 5E7BB358
+P 7300 1700
+F 0 "GND" H 7300 1450 50  0001 C CNN
+F 1 "GND" V 7300 1400 50  0000 L CNN
+F 2 "" H 7300 1700 50  0001 C CNN
+F 3 "" H 7300 1700 50  0001 C CNN
+	1    7300 1700
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND GND
+U 1 1 5E7C1CBE
 P 10750 2350
-F 0 "#PWR?" H 10750 2400 20  0001 C CNN
-F 1 "GND" V 10750 2150 30  0000 L CNN
-F 2 "" H 10750 2350 60  0000 C CNN
-F 3 "" H 10750 2350 60  0000 C CNN
+F 0 "GND" H 10750 2100 50  0001 C CNN
+F 1 "GND" V 10750 2050 50  0000 L CNN
+F 2 "" H 10750 2350 50  0001 C CNN
+F 3 "" H 10750 2350 50  0001 C CNN
 	1    10750 2350
 	0    1    1    0   
 $EndComp
+Text Notes 10100 4050 0    50   ~ 0
+TODO - check actual pinout \nagainst a TRRS cable.\n
+Text Notes 10050 1100 0    50   ~ 0
+TODO - check actual pinout \nagainst a TRRS cable.\n
+NoConn ~ 10450 1350
+Text GLabel 10450 1250 0    50   Input ~ 0
+SDAL
 $EndSCHEMATC
