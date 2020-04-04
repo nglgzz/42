@@ -1,4 +1,4 @@
-17653592433244224
+17655179016749224
 42_keyboard
 Audio_Jack_5P_SMD_STX-3542
 
@@ -7,7 +7,14 @@ Audio_Jack_5P_SMD_STX-3542
 5
 5
 42_keyboard
-Conn-1x4
+Conn-1x4-Female
+
+
+0
+4
+4
+42_keyboard
+Conn-1x4-Male
 
 
 0
