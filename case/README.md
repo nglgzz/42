@@ -1,4 +1,4 @@
-## 42 keyboard case
+# [42 Keyboard](../README.md) – Case
 
 The enclosure can be made in two ways depending on the machines you have
 available.
@@ -10,14 +10,14 @@ can print them in two pieces (left and right), and glue them together.
 
 In both cases top and bottom are meant to be pieced together using M3x8 screws.
 
-### Switch plate
+## Switch plate
 
 ![switch-plate](/case/top.png)
 
-### Bottom cover
+## Bottom cover
 
 ![bottom-cover](/case/bottom.png)
 
-### Useful Resources
+## Useful Resources
 
-- [Fusion 360 Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=A5bc9c3S12g)
+[../build/resources.md](../build/resources.md#case)
