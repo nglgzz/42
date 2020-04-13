@@ -8,8 +8,8 @@
   source parts, assembling tips, learning resources I used while designing this
   keyboard.
 
-- [Case](./case/README.md) – STL files for 3D printing the enclosure. Fusion 360
-  project coming soon.
+- [Case](./case/README.md) – Fusion 360 project and STL files for 3D printing
+  the enclosure.
 
 - [Firmware](./firmware/README.md) – QMK configuration. There is a Makefile to
   build and load the firmware.
@@ -33,6 +33,10 @@ features and account for the lessons learned from previous builds.
 - Splittable – You can split the keyboard for more comfort, or use it as one
   piece for better portability.
 - Hot-swappable switches – No desoldering pain if you want to try new switches.
+
+## Feedback
+
+If you have some feedback or questions, feel free to [create an issue](https://github.com/nglgzz/42/issues/new). Your input is more than welcome!
 
 ## Pics
 

@@ -20,6 +20,7 @@ Quantities [in brackets] mean the component is optional.
 | Switches                    |       42 |      16.32 | [Aliexpress](https://www.aliexpress.com/item/32980039972.html)      |
 | Keycaps                     |       42 |      15.09 | [Aliexpress](https://www.aliexpress.com/item/32832417476.html)      |
 | PCB                         |        1 |      17.01 | [JLC PCB](https://jlcpcb.com)                                       |
+| Magnets (5.5x14.5mm)        |        4 |          - |                                                                     |
 | Enclosure                   |        1 |          - |                                                                     |
 | TRRS cable                  |        1 |          - |                                                                     |
 | .                           |          |            |                                                                     |
