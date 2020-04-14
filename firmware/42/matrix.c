@@ -1,7 +1,6 @@
-#include "quantum.h"
 #include "matrix.h"
 #include "i2c_master.h"
-#include <print.h>
+#include "quantum.h"
 #include QMK_KEYBOARD_H
 
 static const pin_t row_pins[LEFT_MATRIX_ROWS] = MATRIX_ROW_PINS;
@@ -9,7 +8,6 @@ static const pin_t col_pins[LEFT_MATRIX_COLS] = MATRIX_COL_PINS;
 
 static void         init_mcp23017(void);
 static void         init_pins(void);
-static void         blink(uint8_t times);
 static bool         read_cols_on_row(matrix_row_t current_matrix[], uint8_t current_row);
 static void         select_row(uint8_t row);
 static matrix_row_t read_cols(uint8_t row);
@@ -20,18 +18,23 @@ bool                  i2c_initialized = false;
 void matrix_init_custom(void) {
     init_mcp23017();
     init_pins();
-
-    if (i2c_status == I2C_STATUS_SUCCESS) {
-        blink(1);
-    } else {
-        blink(2);
-    }
+    backlight_enable();
 }
 
 bool matrix_scan_custom(matrix_row_t current_matrix[]) {
+    if (i2c_status == I2C_STATUS_SUCCESS) {
+        backlight_level(4);
+    } else {
+        i2c_initialized = false;
+        backlight_level(1);
+        init_mcp23017();
+    }
+
     bool matrix_has_changed = false;
 
     for (uint8_t current_row = 0; current_row < MATRIX_ROWS; current_row++) {
+        // TODO - add read_rows_on_col and switch between the two depending on
+        // DIODE_DIRECTION.
         matrix_has_changed |= read_cols_on_row(current_matrix, current_row);
     }
 
@@ -43,15 +46,15 @@ bool matrix_scan_custom(matrix_row_t current_matrix[]) {
 static void init_mcp23017(void) {
     if (!i2c_initialized) {
         i2c_init();
-        wait_ms(200);
+        wait_us(10);
         i2c_initialized = true;
     }
 
     uint8_t allPinsOutput = 0x00;
-    i2c_status            = i2c_writeReg(I2C_ADDRESS, I2C_IODIRA, &allPinsOutput, 1, 500);
+    i2c_status            = i2c_writeReg(I2C_ADDRESS, I2C_IODIRA, &allPinsOutput, 1, 2);
     if (i2c_status) return;
 
-    i2c_status = i2c_writeReg(I2C_ADDRESS, I2C_IODIRB, &allPinsOutput, 1, 500);
+    i2c_status = i2c_writeReg(I2C_ADDRESS, I2C_IODIRB, &allPinsOutput, 1, 2);
     if (i2c_status) return;
 
     uint8_t allColsHigh = I2C_MATRIX_COL_PINS;
@@ -74,18 +77,6 @@ static void init_pins(void) {
     }
     for (uint8_t col = 0; col < LEFT_MATRIX_COLS; col++) {
         setPinInputHigh(col_pins[col]);
-    }
-}
-
-static void blink(uint8_t times) {
-    setPinOutput(B8);
-
-    for (uint8_t i = 0; i < times; i++) {
-        writePinHigh(B8);
-        wait_ms(150);
-
-        writePinLow(B8);
-        wait_ms(150);
     }
 }
 
@@ -148,8 +139,13 @@ static matrix_row_t read_cols(uint8_t row) {
         if (i2c_status == I2C_STATUS_SUCCESS) {
             i2c_status = i2c_readCols(&data);
 
-            // Invert reading because of active low, and mask to only mark used pins.
+            // Invert reading because of active low, and mask to only mark used
+            // pins.
             return (~data) & I2C_MATRIX_COL_PINS;
+        } else {
+            // If right side of the keyboard is unreachable, return no
+            // keypresses for it.
+            return 0x00;
         }
     }
 

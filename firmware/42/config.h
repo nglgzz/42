@@ -10,6 +10,22 @@
 #define PRODUCT 42
 #define DESCRIPTION Splittable
 
+#define BACKLIGHT_PIN C13
+// According to the STM32F303xC datasheet C13 uses TIM1_CH1N to drive the PWM,
+// and TIM1_CH1N is an alternate function that is available on port 4 for C13.
+// This translates to:
+//   TIM1 -> PWM_DRIVER
+//   CH1  -> PWM_CHANNEL
+//   N    -> USE_COMPLEMENTARY
+//   AF4  -> PAL_MODE
+#define BACKLIGHT_PWM_DRIVER PWMD1
+#define BACKLIGHT_PWM_CHANNEL 1
+#define BACKLIGHT_PWM_USE_COMPLEMENTARY 1
+#define BACKLIGHT_PAL_MODE 4
+// The backlight state depends on how the LED is wired on the Proton C.
+#define BACKLIGHT_ON_STATE 0
+#define BACKLIGHT_LEVELS 10
+
 /*
  * Keyboard Matrix Assignments
  *

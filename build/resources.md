@@ -30,6 +30,10 @@ the keyboard.
   works. It's a fascinating read even though in most cases you don't need to
   know this.
 
+- [Testing and Debugging QMK](https://beta.docs.qmk.fm/tutorial/newbs_testing_debugging#debugging-with-hid_listen) –
+  Useful to know what's going on in the firmware if you're actually touching the
+  firmware code.
+
 ## PCB
 
 - [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0) –
@@ -47,6 +51,10 @@ the keyboard.
 - [qmk/qmk_hardware](https://github.com/qmk/qmk_hardware) –
   Also not a learning resource. Footprint and symbols library for the Proton-C
   controller.
+
+- [Why split keyboards don't use USB](https://www.reddit.com/r/MechanicalKeyboards/comments/a641ls/split_keyboard_trrs_shorting_and_protection/ebryvx5) –
+  In-depth explanation why TRRS has become the standard for split keyboards. I
+  wish I have read this before going with USB-C on my first keyboard.
 
 ## Case
 

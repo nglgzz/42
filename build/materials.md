@@ -20,7 +20,8 @@ Quantities [in brackets] mean the component is optional.
 | Switches                    |       42 |      16.32 | [Aliexpress](https://www.aliexpress.com/item/32980039972.html)      |
 | Keycaps                     |       42 |      15.09 | [Aliexpress](https://www.aliexpress.com/item/32832417476.html)      |
 | PCB                         |        1 |      17.01 | [JLC PCB](https://jlcpcb.com)                                       |
-| Magnets (5.5x14.5mm)        |        4 |          - |                                                                     |
+| M3x10 Screws                |        6 |          - |                                                                     |
+| Magnets                     |        4 |          - |                                                                     |
 | Enclosure                   |        1 |          - |                                                                     |
 | TRRS cable                  |        1 |          - |                                                                     |
 | .                           |          |            |                                                                     |
@@ -32,6 +33,7 @@ Quantities [in brackets] mean the component is optional.
 
 ## Notes
 
+- All components I linked from Mouser also have a datasheet there.
 - Prices don't include shipping and potential import taxes.
 - Mouser prices don't include VAT.
 - The minimum order on JLC PCB is 5 circuit boards, so the price above is for 5

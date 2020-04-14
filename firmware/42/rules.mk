@@ -11,7 +11,10 @@ COMMAND_ENABLE = no         # Commands for debug and configuration
 
 # if this doesn't work, see here: https://github.com/tmk/tmk_keyboard/wiki/FAQ#nkro-doesnt-work
 NKRO_ENABLE = yes           # USB Nkey Rollover
-BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
+
+BACKLIGHT_ENABLE = yes      # Used for setting on-board LED brightness
+BACKLIGHT_DRIVER = pwm
+
 RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 
 UNICODE_ENABLE = no         # Unicode
