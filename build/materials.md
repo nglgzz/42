@@ -20,8 +20,9 @@ Quantities [in brackets] mean the component is optional.
 | Switches                    |       42 |      16.32 | [Aliexpress](https://www.aliexpress.com/item/32980039972.html)      |
 | Keycaps                     |       42 |      15.09 | [Aliexpress](https://www.aliexpress.com/item/32832417476.html)      |
 | PCB                         |        1 |      17.01 | [JLC PCB](https://jlcpcb.com)                                       |
-| M3x10 Screws                |        6 |          - |                                                                     |
-| Magnets                     |        4 |          - |                                                                     |
+| M3x12 Screws                |        6 |          - |                                                                     |
+| M3x4 Heat set inserts       |        6 |          - |                                                                     |
+| Magnets (5x2 N35)           |        4 |          - |                                                                     |
 | Enclosure                   |        1 |          - |                                                                     |
 | TRRS cable                  |        1 |          - |                                                                     |
 | .                           |          |            |                                                                     |
