@@ -45,12 +45,12 @@ the previous versions.
 
 ## Previous Versions
 
-- [version 3](https://github.com/nglgzz/42/tree/8bee8c7db4633647ef54003a4253680ca5ff11d6) –
+- [version 3](https://github.com/nglgzz/42/tree/rev-3) –
   PCB, QMK, Bluetooth, micro USB
-  <br/><img alt="v3 picture" src="https://github.com/nglgzz/42/blob/8bee8c7db4633647ef54003a4253680ca5ff11d6/42.jpg?raw=true" width="400">
-- [version 2](https://github.com/nglgzz/42/tree/2f6b6f18f1d686f9e8ba3949876a61684ea18898) –
+  <br/><img alt="v3 picture" src="https://github.com/nglgzz/42/blob/rev-3/42.jpg?raw=true" width="400">
+- [version 2](https://github.com/nglgzz/42/tree/rev-2) –
   Handwired, QMK, Bluetooth, micro USB
-  <br/><img alt="v2 picture"  src="https://github.com/nglgzz/42/blob/2f6b6f18f1d686f9e8ba3949876a61684ea18898/42.jpg?raw=true" width="400">
-- [version 1:](https://github.com/nglgzz/42/tree/0dc9616868c737c60640ab4fd4d3102e0f5e5b27)
+  <br/><img alt="v2 picture"  src="https://github.com/nglgzz/42/blob/rev-2/42.jpg?raw=true" width="400">
+- [version 1:](https://github.com/nglgzz/42/tree/rev-1)
   PCB, Split, TMK firmware, USB C
-  <br/><img alt="v1 picture" src="https://raw.githubusercontent.com/nglgzz/42/0dc9616868c737c60640ab4fd4d3102e0f5e5b27/42.jpeg" width="400">
+  <br/><img alt="v1 picture" src="https://raw.githubusercontent.com/nglgzz/42/rev-1/42.jpeg" width="400">
