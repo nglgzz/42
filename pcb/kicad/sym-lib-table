@@ -1,7 +1,4 @@
 (sym_lib_table
   (lib (name keebio)(type Legacy)(uri /home/nglgzz/projects/play/keebio-components/keebio.lib)(options "")(descr ""))
   (lib (name Keyboard_Parts)(type Legacy)(uri /home/nglgzz/projects/play/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
-  (lib (name mkl27z256vfm4)(type Legacy)(uri /home/nglgzz/projects/play/kicad_lib_tmk/mkl27z256vfm4.lib)(options "")(descr ""))
-  (lib (name pcb-eagle-import)(type Legacy)(uri ${KIPRJMOD}/pcb-eagle-import.lib)(options "")(descr ""))
-  (lib (name pcb)(type Legacy)(uri ${KIPRJMOD}/pcb.lib)(options "")(descr ""))
 )
