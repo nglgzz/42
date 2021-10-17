@@ -1492,9 +1492,9 @@ Text Label 11100 1600 0    50   ~ 0
 colA
 Text Label 12050 1600 0    50   ~ 0
 colB
-Text Label 3425 7175 3    50   ~ 0
-row2
 Text Label 3525 7175 3    50   ~ 0
+row2
+Text Label 3425 7175 3    50   ~ 0
 row3
 Text Label 4025 6775 0    50   ~ 0
 col6
