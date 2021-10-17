@@ -1,4 +1,4 @@
-# 42
+# 42 Keyboard
 
 42 is an ergonomic keyboard with the following features:
 
@@ -39,4 +39,4 @@ In this repo you can find all files necessary to build and configure one yoursel
   A lot of my Google searches ended up on threads from this subreddit, the
   community seems super helpful, if you're stuck somewhere, this is probably the
   best place to ask.
-- [Feather 32u4 Pinout](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/pinouts)
+- [Elite C Pinout](https://deskthority.net/wiki/Elite-C)
