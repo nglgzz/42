@@ -1492,49 +1492,49 @@ Text Label 11100 1600 0    50   ~ 0
 colA
 Text Label 12050 1600 0    50   ~ 0
 colB
-Text Label 3425 7175 3    50   ~ 0
-row2
-Text Label 3525 7175 3    50   ~ 0
-row3
-Text Label 4025 6775 0    50   ~ 0
-col6
 Text Label 4025 6675 0    50   ~ 0
-col7
+row2
+Text Label 4025 6775 0    50   ~ 0
+row3
 Text Label 4025 6575 0    50   ~ 0
-col8
+col6
 Text Label 4025 6475 0    50   ~ 0
-col9
+col7
 Text Label 4025 6375 0    50   ~ 0
-colA
+col8
 Text Label 4025 6275 0    50   ~ 0
+col9
+Text Label 4025 6175 0    50   ~ 0
+colA
+Text Label 4025 6075 0    50   ~ 0
 colB
 Connection ~ 8450 2050
 Wire Wire Line
 	8450 2050 9400 2050
-Text Label 2625 6775 2    50   ~ 0
-col5
-Text Label 2625 6675 2    50   ~ 0
-col4
 Text Label 2625 6575 2    50   ~ 0
-col3
+col5
 Text Label 2625 6475 2    50   ~ 0
-col2
+col4
 Text Label 2625 6375 2    50   ~ 0
-col1
+col3
 Text Label 2625 6275 2    50   ~ 0
+col2
+Text Label 2625 6175 2    50   ~ 0
+col1
+Text Label 2625 6075 2    50   ~ 0
 col0
-Text Label 3325 7175 3    50   ~ 0
+Text Label 2625 6775 2    50   ~ 0
 row1
-Text Label 3125 7175 3    50   ~ 0
+Text Label 2625 6675 2    50   ~ 0
 row0
-NoConn ~ 2625 6075
+NoConn ~ 3125 7175
 NoConn ~ 4025 5675
 NoConn ~ 4025 5775
 NoConn ~ 4025 5875
 NoConn ~ 4025 5975
-NoConn ~ 4025 6075
-NoConn ~ 4025 6175
-NoConn ~ 2625 6175
+NoConn ~ 3225 7175
+NoConn ~ 3425 7175
+NoConn ~ 3525 7175
 NoConn ~ 2625 5975
 NoConn ~ 2625 5875
 NoConn ~ 2625 5775
@@ -1550,4 +1550,5 @@ F 3 "" V 4375 3725 60  0001 C CNN
 	1    3325 6225
 	1    0    0    -1  
 $EndComp
+NoConn ~ 3325 7175
 $EndSCHEMATC
