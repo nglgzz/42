@@ -2,6 +2,36 @@
 
 40%, splittable, mechanical keyboard.
 
+## IMPORTANT NOTE
+
+**This iteration isn't working.** Well, it technically works, but it's a pain to
+assemble, and the detachable mechanism didn't work out as well as I'd hoped.
+
+The magnets aren't strong enough to keep the two sides connected, so unless
+you're connecting the two sides with a cable at all times the keyboard is
+unusable. Also there isn't much space to work with to switch to more powerful
+magnets.
+
+For now I'm shelving this concept, and might come back to it in the future. As
+of now the best solution I can think of to fix the issues with this iteration
+are to:
+
+1. Always have the two sides connected with a cable. This is the easiest thing
+   to do, but having two cables at all times to use the keyboard kind of defies
+   the purpose of having it splittable.
+
+2. Make both sides wireless. Last time I checked this seemed very complicated,
+   especially if you want a reasonable battery life. You need one main side
+   communicating with the computer and one secondary side that communicates with
+   the main one.
+
+3. A mix of option 1 and 2. This is probably the option that gives the best
+   result for the least effort. Have one cable to connect the two sides and then
+   have one of the two connect to the PC via Bluetooth. Need to look more into
+   how to get good battery life though. Not sure if it was QMK or the Feather
+   BLE, but when I tried using Bluetooth the keyboard would only get through a
+   day or two with a 600 mAh battery, which was quite disappointing.
+
 ## Project Structure
 
 - [Build](./build/README.md) – Build log, bill of materials, tips on where to
