@@ -10,3 +10,8 @@ all:
 clean:
 	rm -r $(KEYBOARD_PATH)
 	cd $(QMK_PATH) && make clean
+
+update-qmk:
+	git submodule foreach git pull origin master
+	cd $(QMK_PATH) && make git-submodule
+
