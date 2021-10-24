@@ -1,0 +1,12 @@
+Replace overlapping holes with ovals on switches footprint. Or find
+a different switch footprint.
+
+Save the modified switch footprint in the repository.
+
+Create makefile to init the Kicad libraries.
+
+Test connections and manually check for overlaps
+of tracks with new switches footprints.
+
+Generate gerber.
+
