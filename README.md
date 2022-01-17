@@ -2,6 +2,24 @@
 
 A 40% mechanical keyboard.
 
+## Features
+
+- 40% – Each key is at most one unit of distance from where the finger that
+  should press it rests. In other words there's no awkward reaching for keys
+  that are placed far from the home row.
+- Staggered columns - Because a comfortable keyboard should follow the shape of
+  your hands.
+- Low profile - The PCB supports Choc (PG1350) switch mounts as well as Cherry MX/Alps.
+
+## Pics
+
+- Finished keyboard
+  <br/><img alt="v3.1 picture" src="./42.png" width="400">
+- PCB
+  <br/><img alt="v3.1 PCB picture" src="./42-pcb.png" width="400">
+- Height comparison between v3 and v3.1
+  <br/><img alt="height comparison between v3 and v3.1" src="./42-height.png" width="400">
+
 ## Project Structure
 
 - [Build](./build/README.md) – Build log, bill of materials, tips on where to
@@ -27,23 +45,9 @@ option where I would learn the most.
 Needs and knowledge changed over time, so I made different iterations to add new
 features and account for the lessons learned from previous builds.
 
-## Features
-
-- 40% – Each key is at most one unit of distance from where the finger that
-  should press it rests. In other words there's no awkward reaching for keys
-  that are placed far from the home row.
-- Staggered columns - Because a comfortable keyboard should follow the shape of
-  your hands.
-- Low profile - The PCB supports Choc (PG1350) switch mounts as well as Cherry MX/Alps.
-
 ## Feedback
 
 If you have some feedback or questions, feel free to [create an issue](https://github.com/nglgzz/42/issues/new). Your input is more than welcome!
-
-## Pics
-
-Pictures for the current version will come soon. In the meantime, you can check
-the previous versions.
 
 ## Previous Versions
 
