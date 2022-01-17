@@ -14,11 +14,11 @@ A 40% mechanical keyboard.
 ## Pics
 
 - Finished keyboard
-  <br/><img alt="v3.1 picture" src="./42.png" width="400">
+  <br/><img alt="v3.1 picture" src="./42.png" width="600">
 - PCB
-  <br/><img alt="v3.1 PCB picture" src="./42-pcb.png" width="400">
+  <br/><img alt="v3.1 PCB picture" src="./42-pcb.png" width="600">
 - Height comparison between v3 and v3.1
-  <br/><img alt="height comparison between v3 and v3.1" src="./42-height.png" width="400">
+  <br/><img alt="height comparison between v3 and v3.1" src="./42-height.png" width="600">
 
 ## Project Structure
 
