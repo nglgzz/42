@@ -14,6 +14,8 @@ In both cases all parts are meant to be printed face down with no supports. The
 holes in the top piece are for heat set inserts, and the two pieces are meant to
 be pieced together using M3x8 screws.
 
+[The Fusion 360 project can be viewed here.](https://a360.co/3IeTLC8)
+
 ## Useful Resources
 
 [../build/resources.md](../build/resources.md#case)
