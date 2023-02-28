@@ -1,0 +1,12 @@
+file_format: "1"
+id: 42
+name: 42 Keyboard
+type: shield
+url: https://github.com/nglgzz/42/
+requires: [pro_micro]
+exposes: []
+features:
+  - keys
+siblings:
+  - 42_left
+  - 42_right
