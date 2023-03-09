@@ -1,10 +1,10 @@
 if SHIELD_42_LEFT
 
-config ZMK_KEYBOARD_NAME
-    default "42"
-
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
+
+config ZMK_KEYBOARD_NAME
+    default "42 Keyboard"
 
 endif
 
