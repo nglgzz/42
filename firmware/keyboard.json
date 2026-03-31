@@ -1,16 +1,17 @@
 {
   "keyboard_name": "42",
   "manufacturer": "nglgzz",
-  "url": "",
   "maintainer": "nglgzz",
   "usb": {
     "vid": "0xFEED",
     "pid": "0x0000",
     "device_version": "0.0.3"
   },
-  "tapping": {
-    "term": 150
-  },
+
+  "processor": "atmega32u4",
+  "bootloader": "atmel-dfu",
+  "pin_compatible": "promicro",
+
   "matrix_pins": {
     "cols": [
       "D1",
@@ -29,8 +30,7 @@
     "rows": ["B4", "B5", "B2", "B6"]
   },
   "diode_direction": "COL2ROW",
-  "processor": "atmega32u4",
-  "bootloader": "atmel-dfu",
+
   "layouts": {
     "LAYOUT": {
       "layout": [
@@ -84,6 +84,17 @@
         { "matrix": [3, 7], "x": 8.5, "y": 3.417 },
         { "matrix": [3, 8], "x": 9.5, "y": 3.208 }
       ]
+    }
+  },
+
+  "tapping": {
+    "term": 150
+  },
+
+  "qmk": {
+    "locking": {
+      "enabled": true,
+      "resync": true
     }
   }
 }

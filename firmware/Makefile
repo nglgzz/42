@@ -1,4 +1,4 @@
-QMK_PATH := "$$HOME/qmk_firmware"
+QMK_PATH := "$$HOME/projects/qmk_firmware"
 KEYBOARD_PATH := $(QMK_PATH)/keyboards/handwired/42
 
 flash: build
@@ -6,7 +6,7 @@ flash: build
 
 build: clean
 	mkdir $(KEYBOARD_PATH)
-	cp -r info.json config.h  keymaps rules.mk $(KEYBOARD_PATH)
+	cp -r keyboard.json keymaps $(KEYBOARD_PATH)
 	qmk compile -kb handwired/42 -km default
 
 clean:
