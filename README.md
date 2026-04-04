@@ -1,6 +1,6 @@
 # 42 Keyboard
 
-A 40% mechanical keyboard.
+A mechanical keyboard with 42 keys.
 
 ## Features
 
@@ -13,12 +13,9 @@ A 40% mechanical keyboard.
 
 ## Pics
 
-- Finished keyboard
-  <br/><img alt="v3.1 picture" src="./42.png" width="600">
+- Finished keyboard [pic coming soon]
 - PCB
   <br/><img alt="v3.1 PCB picture" src="./42-pcb.png" width="600">
-- Height comparison between v3 and v3.1
-  <br/><img alt="height comparison between v3 and v3.1" src="./42-height.png" width="600">
 
 ## Project Structure
 
@@ -51,12 +48,15 @@ If you have some feedback or questions, feel free to [create an issue](https://g
 
 ## Previous Versions
 
+- [version 3.1](https://github.com/nglgzz/42/tree/rev-3.1) –
+  custom PCB, QMK firmware, USB C, Elite-C v4
+  <br/><img alt="v3 picture" src="https://github.com/nglgzz/42/blob/rev-3.1/42.png?raw=true" width="400">
 - [version 3](https://github.com/nglgzz/42/tree/rev-3) –
-  PCB, QMK, Bluetooth, micro USB
+  custom PCB, QMK firmware, Bluetooth, micro USB, Adafruit Feather 32u4 Bluefruit LE
   <br/><img alt="v3 picture" src="https://github.com/nglgzz/42/blob/rev-3/42.jpg?raw=true" width="400">
 - [version 2](https://github.com/nglgzz/42/tree/rev-2) –
-  Handwired, QMK, Bluetooth, micro USB
+  handwired, QMK firmware, Bluetooth, micro USB, Adafruit Feather 32u4 Bluefruit LE
   <br/><img alt="v2 picture"  src="https://github.com/nglgzz/42/blob/rev-2/42.jpg?raw=true" width="400">
 - [version 1:](https://github.com/nglgzz/42/tree/rev-1)
-  PCB, Split, TMK firmware, USB C
+  custom PCB, Split, TMK firmware, USB C, Teensy 2.0
   <br/><img alt="v1 picture" src="https://raw.githubusercontent.com/nglgzz/42/rev-1/42.jpeg" width="400">

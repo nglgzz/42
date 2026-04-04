@@ -18,7 +18,7 @@ heat set inserts).
 
 ## Onshape project
 
-[The Onshape project can be viewed here.](https://cad.onshape.com/documents/cb8004757ac706cd9c775f57/v/fec0d55d4a8dead62aa5ec49/e/c6679b585992e23092c8d566?renderMode=0&uiState=69d0fe57e7d753b0f5cca13d)
+[The Onshape project can be viewed here.](https://cad.onshape.com/documents/cb8004757ac706cd9c775f57/v/824a674918c94d4b9e8f52ce/e/c6679b585992e23092c8d566?renderMode=0&uiState=69d10da6ed65adab6f9d1476)
 Through this link you can also export the various parts in different formats and
 "fork" the project to make changes to it.
 
