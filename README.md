@@ -13,7 +13,9 @@ A mechanical keyboard with 42 keys.
 
 ## Pics
 
-- Finished keyboard [pic coming soon]
+- Finished keyboard
+  <br/><img alt="42 keyboard v3.2 picture" src="./42.jpg" width="600">
+  <br/><img alt="42 keyboard v3.2 picture" src="./42-2.jpg" width="600">
 - PCB
   <br/><img alt="v3.1 PCB picture" src="./42-pcb.png" width="600">
 
