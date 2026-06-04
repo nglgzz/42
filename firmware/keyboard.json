@@ -8,26 +8,25 @@
     "device_version": "0.0.3"
   },
 
-  "processor": "atmega32u4",
-  "bootloader": "atmel-dfu",
-  "pin_compatible": "promicro",
+  "development_board": "liatris",
 
   "matrix_pins": {
     "cols": [
-      "D1",
-      "D0",
-      "D4",
-      "C6",
-      "D7",
-      "E6",
-      "B3",
-      "B1",
-      "F7",
-      "F6",
-      "F5",
-      "F4"
+      "GP29",
+      "GP28",
+      "GP27",
+      "GP26",
+      "GP22",
+      "GP20",
+
+      "GP7",
+      "GP6",
+      "GP5",
+      "GP4",
+      "GP3",
+      "GP2"
     ],
-    "rows": ["B4", "B5", "B2", "B6"]
+    "rows": ["GP23", "GP21", "GP8", "GP9"]
   },
   "diode_direction": "COL2ROW",
 
